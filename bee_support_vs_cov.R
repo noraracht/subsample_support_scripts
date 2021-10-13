@@ -16,7 +16,7 @@ brewer.pal(n = 8, name = "Dark2")
 my_colors <- RColorBrewer::brewer.pal(8, "Dark2")
 
 my_colors2 <- RColorBrewer::brewer.pal(8, "Paired")
-my_colors3 <- RColorBrewer::brewer.pal(8, "RdBu")
+my_colors3  = c(brewer.pal(9, "RdBu")[c(1,2, 3, 7, 9)])
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 getwd()
@@ -79,7 +79,7 @@ ggplot(aes(x=log10(as.numeric(V1)), y=as.numeric(V2)/100), data=t)+
   #            fullrange = FALSE, level = 0.95,) +
   theme_classic()+
   labs(y= "Support", x = "Log(branch length)")+
-  scale_color_manual(name="", values = c(my_colors[1], my_colors [2], my_colors[3], my_colors[4] ), 
+  scale_color_manual(name="", values = c(my_colors[1], my_colors[3], my_colors[4], my_colors[5] ), 
                      labels=c("Bee", "Whale","Lice", "Drosophila"))+
   theme(legend.position = c(.85,.15), 
         legend.margin=margin(t = 0.0, unit='cm') )+
