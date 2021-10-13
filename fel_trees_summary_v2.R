@@ -276,8 +276,9 @@ ts$ratio = ts$long/ts$short
 tail(ts)
 
 #data=subset(ts, ratio < 400), 
-
-f4 <-ggplot(aes(x=as.numeric(ratio), y=as.numeric(value)/100, color=variable, group=variable), data=ts)+
+#labels = scales::number_format(accuracy = 1.0,
+#                               decimal.mark = ','),
+f4 <-ggplot(aes(x=log10(as.numeric(ratio)), y=as.numeric(value)/100, color=variable, group=variable), data=ts)+
   #geom_point(alpha=0.2)+
   #stat_summary_bin(fun = "mean", geom="point", bins=100, alpha=0.2) +
   stat_summary_bin(fun.data = "mean_sdl", fun.args = list(mult = 1), geom="pointrange", alpha=0.5, bins=20)+
@@ -285,13 +286,12 @@ f4 <-ggplot(aes(x=as.numeric(ratio), y=as.numeric(value)/100, color=variable, gr
   #stat_density2d()+
   #stat_ellipse(geom="polygon", aes(fill = variable), alpha = 0.2,show.legend = FALSE, level = 0.8)+
   #geom_smooth(se=F, fullrange = FALSE, level = 0.95,linetype=1)+
-  scale_x_continuous(trans='log', labels = scales::number_format(accuracy = 1.0,
-                                                                 decimal.mark = ','),)+
+  #scale_x_continuous()+
   scale_y_continuous(labels=percent, limits=c(NA, 1.05), breaks=c(0.4, 0.6, 0.8, 1))+
   #geom_smooth(method=lm,linetype=2,colour="black",se=F, size=0.4,formula=y~x, 
   #            fullrange = FALSE, level = 0.95,) +
   theme_classic()+
-  labs(y= "Support", x = "Log(long/short) branch length")+
+  labs(y= "Support", x = "Log(long/short branch length)")+
   scale_color_manual(name="", values = c(my_colors[2], my_colors [1], my_colors[8] ), 
                      labels=c("Consensus", "Mean/main","Bin median"))+
   theme(legend.position = c(.13,.10), 
