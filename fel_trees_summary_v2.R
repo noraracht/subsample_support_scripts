@@ -50,7 +50,7 @@ f2 <-ggplot(aes(x=V1/100,color=correction,linetype=correct),data=r)+stat_ecdf()+
   scale_x_continuous(name="Support",labels=percent)+
   scale_y_continuous(name="ECDF")+
   scale_color_manual(name="", values = c(my_colors[2], my_colors [1], my_colors[8] ), 
-                     labels=c("Consensus", "Mean/main","Bin median"))+
+                     labels=c("Consensus", "Main","Bin median"))+
   scale_linetype_manual(name="", values = c(1, 2), 
                      labels=c("Incorrect", "Correct"))+
   theme(legend.position = c(.88,.20), 
@@ -113,17 +113,21 @@ d
 f1 <-ggplot(aes(x=bootstrap,y=ratio/100, color = correction, group=correction, linetype = correction ), 
        data=d)+
   #geom_line(linetype = "dashed", color = "black", data=d[d$correction %in% c("Median")])+
-  geom_point()+
+  geom_point(
+    aes(size=(`FALSE`+`TRUE`)),data=d[d$correction!="median",],alpha=0.5
+    )+
   geom_line(show.legend = F)+
   theme_classic()+
   scale_y_continuous(labels=percent)+
   scale_linetype_manual(values=c(1,1,3)) +
   #scale_linetype_manual(values=c("dashed","dotted","dashed"))+
   #scale_color_brewer(palette = "Dark2", name="",labels=c("Mean_main","Consensus", "Bin median"))+
-  scale_color_manual(name="", values = c(my_colors[1], my_colors [2] , my_colors[8] ), 
-                     labels=c("Mean/main","Consensus", "Bin median"))+
-  theme(legend.position = c(.86,.15), 
+  scale_color_manual(name="Method", values = c(my_colors[1], my_colors [2] , my_colors[8] ), 
+                     labels=c("Main", "Consensus", "Ideal support"))+
+  theme(legend.position = c(.72,.25),
+        legend.box = "horizontal",
       legend.margin=margin(t = 0.0, unit='cm'))+
+  scale_size_binned_area(name="# trees",max_size = 4)+
   labs(y= "Correct / (Correct+Incorrect)", x = "Support bin")
   #geom_line(aes(y=(`TRUE`+`FALSE`)/nrow(d)),color="red")
   #geom_line(aes(y=(`FALSE`)/nrow(d)),color="blue")
@@ -184,7 +188,7 @@ f3 <-ggplot(aes(x=FP/(FP+TN),y=TP/(TP+FN),color=correction),data=cm)+
   geom_point(data=cm[cm$ths %% 10==0,], )+
   geom_text_repel(aes(label=ths),data=cm[cm$ths %% 10==0,], nudge_x = -0.015,nudge_y = 0.01, show.legend = F )+
   scale_color_manual(name="", values = c(my_colors[2], my_colors [1], my_colors[8] ), 
-                     labels=c("Consensus", "Mean/main","Bin median"))+
+                     labels=c("Consensus", "Main","Bin median"))+
   theme(legend.position = c(.86,.10), 
         legend.margin=margin(t = 0.0, unit='cm') )+
   guides(colour = guide_legend(title = NULL, order = 1, reverse=TRUE, ))
@@ -291,9 +295,9 @@ f4 <-ggplot(aes(x=log10(as.numeric(ratio)), y=as.numeric(value)/100, color=varia
   #geom_smooth(method=lm,linetype=2,colour="black",se=F, size=0.4,formula=y~x, 
   #            fullrange = FALSE, level = 0.95,) +
   theme_classic()+
-  labs(y= "Support", x = "Log(long/short branch length)")+
+  labs(y= "Support", x = expression(Log[10](long/short~branch~length)))+
   scale_color_manual(name="", values = c(my_colors[2], my_colors [1], my_colors[8] ), 
-                     labels=c("Consensus", "Mean/main","Bin median"))+
+                     labels=c("Consensus", "Main","Bin median"))+
   theme(legend.position = c(.13,.10), 
         legend.margin=margin(t = 0.0, unit='cm') )+
   guides(colour = guide_legend(title = NULL, order = 1, reverse=TRUE, ))
@@ -309,7 +313,7 @@ fbot <- ggarrange(f3, f4, labels = c("C", "D"), widths=c(0.5, 0.5), ncol = 2, nr
 arrange <-ggarrange(ftop, NULL, fbot, labels = c(NA, NA, NA), ncol = 1, heights=c(1, 0.05, 1), nrow = 3)
 arrange
 
-ggsave("fel_four_plots.pdf", width=10.0,height = 8.0, arrange)
+ggsave("fel_four_plots_v2.pdf", width=10.0,height = 8.0, arrange)
 
 
 
