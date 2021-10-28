@@ -86,7 +86,7 @@ d <- read.csv("combined_all_dist_removed_outliers_threeD_16x.csv",sep=",",h=T)
 
 
 b1 = subset(d, d['condition']=="subsample_no_strap" | d['condition']=="subsample_uncor")
-b = subset(b1, b1['exp_coverage']>0.06)
+b = subset(b1, b1['exp_coverage']>0.26)
 head(b)
 d=b
 #b=d
@@ -128,7 +128,7 @@ ggplot(aes(
   labs(y= "Distance", x = "Subsample coverage")+
   scale_color_manual(name="", values = c("#ca0020", "#0571b0"), 
                      labels = c("Corrected", "Uncorrected"))+
-  geom_vline(xintercept=4.5, linetype="dashed", 
+  geom_vline(xintercept=3.5, linetype="dashed", 
              color = "grey", size=0.4)+
   #theme(legend.text=element_text(size=10), legend.title=element_text(size=10))+
   #theme(legend.position = c(0.5, -0.1), legend.direction="horizontal")+
