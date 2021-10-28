@@ -71,7 +71,7 @@ myplt <- ggplot(aes(
   #theme(legend.text=element_text(size=10), legend.title=element_text(size=10))+
   #theme(legend.position = c(0.5, -0.1), legend.direction="horizontal")+
   #theme(legend.position = 'bottom', legend.direction="horizontal")
-  theme(legend.position = c(.92,.10), 
+  theme(legend.position = c(.92,.11), 
       legend.margin=margin(t = -0.5, unit='cm'))
   #coord_cartesian(ylim=c(0.239,0.271))+
   myplt
