@@ -107,7 +107,7 @@ bp<-ggplot(aes(x=as.factor(true_dist), y=Variance, color=condition, group = cond
                     labels = c("Simulated", "Corrected", "Uncorrected"))+
   #facet_wrap(facets = vars(true_dist), ncol = 8)+
   #geom_hline(yintercept=1.0, color='red', linetype="dashed", size = 0.4)+
-  labs(y= "Log(variance of distance)", x = "True distance")+
+  labs(y= expression(Log[10](variance~of~distance)), x = "True distance")+
   theme(legend.position = c(.83,.20), 
         legend.margin=margin(t = 0.0, unit='cm') )
   #theme(axis.text.x = element_text(angle = 45, vjust = 1.0, hjust=1.0))+
@@ -119,7 +119,7 @@ bp<-ggplot(aes(x=as.factor(true_dist), y=Variance, color=condition, group = cond
   #geom_boxplot(aes(y=sqrt(prct_reads)*(dist-mean)+me),color="red")
   ggsave("cherry_var.pdf", width=4,height = 3.5, bp)
 
-
+bp
 
 
 p1 <- ggarrange(dp, bp, labels = c("A", "B"), widths=c(0.5, 0.5), ncol = 2, nrow = 1)

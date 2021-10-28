@@ -42,14 +42,18 @@ my_palette = c(brewer.pal(9, "RdBu")[c(1,2, 3, 7, 9)])
 
 
 
-
+d$bb=as.factor(round(d$b,3))
+levels(d$bb)=list("4/5"=0.8,"6/7"=0.857,"9/10*"=9/10,"13/14"=0.929,"20/21"=0.952)
 #plit by color but all conditions together
-myplt <- ggplot(aes(x=as.factor(sprintf("%0.2f", round(exp_coverage, digits = 2))),y=dist, groupy(exp_coverage), color=condition),
+myplt <- ggplot(aes(
+  x=reorder(paste(bb,sprintf("%0.2f", round(exp_coverage, digits = 2)),sep="\n"),b),
+              y=dist, groupy(exp_coverage), color=condition),
        data=d[d$condition %in% c("subsample_no_strap","subsample_uncor"),])+
   #geom_point()+
   #stat_summary(geom="point",fun.y = mean)+
   #geom_boxplot(aes(factor(exp_coverage), dist))+
   geom_boxplot()+
+  #stat_summary(fun.y=mean, geom="point", shape=20, size=5, color="black", fill="black") +
   #geom_violin()+
   #stat_summary(geom="pointrange", aes(group=condition), position=position_dodge(.9),
   #             fun.data = mean_sdl, colour='black', fun.args = list(mult = 1), size = 0.1)+
@@ -92,12 +96,20 @@ my_palette = c(brewer.pal(9, "RdBu")[c(1,2, 3, 7, 9)])
 #values=my_palette
 
 
-
-
+d$bb
+d$bb=as.factor(round(d$b,3))
+levels(d$bb)=list("3/4"=0.75, "4/5"=0.8,"6/7"=0.857,"9/10*"=9/10,"13/14"=0.929,"20/21"=0.952)
 
 #plit by color but all conditions together
-ggplot(aes(x=as.factor(sprintf("%0.2f", round(exp_coverage, digits = 2))),y=dist, groupy(exp_coverage), color=condition),
-       data=d[d$condition %in% c("subsample_no_strap","subsample_uncor"),])+
+ggplot(aes(
+  x=reorder(paste(bb,sprintf("%0.2f", round(exp_coverage, digits = 2)),sep="\n"),b),
+  y=dist, groupy(exp_coverage), color=condition),
+  data=d[d$condition %in% c("subsample_no_strap","subsample_uncor"),])+
+
+#ggplot(aes(x=as.factor(sprintf("%0.2f", round(exp_coverage, digits = 2))),y=dist, groupy(exp_coverage), color=condition),
+#       data=d[d$condition %in% c("subsample_no_strap","subsample_uncor"),])+
+  
+  
   #geom_point()+
   #stat_summary(geom="point",fun.y = mean)+
   #geom_boxplot(aes(factor(exp_coverage), dist))+
@@ -120,7 +132,7 @@ ggplot(aes(x=as.factor(sprintf("%0.2f", round(exp_coverage, digits = 2))),y=dist
              color = "grey", size=0.4)+
   #theme(legend.text=element_text(size=10), legend.title=element_text(size=10))+
   #theme(legend.position = c(0.5, -0.1), legend.direction="horizontal")+
-  theme(legend.position = 'bottom', legend.direction="horizontal")+
+  theme(legend.position = 'bottom', legend.direction="horizontal")
   #coord_cartesian(ylim=c(0.239,0.271))
   #ggsave("cherry_var_subsample_all_2x.pdf", width=7.0,height = 4)
   ggsave("cherry_var_subsample_all_16x.pdf", width=8.0,height = 3.5)
