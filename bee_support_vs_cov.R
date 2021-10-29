@@ -55,10 +55,12 @@ ggsave("bee_support_vs_coverage.pdf",width=5,height = 4)
 # branch length vs support on real data
 
 t1=read.csv('dist_bees.txt',sep=",",h=F, skip = 1)
-t2=read.csv('dist_whales.txt',sep=",",h=F, skip = 1)
+t2=read.csv('dist_whales_100r.txt',sep=",",h=F, skip = 1)
 t3=read.csv('dist_lice.txt',sep=",",h=F, skip = 1)
 t4=read.csv('dist_dros.txt',sep=",",h=F, skip = 1)
 t5=read.csv('dist_dros_200.txt',sep=",",h=F, skip = 1)
+
+#t6=read.csv('dist_whales.txt',sep=",",h=F, skip = 1)
 
 t <- rbind(t1, t2, t3, t5)
 
@@ -78,10 +80,10 @@ ggplot(aes(x=log10(as.numeric(V1)), y=as.numeric(V2)/100), data=t)+
   #geom_smooth(method=lm,linetype=2,colour="black",se=F, size=0.4,formula=y~x, 
   #            fullrange = FALSE, level = 0.95,) +
   theme_classic()+
-  labs(y= "Support", x = "Log(branch length)")+
-  scale_color_manual(name="", values = c(my_colors[1], my_colors[3], my_colors[4], my_colors[5] ), 
+  labs(y= "Support", x = expression(Log[10](branch~length)))+
+  scale_color_manual(name="", values = c(my_colors[1], my_colors[2], my_colors[3], my_colors[4] ), 
                      labels=c("Bee", "Whale","Lice", "Drosophila"))+
-  theme(legend.position = c(.85,.15), 
+  theme(legend.position = c(.85,.16), 
         legend.margin=margin(t = 0.0, unit='cm') )+
   guides(colour = guide_legend(title = NULL, order = 1, reverse=FALSE, ))
 
