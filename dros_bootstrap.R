@@ -116,6 +116,123 @@ ggsave("resample.pdf", width=6.5,height = 3.5, dp)
 
 
 
+
+
+
+###### combined corrected, uncorrected and bootstrap
+d3<- read.csv("_summary.csv",sep=",",h=T)
+d3
+names(d3)[names(d3) == 'sample_2'] <- 'variable'
+names(d3)[names(d3) == 'uncorrected_dist'] <- 'value_x'
+names(d3)[names(d3) == 'no_strapped_dist'] <- 'value_y'
+d3$test = "subsample_raw"
+d3$est_true = d3$value_x/d3$value_y
+
+
+
+
+
+
+common_cols <- intersect(colnames(d), colnames(d3))
+d_all<-rbind(
+  subset(d, select = common_cols), 
+  subset(d3, select = common_cols)
+)
+d_all
+
+d
+d_all=d_all[d_all$variable %in% c("ucseq_ucseq_merged_SRR6425991_2"),]
+
+d_all=d_all[!d_all$sample %in% c("ucseq_ucseq_merged_SRR6425991_2"),]
+
+
+
+d_all
+#d$bb=as.factor(round(d$b,3))
+
+levels(d_all$sample)
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6425989_2"] <- "Drosophila bipectinata"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6425990_2"] <- "Drosophila erecta"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6425991_2"] <- "Drosophila ananassae"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6425992_2"] <- "Drosophila biarmipes"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6425993_2"] <- "Drosophila mauritiana"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6425995_2"] <- "Drosophila eugracilis"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6425997_2"] <- "Drosophila mojavensis"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6425998_2"] <- "Drosophila persimilis"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6425999_2"] <- "Drosophila simulans"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6426000_2"] <- "Drosophila virilis"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6426001_2"] <- "Drosophila pseudoobscura"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6426002_2"] <- "Drosophila sechellia"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6426003_2"] <- "Drosophila willistoni"
+levels(d_all$sample)[levels(d_all$sample)=="ucseq_ucseq_merged_SRR6426004_2"] <- "Drosophila yakuba"
+
+
+
+
+#levels(d$sample)=list("3/4"=0.75, "4/5"=0.8,"6/7"=0.857,"9/10*"=9/10,"13/14"=0.929,"20/21"=0.952)
+
+
+
+head(d_all)
+#d$exp_coverage = round(d$exp_coverage, digits = 2) 
+
+#b1 = subset(d, d['condition']!="subsample_main_main" & d['condition']!="subsample_mean_mean")
+#b = subset(b1, b1['exp_coverage']>0.06)
+#head(b1)
+#b=d
+
+library(RColorBrewer)
+my_palette = c(brewer.pal(9, "RdBu")[c(1,2, 3, 7, 9)])
+my_colors <- RColorBrewer::brewer.pal(8, "Dark2")
+values=my_palette
+
+#groupy(true_dist, condition)
+
+head(d_all)
+
+theme_grey()$plot.margin
+
+dp<-ggplot(aes(x=sample,y=est_true, color=test), data=d_all)+
+  #geom_point(alpha=0.5)+
+  #stat_summary(fun.data = "mean_sdl", fun.args = list(mult = 1), geom="pointrange", alpha=0.5)+
+  stat_summary(aes(group=test),fun = mean, fun.min = min, fun.max = max, geom="pointrange", alpha=0.5)+
+  #stat_summary(fun = mean, fun.min = min, fun.max = max, colour = test, size = 2) +
+  #stat_summary(geom="pointrange", aes(group=condition), position=position_dodge(.9),
+  #             fun.data = mean_sdl, colour='black', fun.args = list(mult = 1))+
+  
+  #geom_boxplot(aes(factor(exp_coverage), dist))+
+  #theme_bw()+
+  theme_classic()+
+  geom_hline(yintercept=1.0, linetype="dashed", 
+             color = "grey", size=0.4)+
+  
+  #facet_wrap(facets = vars(true_dist), ncol = 5)+
+  #geom_hline(yintercept=1.0, color='grey', linetype="dashed", size = 0.4)+
+  labs(y= "Estimated/expected distance", x = NA)+
+  theme(axis.text.x = element_text(angle = 45, vjust = 1.0, hjust=1.0, face='italic'), 
+        axis.title.x=element_blank(),)+
+  scale_color_manual(name="", values = c(my_colors[4], my_colors[5], my_colors[3]), 
+                     labels = c("Resampling", "Subsampling corrected ","Subsampling uncorrected"))+
+  #theme(axis.text.x = element_text(angle = 45))+
+  #scale_color_manual(name="", values = c("#ca0020", "#0571b0"), )+
+  #theme(legend.text=element_text(size=10), legend.title=element_text(size=10))+
+  #theme(legend.position = c(0.5, -0.1), legend.direction="horizontal")+
+  #theme(legend.position = 'bottom', legend.direction="horizontal")+
+  theme(legend.position = c(.84,.92),
+        legend.margin=margin(t = 0.0, unit='cm'), legend.direction="vertical" )+
+  theme(plot.margin=unit(c(5.5,5.5,5.5,20.0),"pt"))
+#scale_y_continuous(limits = c(0.965, NA))+
+#theme(legend.position = "none")
+#geom_boxplot(aes(y=sqrt(prct_reads)*(dist-mean)+me),color="red")
+dp
+ggsave("resample_all.pdf", width=6.5,height = 3.5, dp)
+
+
+write.table(d_all, "combined_all_three.csv",row.names = FALSE, sep=',')
+
+##############################################################################
+##############################################################################
+
 ###### raw resample distances with raw subsample distances
 d1<- read.csv("_summary.csv",sep=",",h=T)
 d1
@@ -227,6 +344,9 @@ ggsave("resample_raw.pdf", width=6.5,height = 3.5, dp)
 
 
 
+
+
+##############################################################################
 ##############################################################################
 
 
