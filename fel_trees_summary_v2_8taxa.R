@@ -44,7 +44,7 @@ d2$correction = "mean_main"
 ###################################### Fig2 ######################################
 r=rbind(d1,d2)
 r$correction <- factor(r$correction, levels=c("cons", "mean_main"))
-r
+r = r[r$V2=="unif_0.00001" | r$V2=="unif_0.00001_CONS",]
 
 r$correct=!grepl("0.0",r$V6)
 head(r)
@@ -122,7 +122,7 @@ f5<-ggplot(aes(x=bootstrap,y=ratio/100, color = correction, group=correction, li
        data=d[d$V2=="unif_0.00001" | d$V2=="unif_0.00001_CONS",])+
   #geom_line(linetype = "dashed", color = "black", data=d[d$correction %in% c("Median")])+
   geom_point(
-    aes(size=(`FALSE`+`TRUE`)),alpha=0.5
+    aes(size=(`FALSE`+`TRUE`)),data=d[d$correction!="median" & (d$V2=="unif_0.00001" | d$V2=="unif_0.00001_CONS"),],alpha=0.5
     )+
   geom_line(show.legend = F)+
   theme_classic()+
@@ -243,33 +243,26 @@ ggsave("fel_four_plots_v2.pdf", width=10.0,height = 8.0, arrange)
 ######## Histograms for supplement
 
 
-hist(bs$short)
-hist(bs$long)
 
 
-h1 <-ggplot(data=ts, aes(short)) + 
+b2=read.csv('original_branch_length_bal.csv',sep="\t",h=F)
+b1=read.csv('original_branch_length_cat.csv',sep="\t",h=F)
+b=rbind(b1,b2)
+
+hist(b2$V3)
+hist(b1$V3)
+
+
+h3 <-ggplot(data=b, aes(log10(V3))) + 
   geom_histogram(bins=100, color=my_colors[8], fill="white")+
   theme_classic()+
-  labs(x=expression("Short branch length"), y="Frequency")+
+  labs(x=expression(Log[10](branch~length)), y="Frequency")+
   scale_color_grey()+
-  geom_vline(aes(xintercept=mean(short)),
+  geom_vline(aes(xintercept=mean(log10(V3))),
           color="red", linetype="dashed", size=0.4)
-ggsave("hist_short_len.pdf",width=5,height = 4)
+h3
+ggsave("hist_branch_len_8taxa.pdf",width=5,height = 4)
 
-
-h2 <-ggplot(data=ts, aes(long)) + 
-  geom_histogram(bins=100, color=my_colors[8], fill="white")+
-  theme_classic()+labs(x=expression("Long branch length"), y="Frequency")+
-  scale_color_grey()+
-  geom_vline(aes(xintercept=mean(long)),
-            color="red", linetype="dashed", size=0.4)
-h2
-ggsave("hist_long_len.pdf",width=5,height = 4)
-
-ch <- ggarrange(h1, h2, labels = c("A", "B"), widths=c(0.5, 0.5), ncol = 2, nrow = 1)
-ch
-
-ggsave("fel_hist_plots.pdf", width=10.0,height = 4.0, ch)
 
 
 
