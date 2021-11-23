@@ -20,11 +20,18 @@ This repository contains raw data and output reports we used for the study.
     - [unbalanced (caterpillar) topologies]()
 
 * Real data analysis (upload in progress):
-    - [Whale assemblies]()
-    - [Whale sequencing data]()
-    - [Bee assemblies]()
-    - [Bee sequencing data]()
-    - [Drosophila assemblies]()
-    - [Drosophila sequencing data]()
-    - [Lice sequencing data]()
+    * Whale:
+        - [Assemblies]()
+        - [Sequencing data]()
+    * Bee:
+        - [Assemblies]()
+        - [1x Sequencing data]()
+        - [2x Sequencing data]()
+        - [4x Sequencing data]()
+        - [8x Sequencing data]()
+    * Drosophila:
+        - [Assemblies]()
+        - [Sequencing data]()
+    * Lice:
+        - [Sequencing data]()
     
