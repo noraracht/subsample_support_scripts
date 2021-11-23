@@ -33,8 +33,8 @@ This repository contains raw data and output reports we used for the study.
     * Drosophila:
         - [Assemblies](https://tera-trees.com/data/consult/v1.0.0/assembledGenomes.tar.gz)
         - [Sequencing data](https://tera-trees.com/data/consult/v1.0.0/consult_gtdb_p3c1.tar.gz)
-    * Lice (upload in progress):
-        - [Sequencing data]()
+    * Lice:
+        - [Sequencing data](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
         
 * Resample experiment:
     - [Drosophila sequencing data](https://tera-trees.com/data/consult/v1.0.0/resample_reads.tar.gz)
