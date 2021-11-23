@@ -19,19 +19,19 @@ This repository contains raw data and output reports we used for the study.
     - [balanced topologies](https://tera-trees.com/data/consult/v1.0.0/balanced_unif_0.00001.tar.gz)
     - [unbalanced (caterpillar) topologies](https://tera-trees.com/data/consult/v1.0.0/caterpillar_unif_0.00001.tar.gz)
 
-* Real data analysis (upload in progress):
+* Real data analysis:
     * Whale:
-        - [Assemblies]()
-        - [Sequencing data]()
-    * Bee:
+        - [Assemblies](https://tera-trees.com/data/consult/v1.0.0/whales_asm.tar.gz)
+        - [Sequencing data](https://tera-trees.com/data/consult/v1.0.0/whales_new_analysis.tar.gz)
+    * Bee (upload in progress):
         - [Assemblies]()
         - [1x sequencing data]()
         - [2x sequencing data]()
         - [4x sequencing data]()
         - [8x sequencing data]()
-    * Drosophila:
+    * Drosophila (upload in progress):
         - [Assemblies]()
         - [Sequencing data]()
-    * Lice:
+    * Lice (upload in progress):
         - [Sequencing data]()
     
