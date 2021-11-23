@@ -25,10 +25,10 @@ This repository contains raw data and output reports we used for the study.
         - [Sequencing data]()
     * Bee:
         - [Assemblies]()
-        - [1x Sequencing data]()
-        - [2x Sequencing data]()
-        - [4x Sequencing data]()
-        - [8x Sequencing data]()
+        - [1x sequencing data]()
+        - [2x sequencing data]()
+        - [4x sequencing data]()
+        - [8x sequencing data]()
     * Drosophila:
         - [Assemblies]()
         - [Sequencing data]()
