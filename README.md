@@ -24,12 +24,12 @@ This repository contains raw data and output reports we used for the study.
     * Whale:
         - [Assemblies](https://tera-trees.com/data/consult/v1.0.0/whales_asm.tar.gz)
         - [Sequencing data](https://tera-trees.com/data/consult/v1.0.0/whales_new_analysis.tar.gz)
-    * Bee (upload in progress):
-        - [Assemblies]()
-        - [1x sequencing data]()
-        - [2x sequencing data]()
-        - [4x sequencing data]()
-        - [8x sequencing data]()
+    * Bee:
+        - [Assemblies](https://tera-trees.com/data/consult/v1.0.0/asm.tar.gz)
+        - [1x sequencing data](https://tera-trees.com/data/consult/v1.0.0/1xArt_from_asm_subsample_reads_9t10_finalver.tar.gz)
+        - [2x sequencing data](https://tera-trees.com/data/consult/v1.0.0/2xArt_from_asm_subsample_reads_9t10.tar.gz)
+        - [4x sequencing data](https://tera-trees.com/data/consult/v1.0.0/4xArt_from_asm_subsample_reads_9t10.tar.gz)
+        - [8x sequencing data](https://tera-trees.com/data/consult/v1.0.0/8xArt_from_asm_subsample_reads_9t10.tar.gz)
     * Drosophila (upload in progress):
         - [Assemblies]()
         - [Sequencing data]()
