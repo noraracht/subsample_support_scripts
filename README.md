@@ -1,4 +1,4 @@
-# Access to the data used for testing subsample support
+# Access to the data used for becnhmarking subsample support
 
 This repository contains raw data and output reports we used for the study.
 
