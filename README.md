@@ -20,7 +20,7 @@ This repository contains raw data and output reports we used for the study.
     - [balanced topologies](https://tera-trees.com/data/consult/v1.0.0/balanced_unif_0.00001.tar.gz)
     - [unbalanced (caterpillar) topologies](https://tera-trees.com/data/consult/v1.0.0/caterpillar_unif_0.00001.tar.gz)
 
-* Real data analysis:
+* Real data phylogenetic analysis:
     * Whale:
         - [Assemblies](https://tera-trees.com/data/consult/v1.0.0/whales_asm.tar.gz)
         - [Sequencing data](https://tera-trees.com/data/consult/v1.0.0/whales_new_analysis.tar.gz)
@@ -30,11 +30,14 @@ This repository contains raw data and output reports we used for the study.
         - [2x sequencing data](https://tera-trees.com/data/consult/v1.0.0/2xArt_from_asm_subsample_reads_9t10.tar.gz)
         - [4x sequencing data](https://tera-trees.com/data/consult/v1.0.0/4xArt_from_asm_subsample_reads_9t10.tar.gz)
         - [8x sequencing data](https://tera-trees.com/data/consult/v1.0.0/8xArt_from_asm_subsample_reads_9t10.tar.gz)
-    * Drosophila (upload in progress):
-        - [Assemblies]()
-        - [Sequencing data]()
+    * Drosophila:
+        - [Assemblies](https://tera-trees.com/data/consult/v1.0.0/assembledGenomes.tar.gz)
+        - [Sequencing data](https://tera-trees.com/data/consult/v1.0.0/consult_gtdb_p3c1.tar.gz)
     * Lice (upload in progress):
         - [Sequencing data]()
+        
+* Resample experiment:
+    - [Drosophila sequencing data](https://tera-trees.com/data/consult/v1.0.0/resample_reads.tar.gz)
 
 
 
