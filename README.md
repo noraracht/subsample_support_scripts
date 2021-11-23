@@ -15,7 +15,7 @@ This repository contains raw data and output reports we used for the study.
     - [501-1000 replicates]()
     
 
-* Eight taxa simulations (upload in progress):
+* Eight taxa simulations:
     - [balanced topologies](https://tera-trees.com/data/consult/v1.0.0/balanced_unif_0.00001.tar.gz)
     - [unbalanced (caterpillar) topologies](https://tera-trees.com/data/consult/v1.0.0/caterpillar_unif_0.00001.tar.gz)
 
