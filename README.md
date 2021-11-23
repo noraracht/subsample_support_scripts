@@ -18,4 +18,13 @@ This repository contains raw data and output reports we used for the study.
 * Eight taxa simulations:
     - [balanced topologies]()
     - [unbalanced (caterpillar) topologies]()
+
+* Real data analysis:
+    - [Whale assemblies]()
+    - [Whale sequencing data]()
+    - [Bee assemblies]()
+    - [Bee sequencing data]()
+    - [Drosophila assemblies]()
+    - [Drosophila sequencing data]()
+    - [Lice sequencing data]()
     
