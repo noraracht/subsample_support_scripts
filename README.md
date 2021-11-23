@@ -39,7 +39,7 @@ This repository contains raw data and output reports we used for the study.
 
 
 
-## Summary scripts
+## Summary data
 
 <!--This section contains summary data tables and scripts we used to processes them.--!>
 
