@@ -6,9 +6,9 @@ This repository contains raw data and output reports we used for the study.
     - [d=0.01](https://tera-trees.com/data/consult/v1.0.0/d0.01_100sims.tar.gz)
     - [d=0.02](https://tera-trees.com/data/consult/v1.0.0/d0.02_100sims.tar.gz)
     - [d=0.05](https://tera-trees.com/data/consult/v1.0.0/d0.05_100sims.tar.gz)
-    - [d=0.10]()
-    - [d=0.15]()
-    - [d=0.25]()
+    - [d=0.10](https://tera-trees.com/data/consult/v1.0.0/d0.10_100sims.tar.gz)
+    - [d=0.15](https://tera-trees.com/data/consult/v1.0.0/d0.15_100sims.tar.gz)
+    - [d=0.25](https://tera-trees.com/data/consult/v1.0.0/d0.25_100sims.tar.gz)
     
 * Felsenstein-zone quartet trees simulations :
     - [1-500 replicates]()
