@@ -24,6 +24,7 @@ getwd()
 
 d=read.csv('bee_support_vs_cov.csv',sep=",",h=T)
 
+
 head(d)
 ggplot(aes(x=as.factor(coverage), y=support/100, group=branch, color=as.factor(sp), linetype=as.factor(cluster),), data=d[d$coverage!=0,])+
   #geom_bar(position="dodge", stat="identity")+
@@ -45,10 +46,38 @@ ggplot(aes(x=as.factor(coverage), y=support/100, group=branch, color=as.factor(s
         legend.margin=margin(t = -0.5, unit='cm') )+
   guides(colour = guide_legend(title = NULL, order = 1, reverse=TRUE, ), 
          linetype = guide_legend(title = NULL, order = 2, reverse=FALSE,))
-  
-
 
 ggsave("bee_support_vs_coverage.pdf",width=5,height = 4)
+
+
+
+#consensus
+
+d=read.csv('bee_support_vs_cov2.csv',sep=",",h=T)
+ggplot(aes(x=as.factor(coverage), y=support/100, group=branch, color=as.factor(sp), linetype=as.factor(cluster),), data=d[d$coverage!=0,])+
+  #geom_bar(position="dodge", stat="identity")+
+  geom_point()+
+  geom_line()+
+  geom_text_repel(aes(label=ifelse(support!=100, support, "")),
+                  force = 10, nudge_x = -0.01,nudge_y = 0.004, show.legend = F )+
+  #geom_text_repel(aes(label=support),hjust=0, vjust=0)+
+  scale_x_discrete(name="Coverage")+
+  scale_y_continuous(name="Support" , labels=percent)+
+  theme_classic()+
+  theme(legend.text.align = 0)+
+  #scale_fill_grey()+
+  scale_linetype_manual(name="", values = c(1, 2), 
+                        labels=c((expression(italic("B. haemor.")~"clade")), expression(italic("B. brev.")~"clade") ))+
+  scale_colour_manual(name="", values = c( my_colors[1], my_colors[2]), 
+                      labels=c("Parent", "Child"))+
+  theme(legend.position = c(.86,.14), 
+        legend.margin=margin(t = -0.5, unit='cm') )+
+  guides(colour = guide_legend(title = NULL, order = 1, reverse=TRUE, ), 
+         linetype = guide_legend(title = NULL, order = 2, reverse=FALSE,))
+
+
+ggsave("bee_support_vs_coverage_cons.pdf",width=5,height = 4)
+
 
 
 
