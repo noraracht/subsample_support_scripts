@@ -70,7 +70,7 @@ This repository contains raw data and output reports we used for the study.
 
 * Resampling
    <!--- Scirpt to generate theoretical model in Fig. 1b. and Fig. S1.-->
-   - [workflow_v1.pptx](https://github.com/noraracht/subsample_support_scripts/blob/main/workflow_v1.pptx) is the sketch of the general subsample workflow displayed on Fig. 1b.
+    - [dros_bootstrap.R](https://github.com/noraracht/subsample_support_scripts/blob/main/dros_bootstrap.R) combines data from [combined_resample_all_dist.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_resample_all_dist.csv) that includes distance estimates for resampled Drosophila samples and [combined_subsample_all_dist.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_subsample_all_dist.csv) containing distances for subsampled Drosophila samples. The script generates violin plot on Fig. 1b.
    
 
 * Workflow diagrams
