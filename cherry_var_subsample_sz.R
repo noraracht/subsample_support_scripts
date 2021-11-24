@@ -3,7 +3,7 @@ require(ggplot2); require(scales); require(reshape2);
 require(dplyr)
 #require(Hmisc)
 library("readxl")
-
+library(ggpubr)
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 getwd()
 
@@ -31,6 +31,8 @@ tail(d)
 
 b1 = subset(d, d['condition']=="subsample_no_strap" | d['condition']=="subsample_uncor")
 b = subset(b1, b1['exp_coverage']>0.06)
+
+
 head(b)
 d=b
 #b=d
@@ -79,6 +81,63 @@ myplt <- ggplot(aes(
   #ggsave("cherry_var_subsample_all_16x.pdf", width=8.0,height = 4)
 
 
+# Three plot supplement
+############## 2x  plot with mean_mean_correction ##############
+d <- read.csv("combined_all_dist_removed_outliers_threeD.csv",sep=",",h=T)
+b1 = subset(d, d['condition']=="subsample_mean_mean" | d['condition']=="subsample_uncor")
+b = subset(b1, b1['exp_coverage']>0.06)
+  
+  
+  head(b)
+  d=b
+  #b=d
+  
+  library(RColorBrewer)
+  my_palette = c(brewer.pal(9, "RdBu")[c(1,2, 3, 7, 9)])
+  #values=my_palette
+  
+  
+  
+  
+  d$bb=as.factor(round(d$b,3))
+  levels(d$bb)=list("4/5"=0.8,"6/7"=0.857,"9/10*"=9/10,"13/14"=0.929,"20/21"=0.952)
+  #plit by color but all conditions together
+  
+  myplt2 <- ggplot(aes(
+    x=reorder(paste(bb,sprintf("%0.2f", round(exp_coverage, digits = 2)),sep="\n"),b),
+    y=dist, groupy(exp_coverage), color=condition),
+    data=d[d$condition %in% c("subsample_mean_mean","subsample_uncor"),])+
+    #geom_point()+
+    #stat_summary(geom="point",fun.y = mean)+
+    #geom_boxplot(aes(factor(exp_coverage), dist))+
+    geom_boxplot()+
+    #stat_summary(fun.y=mean, geom="point", shape=20, size=5, color="black", fill="black") +
+    #geom_violin()+
+    #stat_summary(geom="pointrange", aes(group=condition), position=position_dodge(.9),
+    #             fun.data = mean_sdl, colour='black', fun.args = list(mult = 1), size = 0.1)+
+    
+    #geom_boxplot(aes(y=sqrt(en(exp_coverage)/en(2))*(dist-mean)+main),color="black",
+    #             data=d[d$condition %in% c("subsample_uncor"),])+
+    #theme_bw()+
+    theme_classic()+
+    #facet_wrap(facets = vars(condition))+
+    facet_wrap(~true_dist, scales = "free")+
+    #geom_hline(yintercept=0.05, color='black', linetype="dashed", size = 0.4)+
+    labs(y= "Distance", x = "Subsample coverage")+
+    scale_color_manual(name="", values = c("#ca0020", "#0571b0"), 
+                       labels = c("Corrected", "Uncorrected"))+
+    #theme(legend.text=element_text(size=10), legend.title=element_text(size=10))+
+    #theme(legend.position = c(0.5, -0.1), legend.direction="horizontal")+
+    theme(legend.position = 'bottom', legend.direction="horizontal")
+    #theme(legend.position = c(.92,.11), legend.margin=margin(t = -0.5, unit='cm'))
+    #theme(legend.position = "none")
+  
+  #coord_cartesian(ylim=c(0.239,0.271))+
+  myplt2
+  ggsave("cherry_var_subsample_all_2x_mean_mean.pdf", width=8.0,height = 3.5, myplt2)
+  #ggsave("cherry_var_subsample_all_16x.pdf", width=8.0,height = 4)
+  
+  
 
 
 # 16x plot
@@ -87,6 +146,7 @@ d <- read.csv("combined_all_dist_removed_outliers_threeD_16x.csv",sep=",",h=T)
 
 b1 = subset(d, d['condition']=="subsample_no_strap" | d['condition']=="subsample_uncor")
 b = subset(b1, b1['exp_coverage']>0.26)
+
 head(b)
 d=b
 #b=d
@@ -101,13 +161,18 @@ d$bb=as.factor(round(d$b,3))
 levels(d$bb)=list("3/4"=0.75, "4/5"=0.8,"6/7"=0.857,"9/10*"=9/10,"13/14"=0.929,"20/21"=0.952)
 
 #plit by color but all conditions together
-ggplot(aes(
-  x=reorder(paste(bb,sprintf("%0.2f", round(exp_coverage, digits = 2)),sep="\n"),b),
-  y=dist, groupy(exp_coverage), color=condition),
-  data=d[d$condition %in% c("subsample_no_strap","subsample_uncor"),])+
+#ggplot(aes(
+#  x=reorder(paste(bb,sprintf("%0.2f", round(exp_coverage, digits = 2)),sep="\n"),b),
+#  y=dist, groupy(exp_coverage), color=condition),
+#  data=d[d$condition %in% c("subsample_mean_mean","subsample_uncor"),])+
+  
+myplt16<-ggplot(aes(
+    x=reorder(paste(bb,sprintf("%0.2f", round(exp_coverage, digits = 2)),sep="\n"),b),
+    y=dist, groupy(exp_coverage), color=condition),
+    data=d[d$condition %in% c("subsample_no_strap","subsample_uncor"),])+
 
 #ggplot(aes(x=as.factor(sprintf("%0.2f", round(exp_coverage, digits = 2))),y=dist, groupy(exp_coverage), color=condition),
-#       data=d[d$condition %in% c("subsample_no_strap","subsample_uncor"),])+
+#       data=d[d$condition %in% c("","subsample_uncor"),])+
   
   
   #geom_point()+
@@ -125,20 +190,103 @@ ggplot(aes(
   #facet_wrap(facets = vars(condition))+
   facet_wrap(~true_dist, scales = "free")+
   #geom_hline(yintercept=0.05, color='black', linetype="dashed", size = 0.4)+
-  labs(y= "Distance", x = "Subsample coverage")+
+  labs(y= "Distance", x = " ")+
   scale_color_manual(name="", values = c("#ca0020", "#0571b0"), 
                      labels = c("Corrected", "Uncorrected"))+
   geom_vline(xintercept=3.5, linetype="dashed", 
              color = "grey", size=0.4)+
   #theme(legend.text=element_text(size=10), legend.title=element_text(size=10))+
   #theme(legend.position = c(0.5, -0.1), legend.direction="horizontal")+
-  theme(legend.position = 'bottom', legend.direction="horizontal")
+  #theme(legend.position = 'bottom', legend.direction="horizontal")
+  #theme(legend.position = c(.94,.11), 
+  #    legend.margin=margin(t = -0.5, unit='cm'))
+  theme(legend.position = "none")
   #coord_cartesian(ylim=c(0.239,0.271))
+myplt16
   #ggsave("cherry_var_subsample_all_2x.pdf", width=7.0,height = 4)
   ggsave("cherry_var_subsample_all_16x.pdf", width=8.0,height = 3.5)
 
 
 
+  
+# 16x plot with mean_mean correction
+  
+  d <- read.csv("combined_all_dist_removed_outliers_threeD_16x.csv",sep=",",h=T)
+  b1 = subset(d, d['condition']=="subsample_mean_mean" | d['condition']=="subsample_uncor")
+  b = subset(b1, b1['exp_coverage']>0.26)
+  head(b)
+  
+  d=b
+  #b=d
+  
+  library(RColorBrewer)
+  my_palette = c(brewer.pal(9, "RdBu")[c(1,2, 3, 7, 9)])
+  #values=my_palette
+  
+  
+  d$bb
+  d$bb=as.factor(round(d$b,3))
+  levels(d$bb)=list("3/4"=0.75, "4/5"=0.8,"6/7"=0.857,"9/10*"=9/10,"13/14"=0.929,"20/21"=0.952)
+  
+  #plit by color but all conditions together
+myplt16_mean<-ggplot(aes(
+    x=reorder(paste(bb,sprintf("%0.2f", round(exp_coverage, digits = 2)),sep="\n"),b),
+    y=dist, groupy(exp_coverage), color=condition),
+    data=d[d$condition %in% c("subsample_mean_mean","subsample_uncor"),])+
+
+    
+    #ggplot(aes(x=as.factor(sprintf("%0.2f", round(exp_coverage, digits = 2))),y=dist, groupy(exp_coverage), color=condition),
+    #       data=d[d$condition %in% c("","subsample_uncor"),])+
+    
+    
+    #geom_point()+
+    #stat_summary(geom="point",fun.y = mean)+
+    #geom_boxplot(aes(factor(exp_coverage), dist))+
+    geom_boxplot()+
+    #geom_violin()+
+    #stat_summary(geom="pointrange", aes(group=condition), position=position_dodge(.9),
+    #             fun.data = mean_sdl, colour='black', fun.args = list(mult = 1), size = 0.1)+
+    
+    #geom_boxplot(aes(y=sqrt(en(exp_coverage)/en(2))*(dist-mean)+main),color="black",
+    #             data=d[d$condition %in% c("subsample_uncor"),])+
+    #theme_bw()+
+    theme_classic()+
+    #facet_wrap(facets = vars(condition))+
+    facet_wrap(~true_dist, scales = "free")+
+    #geom_hline(yintercept=0.05, color='black', linetype="dashed", size = 0.4)+
+    labs(y= "Distance", x = " ")+
+    scale_color_manual(name="", values = c("#ca0020", "#0571b0"), 
+                       labels = c("Corrected", "Uncorrected"))+
+    geom_vline(xintercept=3.5, linetype="dashed", 
+               color = "grey", size=0.4)+
+    #theme(legend.text=element_text(size=10), legend.title=element_text(size=10))+
+    #theme(legend.position = c(0.5, -0.1), legend.direction="horizontal")+
+    #theme(legend.position = 'bottom', legend.direction="horizontal")
+    theme(legend.position = "none")
+    #theme(legend.position = c(.94,.11), 
+    #  legend.margin=margin(t = -0.5, unit='cm'))
+  
+  
+  #coord_cartesian(ylim=c(0.239,0.271))
+myplt16_mean
+  #ggsave("cherry_var_subsample_all_2x.pdf", width=7.0,height = 4)
+  ggsave("cherry_var_subsample_all__mean_mean16x.pdf", width=8.0,height = 3.5)
+  
+  
+  
+  
+  
+  
+  arrange <- ggarrange(myplt16, myplt16_mean, myplt2, labels = c("A", "B", "C"), widths=c(1.0, 1.0), heights=c(0.8, 0.8, 0.9),ncol = 1, nrow = 3)
+  
+  #fbot <- ggarrange(f3, f4, labels = c("C", "D"), widths=c(0.5, 0.5), ncol = 2, nrow = 1)
+  #arrange <-ggarrange(ftop, NULL, fbot, labels = c(NA, NA, NA), ncol = 1, heights=c(1, 0.05, 1), nrow = 3)
+  arrange
+  
+  ggsave("three_plots_2x_16x.pdf", width=8.0,height = 9.5, arrange)
+  
+  
+############################################################################
 ############################################################################
 
 head(d)
