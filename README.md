@@ -45,10 +45,10 @@ This repository contains raw data and output reports we used for the study.
 
 
 * To facilitate comparison between our Lice phylogenies and phylogenies from original study we additionally replaced NCBI species names in our phylogenies to match species names from original study and inluding phylogenies below:
-    - [Our phylogeny obtained from main correction and relabelled](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
-    - [Our consensus phylogeny relabelled](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
-    - [Original pruned ASTRAL phylogeny with external taxa removed](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
-    - [Original full ASTRAL phylogeny](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
+    - [Our phylogeny obtained from main correction and relabelled](https://github.com/noraracht/subsample_support_scripts/blob/main/Skmertree.tre)
+    - [Our consensus phylogeny relabelled](https://github.com/noraracht/subsample_support_scripts/blob/main/cons_name_only.txt)
+    - [Original pruned ASTRAL phylogeny with external taxa removed](https://github.com/noraracht/subsample_support_scripts/blob/main/astral-pruned.tre)
+    - [Original full ASTRAL phylogeny](https://github.com/noraracht/subsample_support_scripts/blob/main/astral.tre)
 
 
 ## Summary data
