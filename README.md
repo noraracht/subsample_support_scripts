@@ -39,7 +39,7 @@ This repository contains raw data and output reports we used for the study.
     * Lice:
         - [Sequencing data](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
         
-* Resample experiment:
+* Resampling (bootstrap) experiment:
     - [Drosophila sequencing data](https://tera-trees.com/data/consult/v1.0.0/resample_reads.tar.gz)
 
 
@@ -68,7 +68,7 @@ This repository contains raw data and output reports we used for the study.
    - [bee_support_vs_cov.R](https://github.com/noraracht/subsample_support_scripts/blob/main/bee_support_vs_cov.R) takes an as input [bee_support_vs_cov.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/bee_support_vs_cov.csv), [bee_support_vs_cov2.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/bee_support_vs_cov2.csv) as well as [dist_bees.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/dist_bees.txt), [dist_whales_100r.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/dist_whales_100r.txt), [dist_lice.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/dist_lice.txt), [dist_dros_200.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/dist_dros_200.txt) that contains distance values and support information for phylogenies build from real datasets (whales, bees, lice and Drosophila). This script generates plots on Fig. S8 and S9.
  
 
-* Resampling
+* Resampling (bootstrap)
    <!--- Scirpt to generate theoretical model in Fig. 1b. and Fig. S1.-->
     - [dros_bootstrap.R](https://github.com/noraracht/subsample_support_scripts/blob/main/dros_bootstrap.R) combines data from [combined_resample_all_dist.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_resample_all_dist.csv) that includes distance estimates for resampled Drosophila samples and [combined_subsample_all_dist.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_subsample_all_dist.csv) containing distances for subsampled Drosophila samples. The script generates violin plot on Fig. 1b.
    
