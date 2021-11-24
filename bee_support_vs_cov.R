@@ -86,7 +86,7 @@ ggsave("bee_support_vs_coverage_cons.pdf",width=5,height = 4)
 t1=read.csv('dist_bees.txt',sep=",",h=F, skip = 1)
 t2=read.csv('dist_whales_100r.txt',sep=",",h=F, skip = 1)
 t3=read.csv('dist_lice.txt',sep=",",h=F, skip = 1)
-t4=read.csv('dist_dros.txt',sep=",",h=F, skip = 1)
+#t4=read.csv('dist_dros.txt',sep=",",h=F, skip = 1)
 t5=read.csv('dist_dros_200.txt',sep=",",h=F, skip = 1)
 
 #t6=read.csv('dist_whales.txt',sep=",",h=F, skip = 1)
