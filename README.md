@@ -51,7 +51,7 @@ This repository contains raw data and output reports we used for the study.
 
 
 * Cherry trees simulations
-  - [combined_all_dist_removed_outliers_threeD.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_all_dist_removed_outliers_threeD.csv) and  [combined_all_dist_removed_outliers_threeD_16x.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_all_dist_removed_outliers_threeD_16x.csv) contains distance estimates for variable subsample coverage when original sample is either at 1x or 16x correspondingly. It is an input for [cherry_var_subsample_sz.R](https://github.com/noraracht/subsample_support_scripts/blob/main/cherry_var_subsample_sz.R) to generate plots depicted in Fig. 3c and S3. 
+  - [combined_all_dist_removed_outliers_threeD.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_all_dist_removed_outliers_threeD.csv) and [combined_all_dist_removed_outliers_threeD_16x.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_all_dist_removed_outliers_threeD_16x.csv) contains distance estimates for variable subsample coverage when original sample is either at 1x or 16x correspondingly. It is an input for [cherry_var_subsample_sz.R](https://github.com/noraracht/subsample_support_scripts/blob/main/cherry_var_subsample_sz.R) to generate plots depicted in Fig. 3c and S3. 
   
    - [combined_all_dist_new.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_all_dist_new.csv) includes distance estimates at variable true distance. The table serves as an input into [cherry_var_distances.R](https://github.com/noraracht/subsample_support_scripts/blob/main/cherry_var_distances.R) to generate bar and line plots shown in Fig. 3ab. 
     
@@ -61,7 +61,7 @@ This repository contains raw data and output reports we used for the study.
 
 
 * Eight taxa simulations
-   - [8leaves.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves.txt), [8leaves_CONS.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves_CONS.txt), [original_branch_length_bal.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/original_branch_length_bal.csv) and [original_branch_length_cat.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/original_branch_length_cat.csv) contain support and branch length data for 8 taxa experiment. These files serves as an input into [fel_trees_summary_v2_8taxa.R](https://github.com/noraracht/subsample_support_scripts/blob/main/fel_trees_summary_v2_8taxa.R) to generate curves demonstrated in Fig. 4abc, S2, S6b, and S7.
+   - [8leaves.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves.txt), [8leaves_CONS.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves_CONS.txt), [original_branch_length_bal.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/original_branch_length_bal.csv) and [original_branch_length_cat.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/original_branch_length_cat.csv) contain support and branch length data for 8 taxa tree simulations. These files serves as an input into [fel_trees_summary_v2_8taxa.R](https://github.com/noraracht/subsample_support_scripts/blob/main/fel_trees_summary_v2_8taxa.R) to generate curves demonstrated in Fig. 4abc, S2, S6b, and S7.
      
 
 * Real skims
