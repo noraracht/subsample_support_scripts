@@ -199,7 +199,7 @@ ggsave("correct_v3fixed.pdf",width=5,height = 4)
 #max.overlaps=Inf
 ############################################################################
 
-fleft <- ggarrange(f1, NULL, f2, NULL, f3, labels = c("A", NA, "C", NA, "E"), heights=c(1, 0.05, 1, 0.05, 1), ncol = 1, nrow = 5)
+fleft <- ggarrange(f1, NULL, f2, NULL, f3, labels = c("A", NA, "B", NA, "C"), heights=c(1, 0.05, 1, 0.05, 1), ncol = 1, nrow = 5)
 #fbot <- ggarrange(f3, f4, labels = c("C", "D"), widths=c(0.5, 0.5), ncol = 2, nrow = 1)
 #arrange <-ggarrange(ftop, NULL, fbot, labels = c(NA, NA, NA), ncol = 1, heights=c(1, 0.05, 1), nrow = 3)
 fleft
