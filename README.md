@@ -65,11 +65,8 @@ This repository contains raw data and output reports we used for the study.
      
 
 * Phylogenetic inference on real data
-   - [script_dros_heatmap_v1.R](https://github.com/noraracht/lsh_scripts/blob/main/script_dros_heatmap_v1.R) takes an as input [dros_distances_updatedGTDB4.csv](https://github.com/noraracht/lsh_scripts/blob/main/dros_distances_updatedGTDB4.csv) that contains distance values and relative error information (ground truth, before and after filtering) for all combinations of Drosophila species and [lsh_gtdb_results_dros_queries.csv](https://github.com/noraracht/lsh_scripts/blob/main/lsh_gtdb_results_dros_queries.csv) that lists percentage of reads that have been filtered out with GTDB. This script generates plots on Fig. S8.
-   
-   - [script_dros_heatmap_arrows_v2.R](https://github.com/noraracht/lsh_scripts/blob/main/script_dros_heatmap_arrows_v2.R) takes an as input [dros_distances_updatedGTDB4.csv](https://github.com/noraracht/lsh_scripts/blob/main/dros_distances_updatedGTDB4.csv) to generate arrow plot.
-   - [combined_gorg_v1_results_custtax_lineplot.csv](https://github.com/noraracht/lsh_scripts/blob/main/combined_gorg_v1_results_custtax_lineplot.csv) contains percentages of matched reads for every GORG sample searched with default parameters against GTDB, TOL and Bac/Arch Kraken databases for Kraken and CONSULT tools. It is an input for [gorg.R](https://github.com/noraracht/lsh_scripts/blob/main/gorg.R) to generate ECDF curves on Fig. 3b.
-
+   - [bee_support_vs_cov.R](https://github.com/noraracht/subsample_support_scripts/blob/main/bee_support_vs_cov.R) takes an as input [bee_support_vs_cov.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/bee_support_vs_cov.csv), [bee_support_vs_cov2.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/bee_support_vs_cov2.csv) as well as [dist_bees.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/dist_bees.txt), [dist_whales_100r.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/dist_whales_100r.txt), [dist_lice.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/dist_lice.txt), [dist_dros_200.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/dist_dros_200.txt) that contains distance values and support information for phylogenies build from real datasets (whales, bees, lice and Drosophila). This script generates plots on Fig. S8 and S9.
+ 
 
 * Resampling
    <!--- Scirpt to generate theoretical model in Fig. 1b. and Fig. S1.-->
