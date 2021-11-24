@@ -18,8 +18,10 @@ This repository contains raw data and output reports we used for the study.
     
 
 * Eight taxa simulations:
-    - [balanced topologies](https://tera-trees.com/data/consult/v1.0.0/balanced_unif_0.00001.tar.gz)
-    - [unbalanced (caterpillar) topologies](https://tera-trees.com/data/consult/v1.0.0/caterpillar_unif_0.00001.tar.gz)
+    <!--- - [balanced topologies](https://tera-trees.com/data/consult/v1.0.0/balanced_unif_0.00001.tar.gz)--->
+    <!--- - [unbalanced (caterpillar) topologies](https://tera-trees.com/data/consult/v1.0.0/caterpillar_unif_0.00001.tar.gz)--->
+    - [balanced topologies](https://drive.google.com/file/d/1mZmYwBrYyK9mckxvWJo1dcasTQNZuuS1/view?usp=sharing)
+    - [unbalanced (caterpillar) topologies](https://drive.google.com/file/d/1gaQqiW8WFKN-pgDQQ5sjtgIsOQoXqoXl/view?usp=sharing)
 
 * Real data phylogenetic analysis:
     * Whale:
