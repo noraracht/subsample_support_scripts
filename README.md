@@ -71,6 +71,11 @@ This repository contains raw data and output reports we used for the study.
    - [combined_gorg_v1_results_custtax_lineplot.csv](https://github.com/noraracht/lsh_scripts/blob/main/combined_gorg_v1_results_custtax_lineplot.csv) contains percentages of matched reads for every GORG sample searched with default parameters against GTDB, TOL and Bac/Arch Kraken databases for Kraken and CONSULT tools. It is an input for [gorg.R](https://github.com/noraracht/lsh_scripts/blob/main/gorg.R) to generate ECDF curves on Fig. 3b.
 
 
+* Resampling
+   <!--- Scirpt to generate theoretical model in Fig. 1b. and Fig. S1.-->
+   - [workflow_v1.pptx](https://github.com/noraracht/subsample_support_scripts/blob/main/workflow_v1.pptx) is the sketch of the general subsample workflow displayed on Fig. 1b.
+   
+
 * Workflow diagrams
    <!--- Scirpt to generate theoretical model in Fig. 1b. and Fig. S1.-->
    - [workflow_v1.pptx](https://github.com/noraracht/subsample_support_scripts/blob/main/workflow_v1.pptx) is the sketch of the general subsample workflow displayed on Fig. 2a.
