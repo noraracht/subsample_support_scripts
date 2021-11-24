@@ -38,15 +38,17 @@ This repository contains raw data and output reports we used for the study.
         - [Sequencing data](https://tera-trees.com/data/consult/v1.0.0/consult_gtdb_p3c1.tar.gz)
     * Lice:
         - [Sequencing data](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
-        - [Main correction phylogeny relabelled with labells from original study](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
-        - [Consensus phylogeny](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
-        - [Original ASTRAL phylogeny](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
-        - [Original ASTRAL phylogeny with external taxa removed](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
+          
         
 * Resampling (bootstrap) experiment:
     - [Drosophila sequencing data](https://tera-trees.com/data/consult/v1.0.0/resample_reads.tar.gz)
 
 
+* To facilitate comparison between our Lice phylogenies and phylogenies from original study we additionally replaced NCBI species names in our phylogenies to match species names from original study and inluding phylogenies below:
+        - [Main correction phylogeny relabelled with names from original study](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
+        - [Consensus phylogeny relabelled with names from original study](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
+        - [Original pruned ASTRAL phylogeny with external taxa removed](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
+        - [Original full ASTRAL phylogeny](https://tera-trees.com/data/consult/v1.0.0/after_merge.tar.gz)
 
 
 ## Summary data
