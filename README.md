@@ -53,7 +53,7 @@ This repository contains raw data and output reports we used for the study.
 * Cherry trees simulations
   - [combined_all_dist_removed_outliers_threeD.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_all_dist_removed_outliers_threeD.csv) and  [combined_all_dist_removed_outliers_threeD_16x.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_all_dist_removed_outliers_threeD_16x.csv) contains distance estimates for variable subsample coverage when original sample is either at 1x or 16x correspondingly. It is an input for [cherry_var_subsample_sz.R](https://github.com/noraracht/subsample_support_scripts/blob/main/cherry_var_subsample_sz.R) to generate plots depicted in Fig. 3c and S3. 
   
-   - [tools_runtime_1030_in_paper.xlsx](https://github.com/noraracht/lsh_scripts/blob/main/tools_runtime_1030_in_paper.xlsx) includes running time and memory data for CONSULT, Kraken-II, CLARK, CLARK-S and Bowtie used for performance comparison of the tools. The table serves as an input into [tools_runtime_1014.R](https://github.com/noraracht/lsh_scripts/blob/main/tools_runtime_1014.R) to generate bar plots shown in Fig. 2b. 
+   - [combined_all_dist_new.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_all_dist_new.csv) includes distance estimates at variable true distance. The table serves as an input into [cherry_var_distances.R](https://github.com/noraracht/subsample_support_scripts/blob/main/cherry_var_distances.R) to generate bar and line plots shown in Fig. 3ab. 
     
     
 * Felsenstein-zone simulations
