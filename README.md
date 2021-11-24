@@ -57,9 +57,14 @@ This repository contains raw data and output reports we used for the study.
     
     
 * Felsenstein-zone simulations
-   - [roc_p3c0.csv](https://github.com/noraracht/lsh_scripts/blob/main/roc_p3c0.csv), [roc_p4c0.csv](https://github.com/noraracht/lsh_scripts/blob/main/roc_p4c0.csv) and [roc_p4c1.csv](https://github.com/noraracht/lsh_scripts/blob/main/roc_p4c1.csv) hold mean recall and false positive values for GORG dataset queried against  GTDB, TOL, Bac/Arch Kraken databases at variable settings. These files serves as an input into [combo_ROC.R](https://github.com/noraracht/lsh_scripts/blob/main/combo_ROC.R) to generate ROC curves demonstrated in Fig. 3a.
+   - [constensus6all.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/constensus6all.txt), [500reps_try6all](https://github.com/noraracht/subsample_support_scripts/blob/main/500reps_try6all) and [brlen_support.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/brlen_support.csv) hold support and branch length information for Felsentein tree experiment. These files serves as an input into [fel_trees_summary_v2.R](https://github.com/noraracht/subsample_support_scripts/blob/main/fel_trees_summary_v2.R) to generate curves demonstrated in Fig. 4, S1 and S6a.
+
+
+* Eight taxa simulations
+   - [constensus6all.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/constensus6all.txt), [500reps_try6all](https://github.com/noraracht/subsample_support_scripts/blob/main/500reps_try6all) and [roc_p4c1.csv](https://github.com/noraracht/lsh_scripts/blob/main/roc_p4c1.csv) hold mean recall and false positive values for GORG dataset queried against  GTDB, TOL, Bac/Arch Kraken databases at variable settings. These files serves as an input into [combo_ROC.R](https://github.com/noraracht/lsh_scripts/blob/main/combo_ROC.R) to generate ROC curves demonstrated in Fig. 3a.
      
    - [combined_gorg_v1_results_custtax_lineplot.csv](https://github.com/noraracht/lsh_scripts/blob/main/combined_gorg_v1_results_custtax_lineplot.csv) contains percentages of matched reads for every GORG sample searched with default parameters against GTDB, TOL and Bac/Arch Kraken databases for Kraken and CONSULT tools. It is an input for [gorg.R](https://github.com/noraracht/lsh_scripts/blob/main/gorg.R) to generate ECDF curves on Fig. 3b.
+   
 
 
 * Real skims
