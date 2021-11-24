@@ -46,9 +46,9 @@ r=rbind(d1,d2)
 r$correction <- factor(r$correction, levels=c("cons", "mean_main"))
 r = r[r$V2=="unif_0.00001" | r$V2=="unif_0.00001_CONS",]
 
-r$correct=!grepl("0.0",r$V6)
+r$correct=!is.na(r$V6)
 head(r)
-head(r)
+
 
 f6<-ggplot(aes(x=V5/100,color=correction,linetype=correct),data=r)+stat_ecdf()+coord_cartesian(xlim=c(0,1))+theme_classic()+
   geom_vline(xintercept = 0.75, linetype=3,color="gray50")+
@@ -69,7 +69,7 @@ ggsave("correct_v2fixed_cons.pdf",width=5,height = 4)
 
 #################################################################################
 
-quants = c(10,50,70,80,90,100)
+quants = c(10,50,70,80,90,99, 100)
 
 
 t1 = rename_with(dcast(V2+cut(V5,quants)~!is.na(V6),data=d2),function(x) {"bootstrap"}, starts_with("cut"))
@@ -144,6 +144,30 @@ f5
 ggsave("correct_v1_cons.pdf",width=5,height = 4)
 
 
+d
+ggplot(aes(x=bootstrap,y=ratio/100, color = correction, group=correction, linetype = correction ), 
+           data=d[d$V2=="unif_0.00001" | d$V2=="unif_0.00001_CONS",])+
+  #geom_line(linetype = "dashed", color = "black", data=d[d$correction %in% c("Median")])+
+  geom_point(
+    aes(size=(`FALSE`+`TRUE`)),data=d[d$correction!="median" & (d$V2=="unif_0.00001" | d$V2=="unif_0.00001_CONS"),],alpha=0.5
+  )+
+  geom_line(show.legend = F)+
+  theme_classic()+
+  scale_y_continuous(labels=percent)+
+  scale_linetype_manual(values=c(1,1,3)) +
+  #scale_linetype_manual(values=c("dashed","dotted","dashed"))+
+  #scale_color_brewer(palette = "Dark2", name="",labels=c("Mean_main","Consensus", "Bin median"))+
+  scale_color_manual(name="Method", values = c(my_colors [1], my_colors[2], my_colors[8] ), 
+                     labels=c( "Main   ", "Consensus", "Ideal support"))+
+  theme(legend.position = c(.72,.25),
+        legend.box = "horizontal",
+        legend.margin=margin(t = 0.0, unit='cm'))+
+  scale_size_binned_area(name="# branches",max_size = 4)+
+  labs(y= "Correct / (Correct+Incorrect)", x = "Support bin")
+#geom_line(aes(y=(`TRUE`+`FALSE`)/nrow(d)),color="red")
+#geom_line(aes(y=(`FALSE`)/nrow(d)),color="blue")
+
+
 
 ##################################################################################
 
@@ -157,6 +181,10 @@ m=merge(r,data.frame(ths=ths),by=c())
 m$c = as.factor(with(m,ifelse(V5<ths&correct, "FN",ifelse(V5<ths&!correct, "TN", ifelse(V5>=ths&correct, "TP", ifelse(V5>=ths&!correct, "FP",NA))))))
 cm = dcast(correction+ths~c,data=m[,c(13,15,16)])
 
+head(m)
+
+
+
 f7<-ggplot(aes(x=FP/(FP+TN),y=TP/(TP+FN),color=correction),data=cm)+
   #geom_point()+
   geom_path()+
@@ -169,15 +197,47 @@ f7<-ggplot(aes(x=FP/(FP+TN),y=TP/(TP+FN),color=correction),data=cm)+
                      labels=c("Consensus", "Main","Bin median"))+
   theme(legend.position = c(.86,.10), 
         legend.margin=margin(t = 0.0, unit='cm') )+
+  coord_cartesian(xlim = c(0,1),ylim = c(0.20,1))+
+  scale_y_continuous(breaks=c(0.25,0.5,0.75,1))+
   guides(colour = guide_legend(title = NULL, order = 1, reverse=TRUE, ))
 f7
 ggsave("correct_v3fixed_cons.pdf",width=5,height = 4)
+
+
+cm = dcast(correction+ths+V1~c,data=m[,c(1, 13,15,16)])
+head(cm)
+
+
+corr_names <- list('cons'="Consensus",'mean_main'="Main")
+corr_labeller <- function(variable,value){
+  return(corr_names[value])
+}
+
+ggplot(aes(x=FP/(FP+TN),y=TP/(TP+FN),color=V1),data=cm)+
+  #geom_point()+
+  facet_wrap(~correction, labeller=corr_labeller)+
+  geom_path()+
+  theme_classic()+
+  labs(y= "Recall", x = "FPR")+
+  geom_text_repel(aes(label=ths),data=cm[cm$ths %% 10==0,], show.legend = F )+
+  geom_point(data=cm[cm$ths %% 10==0,], )+
+  #geom_text_repel(aes(label=ths),data=cm[cm$ths %% 10==0,], nudge_x = -0.015,nudge_y = 0.01, show.legend = F )+
+  scale_color_manual(name="", values = c(my_colors[2], my_colors [1], my_colors[8] ), 
+                     labels=c("Balanced", "Unbalanced (caterpillar)","Bin median"))+
+  theme(legend.position = c(.80,.10), 
+        legend.margin=margin(t = 0.0, unit='cm') )+
+  coord_cartesian(xlim = c(0,1),ylim = c(0.20,1))+
+  scale_y_continuous(breaks=c(0.25,0.5,0.75,1))+
+  guides(colour = guide_legend(title = NULL, order = 1, reverse=TRUE, ))
+
+ggsave("ROC_8taxa_cat_balaned.pdf",width=5,height = 4)
+
 
 #max.overlaps=Inf
 ############################################################################
 
 
-fright <- ggarrange(f5, NULL, f6, NULL, f7, labels = c("B", NA, "D", NA, "F"), heights=c(1, 0.05, 1, 0.05, 1), ncol = 1, nrow = 5)
+fright <- ggarrange(f5, NULL, f6, NULL, f7, labels = c("D", NA, "E", NA, "F"), heights=c(1, 0.05, 1, 0.05, 1), ncol = 1, nrow = 5)
 #fbot <- ggarrange(f3, f4, labels = c("C", "D"), widths=c(0.5, 0.5), ncol = 2, nrow = 1)
 #arrange <-ggarrange(ftop, NULL, fbot, labels = c(NA, NA, NA), ncol = 1, heights=c(1, 0.05, 1), nrow = 3)
 fright
@@ -203,11 +263,11 @@ tail(r)
 #data=subset(ts, ratio < 400), 
 #labels = scales::number_format(accuracy = 1.0,
 #                               decimal.mark = ','),
-f8<-ggplot(aes(x=log10(as.numeric(V4)), y=as.numeric(V5)/100), data=r[r$V2=="unif_0.00001",])+
+f8<-ggplot(aes(x=log10(as.numeric(V6)), y=as.numeric(V5)/100,color=correction,linetype=V1), data=r[grepl("unif_0.00001",r$V2),])+
   #geom_point(alpha=0.2)+
   #stat_summary_bin(fun = "mean", geom="point", bins=100, alpha=0.2) +
-  stat_summary_bin(fun.data = "mean_sdl", fun.args = list(mult = 1), geom="pointrange", alpha=0.5, bins=20, color=my_colors[8])+
-  stat_summary_bin(fun = "mean", bins= 20, size=0.8, geom= "line", color=my_colors[8]) +
+  stat_summary_bin(fun.data = "mean_sdl", fun.args = list(mult = 1), geom="pointrange", alpha=0.5, bins=20)+
+  stat_summary_bin(fun = "mean", bins= 20, size=0.8, geom= "line") +
   #stat_density2d()
   #stat_ellipse(geom="polygon", aes(fill = variable), alpha = 0.2,show.legend = FALSE, level = 0.8)+
   #geom_smooth(se=F, fullrange = FALSE, level = 0.95,linetype=1)+
@@ -217,12 +277,14 @@ f8<-ggplot(aes(x=log10(as.numeric(V4)), y=as.numeric(V5)/100), data=r[r$V2=="uni
   #geom_smooth(method=lm,linetype=2,colour="black",se=F, size=0.4,formula=y~x, 
   #            fullrange = FALSE, level = 0.95,) +
   theme_classic()+
-  labs(y= "Support", x = expression(Log[10](branch~length)))
-  #scale_color_manual(name="", values = c(my_colors[2], my_colors [1], my_colors[8] ), 
-  #                   labels=c("Consensus", "Main","Bin median"))+
-  #theme(legend.position = c(.13,.10), 
-  #      legend.margin=margin(t = 0.0, unit='cm') )
-  #guides(colour = guide_legend(title = NULL, order = 1, reverse=TRUE, ))
+  labs(y= "Support", x = expression(Log[10](branch~length)))+
+  scale_color_manual(name="", values = c(my_colors[2], my_colors [1], my_colors[8] ), 
+                     labels=c("Consensus", "Main","Bin median"))+
+  scale_linetype(labels=c("Balanced","Caterpillar"))+
+  theme(legend.position = c(.13,.20), 
+        legend.margin=margin(t = 0.0, unit='cm') )+
+  guides(colour = guide_legend(title = NULL, order = 1, reverse=TRUE, ),
+         linetype=  guide_legend(title = NULL ))
 f8
   ggsave("correct_v4_3_8taxa.pdf",width=5,height = 4)
   

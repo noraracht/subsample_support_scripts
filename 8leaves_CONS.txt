@@ -1,0 +1,2400 @@
+balanced unif_0.00001_CONS tr_1 1.0 75 0.00005999  6 n4 n5 3 2
+balanced unif_0.00001_CONS tr_1 1.0 100   5 n3 n5 5 
+balanced unif_0.00001_CONS tr_1 1.0 100 0.02521971  4 n8 n5 7 8
+balanced unif_0.00001_CONS tr_1 1.0 100   3 n7 n5 9 
+balanced unif_0.00001_CONS tr_1 1.0 100 0.00109527  2 n6 n5 11 9
+balanced unif_0.00001_CONS tr_10 1.0 98 0.00002686  4 n7 n5 2 8
+balanced unif_0.00001_CONS tr_10 1.0 98 0.00009658  2 n7 n8 3 12
+balanced unif_0.00001_CONS tr_10 1.0 100 0.00111070  2 n6 n5 6 9
+balanced unif_0.00001_CONS tr_10 1.0 78   3 n1 n2 9 
+balanced unif_0.00001_CONS tr_10 1.0 74   2 n4 n2 11 
+balanced unif_0.00001_CONS tr_100 1.0 100 0.00244524  4 n7 n5 2 8
+balanced unif_0.00001_CONS tr_100 1.0 100 0.00659529  2 n7 n8 3 12
+balanced unif_0.00001_CONS tr_100 1.0 100 0.00091050  2 n6 n5 6 9
+balanced unif_0.00001_CONS tr_100 1.0 53   3 n4 n1 9 
+balanced unif_0.00001_CONS tr_100 1.0 100 0.04765824  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_101 1.0 100 0.00050664  6 n4 n8 3 9
+balanced unif_0.00001_CONS tr_101 1.0 100 0.00010940  4 n4 n1 4 1
+balanced unif_0.00001_CONS tr_101 1.0 92 0.00027271  2 n4 n3 5 5
+balanced unif_0.00001_CONS tr_101 1.0 100 0.06851432  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_101 1.0 56 0.00002184  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_102 1.0 100 0.00097437  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_102 1.0 100 0.00112700  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_102 1.0 100 0.05340723  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_102 1.0 100 0.01194834  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_102 1.0 99 0.00011835  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_103 1.0 100 0.00006907  4 n6 n8 2 8
+balanced unif_0.00001_CONS tr_103 1.0 67   3 n5 n8 4 
+balanced unif_0.00001_CONS tr_103 1.0 100 0.00560642  2 n7 n8 6 12
+balanced unif_0.00001_CONS tr_103 1.0 92   3 n4 n1 9 
+balanced unif_0.00001_CONS tr_103 1.0 100 0.00152318  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_104 1.0 98 0.00009262  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_104 1.0 100 0.00212404  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_104 1.0 100 0.00016192  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_104 1.0 100 0.01206279  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_104 1.0 78 0.00002909  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_105 1.0 85 0.00001651  6 n5 n3 3 2
+balanced unif_0.00001_CONS tr_105 1.0 100 0.00001805  4 n5 n8 4 8
+balanced unif_0.00001_CONS tr_105 1.0 100   3 n6 n8 6 
+balanced unif_0.00001_CONS tr_105 1.0 100 0.00667914  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_105 1.0 100 0.00517551  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_106 1.0 77   5 n6 n1 2 
+balanced unif_0.00001_CONS tr_106 1.0 100 0.01474441  4 n4 n1 4 1
+balanced unif_0.00001_CONS tr_106 1.0 100 0.00190130  2 n4 n3 5 5
+balanced unif_0.00001_CONS tr_106 1.0 100 0.02166498  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_106 1.0 100 0.00120504  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_107 1.0 100 0.00001547  6 n8 n3 3 9
+balanced unif_0.00001_CONS tr_107 1.0 50   5 n7 n3 5 
+balanced unif_0.00001_CONS tr_107 1.0 100 0.04465639  4 n2 n3 7 1
+balanced unif_0.00001_CONS tr_107 1.0 97 0.00001140  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_107 1.0 100 0.01411730  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_108 1.0 51   5 n4 n5 2 
+balanced unif_0.00001_CONS tr_108 1.0 100 0.00224459  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_108 1.0 100 0.00125860  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_108 1.0 100 0.00024689  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_108 1.0 100 0.00093543  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_109 1.0 98   5 n5 n1 2 
+balanced unif_0.00001_CONS tr_109 1.0 100 0.11760139  4 n3 n1 4 1
+balanced unif_0.00001_CONS tr_109 1.0 100   3 n4 n1 6 
+balanced unif_0.00001_CONS tr_109 1.0 100 0.00483762  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_109 1.0 96 0.00002029  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_11 1.0 100 0.00025423  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_11 1.0 100 0.00038696  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_11 1.0 100 0.00737149  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_11 1.0 100 0.00194325  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_11 1.0 73 0.00003881  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_110 1.0 90 0.00034415  6 n6 n1 3 5
+balanced unif_0.00001_CONS tr_110 1.0 100 0.06926396  4 n6 n8 4 8
+balanced unif_0.00001_CONS tr_110 1.0 90 0.00018037  2 n6 n5 5 9
+balanced unif_0.00001_CONS tr_110 1.0 100 0.00065627  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_110 1.0 100 0.03598772  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_111 1.0 100 0.00067826  6 n4 n8 3 9
+balanced unif_0.00001_CONS tr_111 1.0 100 0.00110781  4 n4 n1 4 1
+balanced unif_0.00001_CONS tr_111 1.0 100 0.00153191  2 n4 n3 5 5
+balanced unif_0.00001_CONS tr_111 1.0 100 0.00031804  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_111 1.0 100 0.00021535  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_112 1.0 100 0.01938903  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_112 1.0 79 0.00002456  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_112 1.0 37 0.00001509  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_112 1.0 100 0.00044836  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_112 1.0 65 0.00007459  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_113 1.0 100 0.00010539  4 n7 n5 2 8
+balanced unif_0.00001_CONS tr_113 1.0 100 0.00719711  2 n7 n8 3 12
+balanced unif_0.00001_CONS tr_113 1.0 100 0.01400897  2 n6 n5 6 9
+balanced unif_0.00001_CONS tr_113 1.0 99   3 n2 n3 9 
+balanced unif_0.00001_CONS tr_113 1.0 100 0.00059380  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_114 1.0 100 0.00007908  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_114 1.0 100 0.00013030  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_114 1.0 100 0.01078816  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_114 1.0 100 0.00037169  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_114 1.0 100 0.03224729  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_115 1.0 40 0.00003164  6 n4 n5 3 2
+balanced unif_0.00001_CONS tr_115 1.0 92   4 n4 n8 4 
+balanced unif_0.00001_CONS tr_115 1.0 76   3 n3 n8 6 
+balanced unif_0.00001_CONS tr_115 1.0 100 0.11844182  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_115 1.0 96 0.00008603  2 n6 n5 11 9
+balanced unif_0.00001_CONS tr_116 1.0 100 0.00080269  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_116 1.0 100 0.02778611  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_116 1.0 100 0.00810580  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_116 1.0 100 0.03679539  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_116 1.0 52 0.00070761  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_117 1.0 99 0.00012360  6 n8 n3 3 9
+balanced unif_0.00001_CONS tr_117 1.0 52   5 n7 n3 5 
+balanced unif_0.00001_CONS tr_117 1.0 100 0.00008753  4 n2 n3 7 1
+balanced unif_0.00001_CONS tr_117 1.0 100 0.03045238  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_117 1.0 100 0.00078933  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_118 1.0 100 0.00086366  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_118 1.0 100 0.00849933  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_118 1.0 100 0.01281772  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_118 1.0 100 0.07059365  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_118 1.0 100 0.00048680  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_119 1.0 100 0.05127698  6 n6 n1 3 5
+balanced unif_0.00001_CONS tr_119 1.0 100 0.00009360  4 n6 n8 4 8
+balanced unif_0.00001_CONS tr_119 1.0 92 0.00012858  2 n6 n5 5 9
+balanced unif_0.00001_CONS tr_119 1.0 100 0.00527357  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_119 1.0 100 0.02357613  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_12 1.0 100 0.04016604  6 n1 n8 3 5
+balanced unif_0.00001_CONS tr_12 1.0 73   5 n2 n8 5 
+balanced unif_0.00001_CONS tr_12 1.0 60   3 n2 n5 6 
+balanced unif_0.00001_CONS tr_12 1.0 100 0.00014384  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_12 1.0 63 0.00013253  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_120 1.0 100 0.00062000  6 n7 n3 3 9
+balanced unif_0.00001_CONS tr_120 1.0 100   5 n8 n3 5 
+balanced unif_0.00001_CONS tr_120 1.0 100 0.07448149  4 n2 n3 7 1
+balanced unif_0.00001_CONS tr_120 1.0 100 0.00066472  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_120 1.0 100 0.01254560  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_13 1.0 100 0.00687038  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_13 1.0 100 0.02442356  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_13 1.0 100 0.02013836  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_13 1.0 100 0.00287263  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_13 1.0 100 0.04729489  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_14 1.0 53 0.00001827  6 n8 n3 3 2
+balanced unif_0.00001_CONS tr_14 1.0 100 0.00886372  4 n8 n5 4 8
+balanced unif_0.00001_CONS tr_14 1.0 100   3 n7 n5 6 
+balanced unif_0.00001_CONS tr_14 1.0 100 0.00493815  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_14 1.0 100 0.00111006  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_15 1.0 100 0.00524775  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_15 1.0 96 0.00019428  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_15 1.0 100 0.08893176  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_15 1.0 100 0.00477100  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_15 1.0 99 0.00042336  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_16 1.0 100 0.00041468  6 n8 n1 3 5
+balanced unif_0.00001_CONS tr_16 1.0 100 0.00235103  4 n8 n5 4 8
+balanced unif_0.00001_CONS tr_16 1.0 99   3 n7 n5 6 
+balanced unif_0.00001_CONS tr_16 1.0 100 0.04033585  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_16 1.0 100 0.00098696  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_17 1.0 100 0.00235850  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_17 1.0 100 0.00643282  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_17 1.0 100 0.00026690  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_17 1.0 100 0.01377803  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_17 1.0 54 0.00005290  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_18 1.0 53 0.00001324  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_18 1.0 100 0.00155601  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_18 1.0 80 0.00087815  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_18 1.0 100 0.07399510  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_18 1.0 100 0.00054858  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_19 1.0 100 0.00005463  6 n8 n5 3 5
+balanced unif_0.00001_CONS tr_19 1.0 88   5 n7 n5 5 
+balanced unif_0.00001_CONS tr_19 1.0 85   4 n2 n5 7 
+balanced unif_0.00001_CONS tr_19 1.0 100 0.11770302  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_19 1.0 100 0.06797686  2 n6 n5 11 9
+balanced unif_0.00001_CONS tr_2 1.0 99   5 n6 n1 2 
+balanced unif_0.00001_CONS tr_2 1.0 90   3 n6 n8 3 
+balanced unif_0.00001_CONS tr_2 1.0 100 0.00212568  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_2 1.0 96 0.00006216  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_2 1.0 100 0.00134565  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_20 1.0 100 0.00308124  4 n7 n5 2 8
+balanced unif_0.00001_CONS tr_20 1.0 100 0.00154176  2 n7 n8 3 12
+balanced unif_0.00001_CONS tr_20 1.0 100 0.00264171  2 n6 n5 6 9
+balanced unif_0.00001_CONS tr_20 1.0 40   3 n4 n1 9 
+balanced unif_0.00001_CONS tr_20 1.0 100 0.00072441  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_21 1.0 100 0.00045599  6 n6 n3 3 2
+balanced unif_0.00001_CONS tr_21 1.0 100 0.00408504  4 n6 n8 4 8
+balanced unif_0.00001_CONS tr_21 1.0 45 0.00004525  2 n6 n5 5 9
+balanced unif_0.00001_CONS tr_21 1.0 100 0.00099645  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_21 1.0 100 0.00032948  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_22 1.0 97 0.00006553  4 n6 n8 2 8
+balanced unif_0.00001_CONS tr_22 1.0 92 0.00008736  2 n6 n5 3 9
+balanced unif_0.00001_CONS tr_22 1.0 100 0.00181282  2 n7 n8 6 12
+balanced unif_0.00001_CONS tr_22 1.0 81   3 n3 n1 9 
+balanced unif_0.00001_CONS tr_22 1.0 100   2 n4 n1 11 
+balanced unif_0.00001_CONS tr_23 1.0 100 0.01381093  6 n5 n1 3 5
+balanced unif_0.00001_CONS tr_23 1.0 100 0.02050327  4 n5 n8 4 8
+balanced unif_0.00001_CONS tr_23 1.0 70   3 n6 n8 6 
+balanced unif_0.00001_CONS tr_23 1.0 99 0.00010414  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_23 1.0 100 0.01751367  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_24 1.0 100 0.00017128  4 n2 n3 2 1
+balanced unif_0.00001_CONS tr_24 1.0 100 0.04026644  2 n2 n1 3 2
+balanced unif_0.00001_CONS tr_24 1.0 100 0.00010425  2 n4 n3 6 5
+balanced unif_0.00001_CONS tr_24 1.0 45   3 n8 n5 9 
+balanced unif_0.00001_CONS tr_24 1.0 96   2 n7 n5 11 
+balanced unif_0.00001_CONS tr_25 1.0 76 0.00011283  6 n8 n3 3 9
+balanced unif_0.00001_CONS tr_25 1.0 100   5 n7 n3 5 
+balanced unif_0.00001_CONS tr_25 1.0 100 0.00020695  4 n2 n3 7 1
+balanced unif_0.00001_CONS tr_25 1.0 100 0.07319734  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_25 1.0 100 0.04589533  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_26 1.0 100 0.00023090  6 n4 n5 3 2
+balanced unif_0.00001_CONS tr_26 1.0 99   5 n3 n5 5 
+balanced unif_0.00001_CONS tr_26 1.0 100 0.00004788  4 n7 n5 7 8
+balanced unif_0.00001_CONS tr_26 1.0 100 0.00001879  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_26 1.0 100 0.01886167  2 n6 n5 11 9
+balanced unif_0.00001_CONS tr_27 1.0 100 0.01492794  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_27 1.0 100 0.00021984  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_27 1.0 100 0.04342976  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_27 1.0 100 0.11277728  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_27 1.0 100 0.00005992  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_28 1.0 100 0.00382068  6 n4 n8 3 9
+balanced unif_0.00001_CONS tr_28 1.0 100 0.01024551  4 n4 n1 4 1
+balanced unif_0.00001_CONS tr_28 1.0 100 0.00952107  2 n4 n3 5 5
+balanced unif_0.00001_CONS tr_28 1.0 100 0.08512475  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_28 1.0 100 0.00431039  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_29 1.0 83 0.00007623  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_29 1.0 100 0.00004272  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_29 1.0 100 0.02857868  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_29 1.0 100 0.00083077  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_29 1.0 75 0.00002940  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_3 1.0 100 0.00845209  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_3 1.0 100 0.00001071  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_3 1.0 100 0.02811468  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_3 1.0 100 0.00029672  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_3 1.0 100 0.03358145  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_30 1.0 100 0.00027344  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_30 1.0 100 0.00030666  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_30 1.0 100 0.01520717  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_30 1.0 100 0.00723496  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_30 1.0 100 0.00379970  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_31 1.0 100 0.02950048  6 n4 n8 3 9
+balanced unif_0.00001_CONS tr_31 1.0 100 0.00039023  4 n4 n1 4 1
+balanced unif_0.00001_CONS tr_31 1.0 100 0.00366150  2 n4 n3 5 5
+balanced unif_0.00001_CONS tr_31 1.0 100 0.02373006  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_31 1.0 100 0.00044322  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_32 1.0 100 0.08345377  6 n4 n8 3 9
+balanced unif_0.00001_CONS tr_32 1.0 100 0.00003769  4 n4 n1 4 1
+balanced unif_0.00001_CONS tr_32 1.0 100 0.00290152  2 n4 n3 5 5
+balanced unif_0.00001_CONS tr_32 1.0 100 0.00603351  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_32 1.0 95 0.00014264  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_33 1.0 100 0.01296685  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_33 1.0 100 0.08101990  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_33 1.0 100 0.00053581  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_33 1.0 100 0.05629329  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_33 1.0 100 0.00234825  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_34 1.0 100 0.00018863  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_34 1.0 100 0.00066040  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_34 1.0 100 0.00120018  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_34 1.0 100 0.04381747  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_34 1.0 100 0.00133018  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_35 1.0 100 0.10934160  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_35 1.0 100 0.00088153  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_35 1.0 55 0.00008644  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_35 1.0 99 0.00030982  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_35 1.0 100 0.03875718  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_36 1.0 100 0.02294179  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_36 1.0 100 0.00176665  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_36 1.0 100 0.00659325  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_36 1.0 100 0.03290703  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_36 1.0 100 0.00090264  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_37 1.0 100 0.00003956  4 n7 n5 2 8
+balanced unif_0.00001_CONS tr_37 1.0 99 0.00007502  2 n7 n8 3 12
+balanced unif_0.00001_CONS tr_37 1.0 100 0.01956393  2 n6 n5 6 9
+balanced unif_0.00001_CONS tr_37 1.0 100   3 n2 n3 9 
+balanced unif_0.00001_CONS tr_37 1.0 100 0.00254915  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_38 1.0 100 0.00249323  6 n4 n8 3 9
+balanced unif_0.00001_CONS tr_38 1.0 100 0.00176524  4 n4 n1 4 1
+balanced unif_0.00001_CONS tr_38 1.0 100 0.00036488  2 n4 n3 5 5
+balanced unif_0.00001_CONS tr_38 1.0 100 0.01062670  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_38 1.0 73 0.00003535  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_39 1.0 100   5 n2 n5 2 
+balanced unif_0.00001_CONS tr_39 1.0 100 0.11799751  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_39 1.0 100 0.01156872  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_39 1.0 100 0.03685582  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_39 1.0 96   2 n4 n1 11 
+balanced unif_0.00001_CONS tr_4 1.0 97   6 n7 n1 3 
+balanced unif_0.00001_CONS tr_4 1.0 100 0.00051422  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_4 1.0 100 0.02931072  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_4 1.0 100 0.00001249  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_4 1.0 84   2 n4 n1 11 
+balanced unif_0.00001_CONS tr_40 1.0 100 0.00570018  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_40 1.0 100 0.00003464  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_40 1.0 100 0.03332412  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_40 1.0 100 0.00001582  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_40 1.0 100 0.00176843  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_41 1.0 73   5 n5 n1 2 
+balanced unif_0.00001_CONS tr_41 1.0 98   4 n4 n1 4 
+balanced unif_0.00001_CONS tr_41 1.0 68   3 n6 n1 6 
+balanced unif_0.00001_CONS tr_41 1.0 100 0.07204411  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_41 1.0 100 0.00078754  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_42 1.0 87 0.00009890  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_42 1.0 100 0.04720686  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_42 1.0 100 0.05651386  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_42 1.0 100 0.00085955  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_42 1.0 100 0.00240376  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_43 1.0 85 0.00005672  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_43 1.0 100 0.00006725  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_43 1.0 100 0.00014069  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_43 1.0 100 0.00214232  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_43 1.0 100 0.00162485  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_44 1.0 74 0.00014934  6 n2 n8 3 9
+balanced unif_0.00001_CONS tr_44 1.0 100 0.00003406  4 n2 n3 4 1
+balanced unif_0.00001_CONS tr_44 1.0 92 0.00005581  2 n2 n1 5 2
+balanced unif_0.00001_CONS tr_44 1.0 100 0.00278351  2 n4 n3 8 5
+balanced unif_0.00001_CONS tr_44 1.0 51 0.00007119  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_45 1.0 71 0.00025705  6 n4 n8 3 9
+balanced unif_0.00001_CONS tr_45 1.0 100 0.04813463  4 n4 n1 4 1
+balanced unif_0.00001_CONS tr_45 1.0 100 0.00057451  2 n4 n3 5 5
+balanced unif_0.00001_CONS tr_45 1.0 100 0.00663715  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_45 1.0 100 0.00337519  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_46 1.0 100 0.03874816  6 n4 n8 3 9
+balanced unif_0.00001_CONS tr_46 1.0 100 0.00020504  4 n4 n1 4 1
+balanced unif_0.00001_CONS tr_46 1.0 100 0.00783464  2 n4 n3 5 5
+balanced unif_0.00001_CONS tr_46 1.0 100 0.04135613  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_46 1.0 100 0.00013510  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_47 1.0 100 0.00380300  6 n8 n3 3 9
+balanced unif_0.00001_CONS tr_47 1.0 100   5 n7 n3 5 
+balanced unif_0.00001_CONS tr_47 1.0 100 0.01348685  4 n2 n3 7 1
+balanced unif_0.00001_CONS tr_47 1.0 100   3 n1 n3 9 
+balanced unif_0.00001_CONS tr_47 1.0 100 0.00761942  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_48 1.0 68   5 n5 n3 2 
+balanced unif_0.00001_CONS tr_48 1.0 71   4 n6 n3 4 
+balanced unif_0.00001_CONS tr_48 1.0 97   3 n2 n3 6 
+balanced unif_0.00001_CONS tr_48 1.0 100 0.00169928  2 n4 n3 8 5
+balanced unif_0.00001_CONS tr_48 1.0 100 0.08401492  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_49 1.0 100 0.11263296  6 n6 n1 3 5
+balanced unif_0.00001_CONS tr_49 1.0 100 0.01163854  4 n6 n8 4 8
+balanced unif_0.00001_CONS tr_49 1.0 59   3 n5 n8 6 
+balanced unif_0.00001_CONS tr_49 1.0 100 0.03255255  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_49 1.0 100 0.01592825  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_5 1.0 100 0.00558816  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_5 1.0 100 0.03977622  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_5 1.0 95   3 n8 n5 6 
+balanced unif_0.00001_CONS tr_5 1.0 100 0.03624185  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_5 1.0 100 0.00002170  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_50 1.0 100 0.01050866  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_50 1.0 100 0.00125652  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_50 1.0 100 0.00462949  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_50 1.0 100 0.00033741  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_50 1.0 100 0.00018852  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_51 1.0 100   5 n4 n5 2 
+balanced unif_0.00001_CONS tr_51 1.0 100 0.01641742  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_51 1.0 100 0.09189564  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_51 1.0 100 0.04182795  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_51 1.0 100 0.00528350  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_52 1.0 100 0.08086831  6 n2 n5 3 5
+balanced unif_0.00001_CONS tr_52 1.0 100   5 n1 n5 5 
+balanced unif_0.00001_CONS tr_52 1.0 100 0.00008351  4 n7 n5 7 8
+balanced unif_0.00001_CONS tr_52 1.0 84 0.00005996  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_52 1.0 94 0.00007039  2 n6 n5 11 9
+balanced unif_0.00001_CONS tr_53 1.0 85   5 n1 n5 2 
+balanced unif_0.00001_CONS tr_53 1.0 100 0.00723503  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_53 1.0 100 0.00014780  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_53 1.0 100 0.02224594  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_53 1.0 100 0.00164480  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_54 1.0 100 0.06041615  6 n8 n3 3 9
+balanced unif_0.00001_CONS tr_54 1.0 89   5 n7 n3 5 
+balanced unif_0.00001_CONS tr_54 1.0 100 0.00376016  4 n2 n3 7 1
+balanced unif_0.00001_CONS tr_54 1.0 100 0.00037587  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_54 1.0 100 0.02109857  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_55 1.0 100 0.00404451  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_55 1.0 100 0.00031264  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_55 1.0 100 0.00023857  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_55 1.0 100 0.02575509  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_55 1.0 100 0.00018686  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_56 1.0 100 0.02179110  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_56 1.0 100 0.00002845  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_56 1.0 100 0.00087559  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_56 1.0 100 0.00049250  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_56 1.0 100 0.02388143  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_57 1.0 100   5 n1 n5 2 
+balanced unif_0.00001_CONS tr_57 1.0 99   3 n1 n8 3 
+balanced unif_0.00001_CONS tr_57 1.0 100 0.09823864  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_57 1.0 100 0.01048938  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_57 1.0 89 0.00006631  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_58 1.0 100 0.06407791  4 n7 n5 2 8
+balanced unif_0.00001_CONS tr_58 1.0 100 0.08249534  2 n7 n8 3 12
+balanced unif_0.00001_CONS tr_58 1.0 100 0.00022793  2 n6 n5 6 9
+balanced unif_0.00001_CONS tr_58 1.0 57   3 n4 n1 9 
+balanced unif_0.00001_CONS tr_58 1.0 100 0.01026491  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_59 1.0 100 0.00100468  4 n7 n5 2 8
+balanced unif_0.00001_CONS tr_59 1.0 100 0.07563905  2 n7 n8 3 12
+balanced unif_0.00001_CONS tr_59 1.0 100 0.01527521  2 n6 n5 6 9
+balanced unif_0.00001_CONS tr_59 1.0 60   3 n4 n1 9 
+balanced unif_0.00001_CONS tr_59 1.0 100 0.11267020  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_6 1.0 100 0.00018759  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_6 1.0 100 0.00060567  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_6 1.0 100 0.00098330  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_6 1.0 100 0.00391140  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_6 1.0 99 0.00011506  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_60 1.0 100 0.00116452  6 n6 n3 3 2
+balanced unif_0.00001_CONS tr_60 1.0 100 0.00517586  4 n6 n8 4 8
+balanced unif_0.00001_CONS tr_60 1.0 93 0.00002757  2 n6 n5 5 9
+balanced unif_0.00001_CONS tr_60 1.0 100 0.00960325  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_60 1.0 100 0.00117210  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_61 1.0 100 0.00021320  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_61 1.0 100 0.01991242  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_61 1.0 100 0.05173773  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_61 1.0 100 0.05983620  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_61 1.0 100 0.04500281  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_62 1.0 100   5 n4 n5 2 
+balanced unif_0.00001_CONS tr_62 1.0 100 0.00026324  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_62 1.0 100   3 n8 n5 6 
+balanced unif_0.00001_CONS tr_62 1.0 100 0.00264059  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_62 1.0 100 0.00139763  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_63 1.0 100 0.00049811  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_63 1.0 100 0.00291900  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_63 1.0 100 0.00771117  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_63 1.0 100 0.05650814  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_63 1.0 100 0.00946796  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_64 1.0 58 0.00002750  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_64 1.0 76 0.00062496  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_64 1.0 72   3 n8 n5 6 
+balanced unif_0.00001_CONS tr_64 1.0 100 0.00056922  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_64 1.0 100 0.11943393  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_65 1.0 100 0.00077846  6 n4 n8 3 9
+balanced unif_0.00001_CONS tr_65 1.0 100 0.00001366  4 n4 n1 4 1
+balanced unif_0.00001_CONS tr_65 1.0 100 0.03334934  2 n4 n3 5 5
+balanced unif_0.00001_CONS tr_65 1.0 100 0.00149994  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_65 1.0 64 0.00001317  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_66 1.0 100 0.02320997  6 n6 n1 3 5
+balanced unif_0.00001_CONS tr_66 1.0 100 0.00004922  4 n6 n8 4 8
+balanced unif_0.00001_CONS tr_66 1.0 99 0.00006543  2 n6 n5 5 9
+balanced unif_0.00001_CONS tr_66 1.0 100 0.03021287  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_66 1.0 100 0.00323769  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_67 1.0 100 0.00012474  4 n7 n5 2 8
+balanced unif_0.00001_CONS tr_67 1.0 100 0.00525545  2 n7 n8 3 12
+balanced unif_0.00001_CONS tr_67 1.0 100 0.02190395  2 n6 n5 6 9
+balanced unif_0.00001_CONS tr_67 1.0 100   3 n1 n3 9 
+balanced unif_0.00001_CONS tr_67 1.0 100 0.00501184  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_68 1.0 100 0.06015664  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_68 1.0 100 0.01591521  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_68 1.0 100 0.03918461  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_68 1.0 100 0.00790103  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_68 1.0 100 0.00605895  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_69 1.0 38   4 n7 n8 2 
+balanced unif_0.00001_CONS tr_69 1.0 84   3 n4 n8 4 
+balanced unif_0.00001_CONS tr_69 1.0 95   2 n5 n8 6 
+balanced unif_0.00001_CONS tr_69 1.0 69   3 n3 n1 9 
+balanced unif_0.00001_CONS tr_69 1.0 100 0.00143333  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_7 1.0 43 0.00001219  6 n8 n1 3 9
+balanced unif_0.00001_CONS tr_7 1.0 34   5 n7 n1 5 
+balanced unif_0.00001_CONS tr_7 1.0 100 0.00021881  4 n4 n1 7 1
+balanced unif_0.00001_CONS tr_7 1.0 100 0.00015134  2 n4 n3 8 5
+balanced unif_0.00001_CONS tr_7 1.0 100 0.00088466  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_70 1.0 74 0.00004206  6 n4 n8 3 9
+balanced unif_0.00001_CONS tr_70 1.0 100 0.00576369  4 n4 n1 4 1
+balanced unif_0.00001_CONS tr_70 1.0 100 0.00043183  2 n4 n3 5 5
+balanced unif_0.00001_CONS tr_70 1.0 100 0.00301612  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_70 1.0 73 0.00003320  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_71 1.0 100 0.00330566  6 n6 n8 3 2
+balanced unif_0.00001_CONS tr_71 1.0 100   4 n6 n3 4 
+balanced unif_0.00001_CONS tr_71 1.0 100 0.06650196  2 n6 n5 5 9
+balanced unif_0.00001_CONS tr_71 1.0 100 0.02984301  2 n4 n3 8 5
+balanced unif_0.00001_CONS tr_71 1.0 100 0.00961495  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_72 1.0 53 0.00005015  6 n8 n3 3 9
+balanced unif_0.00001_CONS tr_72 1.0 100   5 n7 n3 5 
+balanced unif_0.00001_CONS tr_72 1.0 100 0.05208462  4 n2 n3 7 1
+balanced unif_0.00001_CONS tr_72 1.0 100 0.00003186  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_72 1.0 100 0.09599812  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_73 1.0 95 0.00002119  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_73 1.0 100 0.00837957  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_73 1.0 100 0.00567386  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_73 1.0 100 0.00073882  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_73 1.0 100 0.02070142  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_74 1.0 58 0.00001963  6 n6 n4 3 2
+balanced unif_0.00001_CONS tr_74 1.0 100 0.00155907  4 n6 n8 4 8
+balanced unif_0.00001_CONS tr_74 1.0 51 0.00003333  2 n6 n5 5 9
+balanced unif_0.00001_CONS tr_74 1.0 100 0.09295816  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_74 1.0 51 0.00001616  2 n3 n4 11 5
+balanced unif_0.00001_CONS tr_75 1.0 100 0.00885000  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_75 1.0 100 0.00005003  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_75 1.0 100 0.00218595  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_75 1.0 100 0.00897046  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_75 1.0 100 0.00046697  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_76 1.0 100 0.00577554  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_76 1.0 100 0.00076923  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_76 1.0 100 0.02015060  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_76 1.0 100 0.00094132  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_76 1.0 100 0.01674867  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_77 1.0 100 0.00141601  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_77 1.0 100 0.05884601  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_77 1.0 100 0.01949122  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_77 1.0 100 0.03389232  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_77 1.0 100 0.00036822  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_78 1.0 69 0.00003327  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_78 1.0 80 0.00001447  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_78 1.0 100   3 n8 n5 6 
+balanced unif_0.00001_CONS tr_78 1.0 100 0.00912363  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_78 1.0 100 0.00017288  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_79 1.0 100 0.07697712  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_79 1.0 100 0.00608441  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_79 1.0 100 0.08676657  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_79 1.0 100 0.00288249  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_79 1.0 100 0.00701631  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_8 1.0 71 0.00004078  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_8 1.0 100 0.00078974  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_8 1.0 100 0.11736648  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_8 1.0 100 0.01263775  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_8 1.0 100 0.00518868  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_80 1.0 100 0.09916141  6 n1 n5 3 5
+balanced unif_0.00001_CONS tr_80 1.0 71   5 n2 n5 5 
+balanced unif_0.00001_CONS tr_80 1.0 100 0.02734956  4 n7 n5 7 8
+balanced unif_0.00001_CONS tr_80 1.0 100 0.00020946  2 n7 n8 8 12
+balanced unif_0.00001_CONS tr_80 1.0 100 0.00024892  2 n6 n5 11 9
+balanced unif_0.00001_CONS tr_81 1.0 100 0.00098302  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_81 1.0 100 0.00041827  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_81 1.0 100 0.00039365  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_81 1.0 100 0.02109608  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_81 1.0 100 0.00838816  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_82 1.0 96 0.00029031  6 n1 n8 3 5
+balanced unif_0.00001_CONS tr_82 1.0 96   5 n2 n8 5 
+balanced unif_0.00001_CONS tr_82 1.0 100   3 n2 n5 6 
+balanced unif_0.00001_CONS tr_82 1.0 61 0.00061523  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_82 1.0 100 0.00204432  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_83 1.0 99 0.00030794  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_83 1.0 100 0.00013428  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_83 1.0 100 0.04721240  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_83 1.0 100 0.04140099  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_83 1.0 100 0.01443792  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_84 1.0 100 0.00181748  4 n7 n5 2 8
+balanced unif_0.00001_CONS tr_84 1.0 100 0.00276307  2 n7 n8 3 12
+balanced unif_0.00001_CONS tr_84 1.0 100 0.00117930  2 n6 n5 6 9
+balanced unif_0.00001_CONS tr_84 1.0 60   3 n2 n3 9 
+balanced unif_0.00001_CONS tr_84 1.0 99 0.00013409  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_85 1.0 100 0.00082850  6 n8 n3 3 2
+balanced unif_0.00001_CONS tr_85 1.0 100 0.01931530  4 n8 n5 4 8
+balanced unif_0.00001_CONS tr_85 1.0 100   3 n7 n5 6 
+balanced unif_0.00001_CONS tr_85 1.0 100 0.00318195  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_85 1.0 100 0.00227519  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_86 1.0 100 0.01044907  6 n7 n1 3 9
+balanced unif_0.00001_CONS tr_86 1.0 46   5 n8 n1 5 
+balanced unif_0.00001_CONS tr_86 1.0 100 0.00015738  4 n4 n1 7 1
+balanced unif_0.00001_CONS tr_86 1.0 100 0.00148893  2 n4 n3 8 5
+balanced unif_0.00001_CONS tr_86 1.0 100 0.01360557  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_87 1.0 58 0.00003534  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_87 1.0 88 0.00003127  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_87 1.0 100 0.09703930  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_87 1.0 100 0.01001801  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_87 1.0 99 0.00015388  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_88 1.0 90 0.00006541  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_88 1.0 100 0.00038220  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_88 1.0 100 0.05278602  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_88 1.0 100 0.01712857  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_88 1.0 88 0.00007465  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_89 1.0 100   5 n4 n5 2 
+balanced unif_0.00001_CONS tr_89 1.0 100 0.03671735  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_89 1.0 100 0.04282779  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_89 1.0 100 0.00001266  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_89 1.0 100 0.00158199  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_9 1.0 81 0.00001356  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_9 1.0 100 0.00391765  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_9 1.0 100 0.00433799  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_9 1.0 100 0.05046226  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_9 1.0 100 0.0249025797596  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_90 1.0 100 0.00515528  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_90 1.0 100 0.01344728  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_90 1.0 100 0.02856896  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_90 1.0 100 0.00091481  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_90 1.0 100 0.00220607  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_91 1.0 80 0.00008824  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_91 1.0 100 0.00172993  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_91 1.0 100 0.02690942  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_91 1.0 100 0.00172544  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_91 1.0 58 0.00001567  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_92 1.0 75   5 n3 n5 2 
+balanced unif_0.00001_CONS tr_92 1.0 96   3 n3 n8 3 
+balanced unif_0.00001_CONS tr_92 1.0 100 0.03605283  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_92 1.0 100 0.00024040  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_92 1.0 100 0.00219966  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_93 1.0 98 0.00002091  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_93 1.0 100 0.00092585  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_93 1.0 100 0.00083154  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_93 1.0 100 0.01916741  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_93 1.0 100 0.03016834  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_94 1.0 95   5 n5 n3 2 
+balanced unif_0.00001_CONS tr_94 1.0 100 0.00071417  4 n2 n3 4 1
+balanced unif_0.00001_CONS tr_94 1.0 92 0.00014115  2 n2 n1 5 2
+balanced unif_0.00001_CONS tr_94 1.0 100 0.00020619  2 n4 n3 8 5
+balanced unif_0.00001_CONS tr_94 1.0 82 0.00002423  2 n7 n8 11 12
+balanced unif_0.00001_CONS tr_95 1.0 100 0.00091897  6 n8 n3 3 9
+balanced unif_0.00001_CONS tr_95 1.0 93   5 n7 n3 5 
+balanced unif_0.00001_CONS tr_95 1.0 100 0.00774866  4 n2 n3 7 1
+balanced unif_0.00001_CONS tr_95 1.0 100 0.00781893  2 n2 n1 8 2
+balanced unif_0.00001_CONS tr_95 1.0 100 0.00373148  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_96 1.0 100 0.00264401  6 n7 n3 3 2
+balanced unif_0.00001_CONS tr_96 1.0 100 0.02896806  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_96 1.0 100 0.01529122  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_96 1.0 100 0.00024764  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_96 1.0 100 0.00034210  2 n4 n3 11 5
+balanced unif_0.00001_CONS tr_97 1.0 100 0.00061407  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_97 1.0 96 0.00002754  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_97 1.0 100 0.00216358  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_97 1.0 100 0.03929831  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_97 1.0 100 0.00272906  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_98 1.0 100 0.01376416  6 n7 n1 3 5
+balanced unif_0.00001_CONS tr_98 1.0 97 0.00008586  4 n7 n5 4 8
+balanced unif_0.00001_CONS tr_98 1.0 100 0.01821246  2 n7 n8 5 12
+balanced unif_0.00001_CONS tr_98 1.0 100 0.02019951  2 n6 n5 8 9
+balanced unif_0.00001_CONS tr_98 1.0 100 0.00010937  2 n2 n1 11 2
+balanced unif_0.00001_CONS tr_99 1.0 100 0.01262695  6 n7 n1 3 9
+balanced unif_0.00001_CONS tr_99 1.0 48   5 n8 n1 5 
+balanced unif_0.00001_CONS tr_99 1.0 100 0.01323081  4 n4 n1 7 1
+balanced unif_0.00001_CONS tr_99 1.0 100 0.03039866  2 n4 n3 8 5
+balanced unif_0.00001_CONS tr_99 1.0 100 0.00035703  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_1 1.0 100 0.00131668  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_1 1.0 100 0.00899348  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_1 1.0 100 0.01937924  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_1 1.0 100 0.03084254  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_1 1.0 98 0.00132713  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_10 1.0 100 0.03965509  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_10 1.0 100 0.00012408  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_10 1.0 100 0.00427583  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_10 1.0 100 0.00021950  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_10 1.0 100 0.08447041  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_100 1.0 100 0.04008290  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_100 1.0 100 0.02148816  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_100 1.0 100 0.04670077  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_100 1.0 100 0.00199814  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_100 1.0 100 0.05624662  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_101 1.0 100 0.00580052  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_101 1.0 100 0.00014749  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_101 1.0 100 0.05560321  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_101 1.0 100 0.00054621  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_101 1.0 94 0.00037043  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_102 1.0 100 0.00203970  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_102 1.0 100 0.01499995  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_102 1.0 100 0.02925981  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_102 1.0 100 0.04530058  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_102 1.0 100 0.00051058  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_103 1.0 100 0.02784983  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_103 1.0 100 0.00622193  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_103 1.0 100 0.04132577  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_103 1.0 100 0.08789809  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_103 1.0 100 0.00176252  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_104 1.0 100 0.00833490  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_104 1.0 100 0.00210406  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_104 1.0 100 0.01764834  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_104 1.0 100 0.00014212  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_104 1.0 100 0.00242123  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_105 1.0 100 0.00045653  4 n7 n5 2 8
+balanced unif_0.0001_CONS tr_105 1.0 100 0.03508995  2 n7 n8 3 12
+balanced unif_0.0001_CONS tr_105 1.0 100 0.01200115  2 n6 n5 6 9
+balanced unif_0.0001_CONS tr_105 1.0 94   3 n4 n1 9 
+balanced unif_0.0001_CONS tr_105 1.0 64 0.00085478  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_106 1.0 87 0.00014859  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_106 1.0 100 0.00174664  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_106 1.0 100 0.00063181  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_106 1.0 100 0.00188502  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_106 1.0 82 0.00013879  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_107 1.0 100 0.00168944  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_107 1.0 100 0.00186596  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_107 1.0 100 0.02290497  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_107 1.0 100 0.00173659  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_107 1.0 100 0.00011065  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_108 1.0 100 0.00052590  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_108 1.0 100 0.00027519  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_108 1.0 100 0.00569516  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_108 1.0 100 0.00028239  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_108 1.0 100 0.00777842  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_109 1.0 100 0.03164154  4 n7 n5 2 8
+balanced unif_0.0001_CONS tr_109 1.0 100 0.00355767  2 n7 n8 3 12
+balanced unif_0.0001_CONS tr_109 1.0 100 0.00022374  2 n6 n5 6 9
+balanced unif_0.0001_CONS tr_109 1.0 95   3 n3 n1 9 
+balanced unif_0.0001_CONS tr_109 1.0 100 0.01551295  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_11 1.0 100 0.00029198  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_11 1.0 100 0.06091931  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_11 1.0 100 0.03326042  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_11 1.0 100 0.06927804  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_11 1.0 93 0.00018588  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_110 1.0 100 0.06317260  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_110 1.0 100 0.00494118  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_110 1.0 100 0.01614648  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_110 1.0 100 0.00029761  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_110 1.0 100 0.01402275  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_111 1.0 94 0.00029342  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_111 1.0 100 0.01310194  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_111 1.0 82 0.00015767  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_111 1.0 100 0.02740999  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_111 1.0 100 0.00193814  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_112 1.0 100 0.00024753  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_112 1.0 100 0.00050204  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_112 1.0 100 0.01953926  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_112 1.0 100 0.04840384  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_112 1.0 100 0.00046448  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_113 1.0 100 0.00307225  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_113 1.0 100 0.00103820  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_113 1.0 100 0.02269811  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_113 1.0 100 0.11009028  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_113 1.0 100 0.01770725  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_114 1.0 100   5 n6 n1 2 
+balanced unif_0.0001_CONS tr_114 1.0 100 0.00026996  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_114 1.0 100 0.00723638  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_114 1.0 100 0.02213671  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_114 1.0 100 0.00267494  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_115 1.0 83 0.00020281  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_115 1.0 100 0.01849499  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_115 1.0 100 0.03907157  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_115 1.0 100 0.00030757  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_115 1.0 100 0.00954192  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_116 1.0 100 0.04067483  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_116 1.0 100 0.00294006  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_116 1.0 100 0.07831699  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_116 1.0 100 0.00083266  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_116 1.0 100 0.00018367  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_117 1.0 100 0.00041014  6 n6 n1 3 5
+balanced unif_0.0001_CONS tr_117 1.0 100 0.00020766  4 n6 n8 4 8
+balanced unif_0.0001_CONS tr_117 1.0 87 0.00011167  2 n6 n5 5 9
+balanced unif_0.0001_CONS tr_117 1.0 100 0.01756249  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_117 1.0 100 0.00339549  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_118 1.0 100 0.08752799  6 n6 n1 3 5
+balanced unif_0.0001_CONS tr_118 1.0 100 0.00587093  4 n6 n8 4 8
+balanced unif_0.0001_CONS tr_118 1.0 98 0.00012708  2 n6 n5 5 9
+balanced unif_0.0001_CONS tr_118 1.0 100 0.00097407  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_118 1.0 100 0.00111567  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_119 1.0 100 0.00235615  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_119 1.0 100 0.05568042  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_119 1.0 100 0.07258351  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_119 1.0 100 0.00821940  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_119 1.0 100 0.00827616  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_12 1.0 100 0.00280091  6 n6 n1 3 5
+balanced unif_0.0001_CONS tr_12 1.0 100 0.00057537  4 n6 n8 4 8
+balanced unif_0.0001_CONS tr_12 1.0 96 0.00012471  2 n6 n5 5 9
+balanced unif_0.0001_CONS tr_12 1.0 100 0.00330543  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_12 1.0 100 0.00013124  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_120 1.0 100 0.05384656  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_120 1.0 100 0.00012527  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_120 1.0 100 0.04284812  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_120 1.0 100 0.00021476  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_120 1.0 100 0.00444474  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_13 1.0 84 0.00010751  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_13 1.0 100 0.00095068  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_13 1.0 100 0.01801548  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_13 1.0 100 0.04942916  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_13 1.0 100 0.00414449  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_14 1.0 100 0.03225708  6 n6 n3 3 2
+balanced unif_0.0001_CONS tr_14 1.0 100 0.00399364  4 n6 n8 4 8
+balanced unif_0.0001_CONS tr_14 1.0 99   3 n5 n8 6 
+balanced unif_0.0001_CONS tr_14 1.0 100 0.10983967  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_14 1.0 100 0.00030774  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_15 1.0 99 0.00019923  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_15 1.0 100 0.00016899  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_15 1.0 100 0.02653115  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_15 1.0 100 0.00813060  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_15 1.0 100 0.00742995  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_16 1.0 100 0.01671896  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_16 1.0 100 0.05353124  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_16 1.0 100 0.03973889  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_16 1.0 100 0.00074293  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_16 1.0 100 0.00133909  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_17 1.0 100 0.00054490  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_17 1.0 100 0.00616454  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_17 1.0 100 0.01166532  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_17 1.0 100 0.00019655  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_17 1.0 100 0.00143892  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_18 1.0 100 0.00875290  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_18 1.0 100 0.00034674  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_18 1.0 100 0.00340693  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_18 1.0 100 0.02601298  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_18 1.0 100 0.00038848  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_19 1.0 100 0.01851289  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_19 1.0 100 0.02375624  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_19 1.0 100 0.00585636  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_19 1.0 100 0.02360048  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_19 1.0 100 0.00281525  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_2 1.0 100 0.00253806  6 n6 n3 3 2
+balanced unif_0.0001_CONS tr_2 1.0 100 0.11867496  4 n6 n8 4 8
+balanced unif_0.0001_CONS tr_2 1.0 86   3 n5 n8 6 
+balanced unif_0.0001_CONS tr_2 1.0 100 0.02982702  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_2 1.0 100 0.02512026  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_20 1.0 100 0.00057628  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_20 1.0 100 0.00393761  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_20 1.0 100 0.04824693  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_20 1.0 100 0.08453971  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_20 1.0 100 0.00097219  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_21 1.0 100 0.08757683  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_21 1.0 100 0.00093528  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_21 1.0 100 0.00203590  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_21 1.0 100 0.10334023  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_21 1.0 100 0.00244073  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_22 1.0 84 0.00077436  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_22 1.0 100 0.00367046  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_22 1.0 100 0.00059238  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_22 1.0 100 0.00642932  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_22 1.0 61 0.00010340  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_23 1.0 100 0.00897259  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_23 1.0 100 0.02721479  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_23 1.0 100 0.00349938  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_23 1.0 100 0.05015009  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_23 1.0 100 0.00390572  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_24 1.0 100 0.05505979  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_24 1.0 100 0.04069589  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_24 1.0 100 0.04635046  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_24 1.0 100 0.00553561  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_24 1.0 100 0.00014246  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_25 1.0 100 0.00943610  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_25 1.0 100 0.00187997  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_25 1.0 100 0.00559800  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_25 1.0 100 0.00320708  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_25 1.0 100 0.00329731  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_26 1.0 100 0.10226190  6 n8 n1 3 5
+balanced unif_0.0001_CONS tr_26 1.0 100 0.02216672  4 n8 n5 4 8
+balanced unif_0.0001_CONS tr_26 1.0 94   3 n7 n5 6 
+balanced unif_0.0001_CONS tr_26 1.0 100 0.00045492  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_26 1.0 100 0.00024317  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_27 1.0 100 0.00407887  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_27 1.0 100 0.03361626  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_27 1.0 100 0.03409205  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_27 1.0 100 0.11942684  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_27 1.0 100 0.00264529  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_28 1.0 100 0.01101878  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_28 1.0 100 0.10552375  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_28 1.0 100 0.01772678  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_28 1.0 100 0.01000540  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_28 1.0 100 0.00370020  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_29 1.0 100 0.00237966  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_29 1.0 100 0.00021354  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_29 1.0 100 0.11839484  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_29 1.0 100 0.01248020  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_29 1.0 100 0.00022916  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_3 1.0 100 0.00108846  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_3 1.0 100 0.00041012  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_3 1.0 100 0.01443875  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_3 1.0 100 0.00947553  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_3 1.0 100 0.00030991  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_30 1.0 100 0.00039408  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_30 1.0 100 0.02365367  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_30 1.0 100 0.00096856  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_30 1.0 100 0.00582017  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_30 1.0 100 0.00468545  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_31 1.0 100 0.01094314  6 n2 n8 3 9
+balanced unif_0.0001_CONS tr_31 1.0 100 0.09816781  4 n2 n3 4 1
+balanced unif_0.0001_CONS tr_31 1.0 100   3 n1 n3 6 
+balanced unif_0.0001_CONS tr_31 1.0 100 0.03399870  2 n4 n3 8 5
+balanced unif_0.0001_CONS tr_31 1.0 100 0.00327320  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_32 1.0 100 0.00042066  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_32 1.0 100 0.00101576  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_32 1.0 100 0.00050505  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_32 1.0 100 0.00020661  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_32 1.0 100 0.00374653  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_33 1.0 100 0.00114770  6 n6 n3 3 2
+balanced unif_0.0001_CONS tr_33 1.0 100 0.00041357  4 n6 n8 4 8
+balanced unif_0.0001_CONS tr_33 1.0 77 0.00054052  2 n6 n5 5 9
+balanced unif_0.0001_CONS tr_33 1.0 100 0.05086594  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_33 1.0 100 0.00024695  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_34 1.0 100 0.00711319  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_34 1.0 100 0.00052809  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_34 1.0 100 0.01299534  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_34 1.0 100 0.00577729  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_34 1.0 100 0.00055430  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_35 1.0 100 0.00178826  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_35 1.0 100 0.00094039  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_35 1.0 100 0.03626582  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_35 1.0 100 0.00773272  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_35 1.0 100 0.00024039  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_36 1.0 100   5 n2 n5 2 
+balanced unif_0.0001_CONS tr_36 1.0 100 0.00743049  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_36 1.0 53 0.00014554  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_36 1.0 100 0.00144600  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_36 1.0 100 0.00014962  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_37 1.0 100 0.00297886  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_37 1.0 100 0.00364819  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_37 1.0 100 0.04905659  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_37 1.0 100 0.10621878  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_37 1.0 98 0.00018592  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_38 1.0 100 0.02648212  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_38 1.0 100 0.00021843  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_38 1.0 100 0.06386194  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_38 1.0 100 0.00471561  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_38 1.0 100 0.07615897  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_39 1.0 100 0.00201739  4 n7 n5 2 8
+balanced unif_0.0001_CONS tr_39 1.0 100 0.03566654  2 n7 n8 3 12
+balanced unif_0.0001_CONS tr_39 1.0 100 0.00026360  2 n6 n5 6 9
+balanced unif_0.0001_CONS tr_39 1.0 71   3 n4 n1 9 
+balanced unif_0.0001_CONS tr_39 1.0 100 0.03866365  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_4 1.0 100 0.01018945  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_4 1.0 100 0.01135400  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_4 1.0 100 0.04457121  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_4 1.0 100 0.06821335  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_4 1.0 100 0.00202083  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_40 1.0 100 0.00405930  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_40 1.0 100 0.00156620  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_40 1.0 100 0.00045516  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_40 1.0 100 0.00034656  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_40 1.0 100 0.02141780  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_41 1.0 100 0.00487645  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_41 1.0 100 0.07613579  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_41 1.0 100 0.04075689  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_41 1.0 100 0.00892174  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_41 1.0 100 0.00253167  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_42 1.0 100 0.08300630  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_42 1.0 100 0.03085837  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_42 1.0 100 0.10623747  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_42 1.0 100 0.00238736  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_42 1.0 100 0.00034927  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_43 1.0 100 0.00076948  6 n6 n3 3 2
+balanced unif_0.0001_CONS tr_43 1.0 100 0.00019013  4 n6 n8 4 8
+balanced unif_0.0001_CONS tr_43 1.0 98   3 n5 n8 6 
+balanced unif_0.0001_CONS tr_43 1.0 100 0.00136071  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_43 1.0 100 0.00010700  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_44 1.0 100 0.05291788  6 n6 n1 3 5
+balanced unif_0.0001_CONS tr_44 1.0 100 0.00554667  4 n6 n8 4 8
+balanced unif_0.0001_CONS tr_44 1.0 99 0.00021375  2 n6 n5 5 9
+balanced unif_0.0001_CONS tr_44 1.0 100 0.00333377  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_44 1.0 100 0.00012765  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_45 1.0 100 0.03250412  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_45 1.0 100 0.00976205  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_45 1.0 100 0.00363137  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_45 1.0 100 0.10139852  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_45 1.0 100 0.00014035  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_46 1.0 100 0.00062368  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_46 1.0 100 0.04053726  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_46 1.0 100 0.01236653  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_46 1.0 100 0.00637992  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_46 1.0 100 0.02491647  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_47 1.0 79 0.00025776  6 n8 n3 3 9
+balanced unif_0.0001_CONS tr_47 1.0 79   5 n7 n3 5 
+balanced unif_0.0001_CONS tr_47 1.0 100 0.00276379  4 n2 n3 7 1
+balanced unif_0.0001_CONS tr_47 1.0 100 0.00828406  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_47 1.0 100 0.00016558  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_48 1.0 100 0.00113404  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_48 1.0 100 0.00044859  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_48 1.0 100 0.00524340  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_48 1.0 100 0.00713496  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_48 1.0 60 0.00013589  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_49 1.0 100 0.01795541  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_49 1.0 100 0.00011184  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_49 1.0 100 0.01118175  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_49 1.0 100 0.00126061  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_49 1.0 100 0.00027393  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_5 1.0 100 0.00166003  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_5 1.0 100 0.00111844  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_5 1.0 100 0.00470647  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_5 1.0 100 0.00037730  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_5 1.0 100 0.00189596  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_50 1.0 100 0.00019993  6 n8 n1 3 9
+balanced unif_0.0001_CONS tr_50 1.0 75   5 n7 n1 5 
+balanced unif_0.0001_CONS tr_50 1.0 100 0.00010493  4 n4 n1 7 1
+balanced unif_0.0001_CONS tr_50 1.0 72 0.00013655  2 n4 n3 8 5
+balanced unif_0.0001_CONS tr_50 1.0 100 0.03380340  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_51 1.0 100 0.01025551  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_51 1.0 100 0.00790614  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_51 1.0 100 0.07783993  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_51 1.0 100 0.00084352  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_51 1.0 100 0.03950772  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_52 1.0 100 0.07545920  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_52 1.0 100 0.00038482  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_52 1.0 100 0.00223977  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_52 1.0 100 0.00022798  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_52 1.0 100 0.00327002  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_53 1.0 100 0.07568801  6 n6 n1 3 5
+balanced unif_0.0001_CONS tr_53 1.0 100 0.08331063  4 n6 n8 4 8
+balanced unif_0.0001_CONS tr_53 1.0 72 0.00051735  2 n6 n5 5 9
+balanced unif_0.0001_CONS tr_53 1.0 100 0.00439606  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_53 1.0 100 0.00028208  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_54 1.0 100 0.00108706  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_54 1.0 100 0.02588298  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_54 1.0 100 0.00039834  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_54 1.0 100 0.07292401  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_54 1.0 100 0.00051990  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_55 1.0 100 0.00041553  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_55 1.0 100 0.02795874  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_55 1.0 100 0.00149458  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_55 1.0 100 0.00024913  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_55 1.0 100 0.02647122  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_56 1.0 100 0.03615419  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_56 1.0 100 0.00301823  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_56 1.0 100 0.02248804  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_56 1.0 100 0.00323295  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_56 1.0 100 0.00088050  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_57 1.0 100 0.00086020  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_57 1.0 100 0.00029768  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_57 1.0 100 0.00138246  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_57 1.0 100 0.02893032  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_57 1.0 100 0.00930726  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_58 1.0 100 0.00507818  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_58 1.0 100 0.00134455  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_58 1.0 100 0.00859606  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_58 1.0 100 0.06096921  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_58 1.0 100 0.05417731  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_59 1.0 100 0.02245081  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_59 1.0 100 0.00974378  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_59 1.0 100 0.00813072  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_59 1.0 100 0.02212940  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_59 1.0 100 0.00013029  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_6 1.0 100 0.09053118  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_6 1.0 100 0.03684931  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_6 1.0 100 0.01697615  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_6 1.0 100 0.06398063  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_6 1.0 65 0.00033039  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_60 1.0 100 0.04449467  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_60 1.0 100 0.00024595  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_60 1.0 100 0.00931557  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_60 1.0 100 0.00700505  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_60 1.0 100 0.04577316  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_61 1.0 100 0.00585396  4 n7 n5 2 8
+balanced unif_0.0001_CONS tr_61 1.0 100 0.00140794  2 n7 n8 3 12
+balanced unif_0.0001_CONS tr_61 1.0 100 0.02296633  2 n6 n5 6 9
+balanced unif_0.0001_CONS tr_61 1.0 99   3 n2 n3 9 
+balanced unif_0.0001_CONS tr_61 1.0 100 0.00121952  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_62 1.0 100 0.00116500  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_62 1.0 100 0.00089007  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_62 1.0 100 0.00171474  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_62 1.0 100 0.01717175  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_62 1.0 100 0.00017798  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_63 1.0 100 0.00359720  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_63 1.0 100 0.00328961  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_63 1.0 100 0.00130830  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_63 1.0 100 0.01282794  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_63 1.0 100 0.00045134  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_64 1.0 100 0.00820264  4 n7 n5 2 8
+balanced unif_0.0001_CONS tr_64 1.0 100 0.04834515  2 n7 n8 3 12
+balanced unif_0.0001_CONS tr_64 1.0 100 0.08493329  2 n6 n5 6 9
+balanced unif_0.0001_CONS tr_64 1.0 100   3 n1 n3 9 
+balanced unif_0.0001_CONS tr_64 1.0 100 0.00919201  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_65 1.0 100 0.00153309  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_65 1.0 100 0.00084163  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_65 1.0 100   3 n3 n1 6 
+balanced unif_0.0001_CONS tr_65 1.0 100 0.11345679  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_65 1.0 100 0.00140402  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_66 1.0 100 0.00094411  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_66 1.0 100 0.00256364  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_66 1.0 100 0.01954934  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_66 1.0 100 0.00197358  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_66 1.0 97 0.00029467  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_67 1.0 100 0.00142662  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_67 1.0 100 0.00012906  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_67 1.0 100 0.00884706  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_67 1.0 100 0.00322479  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_67 1.0 100 0.00163111  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_68 1.0 100 0.00101399  4 n4 n1 2 1
+balanced unif_0.0001_CONS tr_68 1.0 100 0.01134874  2 n4 n3 3 5
+balanced unif_0.0001_CONS tr_68 1.0 100 0.00016586  2 n2 n1 6 2
+balanced unif_0.0001_CONS tr_68 1.0 93   3 n8 n6 9 
+balanced unif_0.0001_CONS tr_68 1.0 85   2 n7 n6 11 
+balanced unif_0.0001_CONS tr_69 1.0 100 0.00243061  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_69 1.0 100 0.00016245  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_69 1.0 100 0.00049416  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_69 1.0 100 0.00353491  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_69 1.0 100 0.00074426  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_7 1.0 100 0.00421034  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_7 1.0 100 0.04934088  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_7 1.0 100 0.01400819  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_7 1.0 100 0.00115903  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_7 1.0 100 0.00323630  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_70 1.0 100 0.00307975  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_70 1.0 67   3 n7 n5 4 
+balanced unif_0.0001_CONS tr_70 1.0 100 0.00321460  2 n6 n5 6 9
+balanced unif_0.0001_CONS tr_70 1.0 99   3 n8 n3 9 
+balanced unif_0.0001_CONS tr_70 1.0 100 0.03474631  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_71 1.0 100 0.00827137  6 n6 n1 3 5
+balanced unif_0.0001_CONS tr_71 1.0 100 0.00045482  4 n6 n8 4 8
+balanced unif_0.0001_CONS tr_71 1.0 97 0.00016491  2 n6 n5 5 9
+balanced unif_0.0001_CONS tr_71 1.0 100 0.08681920  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_71 1.0 100 0.00044955  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_72 1.0 100 0.00327641  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_72 1.0 100 0.00361075  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_72 1.0 100 0.00147986  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_72 1.0 100 0.00071112  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_72 1.0 100 0.00090040  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_73 1.0 100 0.00155440  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_73 1.0 100 0.00191544  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_73 1.0 100 0.00439551  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_73 1.0 100 0.01685105  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_73 1.0 100 0.00091660  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_74 1.0 100 0.06199942  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_74 1.0 100 0.00055050  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_74 1.0 100 0.00034472  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_74 1.0 100 0.03860143  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_74 1.0 100 0.00025370  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_75 1.0 100 0.02695505  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_75 1.0 100 0.00015500  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_75 1.0 100 0.00020894  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_75 1.0 100 0.00011726  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_75 1.0 100 0.00018045  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_76 1.0 100 0.01119603  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_76 1.0 100 0.00343566  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_76 1.0 100 0.02033409  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_76 1.0 100 0.00041131  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_76 1.0 100 0.01119039  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_77 1.0 100 0.00058034  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_77 1.0 100 0.00522566  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_77 1.0 100 0.01232266  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_77 1.0 100 0.01089617  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_77 1.0 100 0.04380626  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_78 1.0 45   5 n6 n1 2 
+balanced unif_0.0001_CONS tr_78 1.0 100 0.01839249  4 n3 n1 4 1
+balanced unif_0.0001_CONS tr_78 1.0 61   3 n4 n1 6 
+balanced unif_0.0001_CONS tr_78 1.0 100 0.05487159  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_78 1.0 100 0.04804501  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_79 1.0 100 0.00756747  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_79 1.0 100 0.01171738  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_79 1.0 100 0.02908331  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_79 1.0 100 0.03047276  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_79 1.0 100 0.00552981  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_8 1.0 98 0.00018975  6 n7 n1 3 9
+balanced unif_0.0001_CONS tr_8 1.0 64   5 n8 n1 5 
+balanced unif_0.0001_CONS tr_8 1.0 100 0.00824789  4 n4 n1 7 1
+balanced unif_0.0001_CONS tr_8 1.0 100 0.00107378  2 n4 n3 8 5
+balanced unif_0.0001_CONS tr_8 1.0 100 0.00039287  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_80 1.0 100 0.00348993  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_80 1.0 100 0.00040466  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_80 1.0 100 0.07745760  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_80 1.0 100 0.06868293  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_80 1.0 100 0.00027992  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_81 1.0 100 0.08277691  6 n8 n3 3 9
+balanced unif_0.0001_CONS tr_81 1.0 83   5 n7 n3 5 
+balanced unif_0.0001_CONS tr_81 1.0 100 0.00013522  4 n2 n3 7 1
+balanced unif_0.0001_CONS tr_81 1.0 100 0.06996215  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_81 1.0 100 0.00076501  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_82 1.0 100 0.00288057  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_82 1.0 100 0.01741887  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_82 1.0 100 0.01448429  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_82 1.0 100 0.05742809  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_82 1.0 100 0.00060393  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_83 1.0 100 0.00787350  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_83 1.0 100 0.01285149  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_83 1.0 100 0.01095132  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_83 1.0 100 0.00013160  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_83 1.0 100 0.00027313  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_84 1.0 100 0.00074782  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_84 1.0 100 0.01349449  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_84 1.0 98 0.00022042  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_84 1.0 100 0.01037108  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_84 1.0 100 0.00982105  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_85 1.0 99   5 n6 n8 2 
+balanced unif_0.0001_CONS tr_85 1.0 97   3 n6 n3 3 
+balanced unif_0.0001_CONS tr_85 1.0 100 0.11220288  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_85 1.0 100 0.02528301  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_85 1.0 100 0.00481010  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_86 1.0 100 0.05742875  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_86 1.0 100 0.01419564  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_86 1.0 100 0.05296085  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_86 1.0 100 0.00516464  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_86 1.0 100 0.03327767  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_87 1.0 33   6 n4 n5 3 
+balanced unif_0.0001_CONS tr_87 1.0 54   5 n2 n5 5 
+balanced unif_0.0001_CONS tr_87 1.0 100 0.10279345  4 n7 n5 7 8
+balanced unif_0.0001_CONS tr_87 1.0 98 0.00016896  2 n7 n8 8 12
+balanced unif_0.0001_CONS tr_87 1.0 100 0.02822790  2 n6 n5 11 9
+balanced unif_0.0001_CONS tr_88 1.0 100 0.01303374  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_88 1.0 100 0.00043420  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_88 1.0 100 0.01286357  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_88 1.0 100 0.00296327  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_88 1.0 100 0.09081127  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_89 1.0 100 0.00023170  6 n7 n3 3 9
+balanced unif_0.0001_CONS tr_89 1.0 100   5 n8 n3 5 
+balanced unif_0.0001_CONS tr_89 1.0 100 0.08094113  4 n2 n3 7 1
+balanced unif_0.0001_CONS tr_89 1.0 100 0.00319496  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_89 1.0 100 0.00120083  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_9 1.0 100 0.00016676  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_9 1.0 100 0.00053186  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_9 1.0 100 0.07121944  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_9 1.0 100 0.00459167  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_9 1.0 100 0.00031153  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_90 1.0 100 0.01525865  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_90 1.0 100 0.00071747  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_90 1.0 100 0.00243728  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_90 1.0 100 0.00022516  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_90 1.0 100 0.00031526  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_91 1.0 100 0.02287233  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_91 1.0 100 0.00019804  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_91 1.0 100 0.01653920  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_91 1.0 100 0.00695591  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_91 1.0 100 0.05901026  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_92 1.0 61 0.00017111  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_92 1.0 100 0.07793979  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_92 1.0 100 0.00019129  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_92 1.0 100 0.00452469  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_92 1.0 65 0.00057472  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_93 1.0 89 0.00011054  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_93 1.0 100 0.01164564  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_93 1.0 100 0.00215210  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_93 1.0 100 0.02693725  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_93 1.0 100 0.00276612  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_94 1.0 100 0.01403420  6 n7 n1 3 5
+balanced unif_0.0001_CONS tr_94 1.0 100 0.00680042  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_94 1.0 100 0.00496533  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_94 1.0 100 0.00102590  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_94 1.0 100 0.00953073  2 n2 n1 11 2
+balanced unif_0.0001_CONS tr_95 1.0 100 0.00299662  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_95 1.0 100 0.00013864  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_95 1.0 100 0.00017798  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_95 1.0 100 0.03130231  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_95 1.0 100 0.00014195  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_96 1.0 100 0.01070417  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_96 1.0 100 0.10818634  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_96 1.0 100 0.00602098  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_96 1.0 100 0.04372771  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_96 1.0 100 0.00109651  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_97 1.0 100 0.00179037  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_97 1.0 100 0.00027357  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_97 1.0 100 0.00427231  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_97 1.0 100 0.00100451  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_97 1.0 100 0.00023199  2 n7 n8 11 12
+balanced unif_0.0001_CONS tr_98 1.0 69 0.00011367  6 n7 n3 3 2
+balanced unif_0.0001_CONS tr_98 1.0 100 0.00013758  4 n7 n5 4 8
+balanced unif_0.0001_CONS tr_98 1.0 100 0.03054584  2 n7 n8 5 12
+balanced unif_0.0001_CONS tr_98 1.0 100 0.00870396  2 n6 n5 8 9
+balanced unif_0.0001_CONS tr_98 1.0 100 0.00295560  2 n4 n3 11 5
+balanced unif_0.0001_CONS tr_99 1.0 100 0.10477669  6 n4 n8 3 9
+balanced unif_0.0001_CONS tr_99 1.0 100 0.00032675  4 n4 n1 4 1
+balanced unif_0.0001_CONS tr_99 1.0 100 0.00053917  2 n4 n3 5 5
+balanced unif_0.0001_CONS tr_99 1.0 100 0.03491787  2 n2 n1 8 2
+balanced unif_0.0001_CONS tr_99 1.0 99 0.00030803  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_1 1.0 54 0.00002315  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_1 1.0 94 0.00010820  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_1 1.0 100 0.01622649  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_1 1.0 100 0.00367510  3 n2 n1 9 6
+cat unif_0.00001_CONS tr_1 1.0 95   2 n3 n1 11 
+cat unif_0.00001_CONS tr_10 1.0 100 0.01065816  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_10 1.0 100 0.00335888  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_10 1.0 100 0.05162584  3 n7 n8 6 10
+cat unif_0.00001_CONS tr_10 1.0 98   2 n6 n8 8 
+cat unif_0.00001_CONS tr_10 1.0 100   2 n3 n1 11 
+cat unif_0.00001_CONS tr_100 1.0 100 0.00077313  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_100 1.0 100 0.00072598  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_100 1.0 100 0.00052910  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_100 1.0 100 0.00022425  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_100 1.0 100 0.00775909  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_101 1.0 100 0.00413608  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_101 1.0 100 0.03139753  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_101 1.0 100 0.00508581  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_101 1.0 100 0.00460978  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_101 1.0 100 0.00444417  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_102 1.0 38   6 n6 n1 3 
+cat unif_0.00001_CONS tr_102 1.0 29   3 n6 n4 4 
+cat unif_0.00001_CONS tr_102 1.0 76   2 n7 n4 6 
+cat unif_0.00001_CONS tr_102 1.0 100 0.00177937  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_102 1.0 100 0.00103289  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_103 1.0 59   6 n3 n1 3 
+cat unif_0.00001_CONS tr_103 1.0 95   5 n6 n1 5 
+cat unif_0.00001_CONS tr_103 1.0 97 0.00021047  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_103 1.0 100 0.01550136  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_103 1.0 100 0.00145380  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_104 1.0 81   6 n5 n1 3 
+cat unif_0.00001_CONS tr_104 1.0 100   5 n6 n1 5 
+cat unif_0.00001_CONS tr_104 1.0 100 0.10079407  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_104 1.0 100 0.00758822  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_104 1.0 100 0.07388471  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_105 1.0 100 0.07255622  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_105 1.0 100 0.00001039  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_105 1.0 100 0.00504170  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_105 1.0 84 0.00010180  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_105 1.0 75 0.00006194  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_106 1.0 100 0.00659455  5 n1 n4 2 10
+cat unif_0.00001_CONS tr_106 1.0 100 0.09919831  3 n1 n2 3 6
+cat unif_0.00001_CONS tr_106 1.0 100   2 n3 n2 5 
+cat unif_0.00001_CONS tr_106 1.0 97   2 n5 n4 8 
+cat unif_0.00001_CONS tr_106 1.0 99 0.00019486  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_107 1.0 100 0.00210129  4 n3 n1 2 8
+cat unif_0.00001_CONS tr_107 1.0 100   3 n4 n1 4 
+cat unif_0.00001_CONS tr_107 1.0 100 0.03126510  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_107 1.0 46 0.00002106  3 n7 n8 9 10
+cat unif_0.00001_CONS tr_107 1.0 36   2 n6 n8 11 
+cat unif_0.00001_CONS tr_108 1.0 100 0.03982675  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_108 1.0 100 0.09004613  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_108 1.0 100 0.00481283  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_108 1.0 74   3 n4 n1 9 
+cat unif_0.00001_CONS tr_108 1.0 100 0.00722383  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_109 1.0 93 0.00006376  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_109 1.0 100 0.00169007  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_109 1.0 100 0.00282172  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_109 1.0 100 0.00019903  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_109 1.0 34   2 n3 n2 11 
+cat unif_0.00001_CONS tr_11 1.0 36   6 n2 n8 3 
+cat unif_0.00001_CONS tr_11 1.0 100 0.00967663  5 n4 n8 5 6
+cat unif_0.00001_CONS tr_11 1.0 100 0.00069891  4 n5 n8 7 8
+cat unif_0.00001_CONS tr_11 1.0 100 0.00576946  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_11 1.0 100 0.04325767  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_110 1.0 100 0.00076238  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_110 1.0 100 0.02084155  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_110 1.0 100 0.01118472  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_110 1.0 100 0.09302531  3 n2 n1 9 6
+cat unif_0.00001_CONS tr_110 1.0 76   2 n3 n1 11 
+cat unif_0.00001_CONS tr_111 1.0 100 0.00036440  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_111 1.0 100 0.00021183  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_111 1.0 100 0.09875229  3 n7 n8 6 10
+cat unif_0.00001_CONS tr_111 1.0 83   2 n6 n8 8 
+cat unif_0.00001_CONS tr_111 1.0 100 0.00031514  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_112 1.0 93 0.00009041  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_112 1.0 100 0.00069341  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_112 1.0 100 0.00159316  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_112 1.0 100 0.00117912  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_112 1.0 100 0.00050001  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_113 1.0 82 0.00010262  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_113 1.0 100 0.00017098  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_113 1.0 100 0.00039059  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_113 1.0 100 0.03868020  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_113 1.0 100 0.00043798  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_114 1.0 100 0.00321292  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_114 1.0 100 0.00781573  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_114 1.0 81 0.00007468  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_114 1.0 100 0.00831206  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_114 1.0 69 0.00013059  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_115 1.0 49   6 n4 n5 3 
+cat unif_0.00001_CONS tr_115 1.0 100   5 n6 n5 5 
+cat unif_0.00001_CONS tr_115 1.0 98 0.00049423  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_115 1.0 100 0.03951502  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_115 1.0 71   2 n1 n5 11 
+cat unif_0.00001_CONS tr_116 1.0 100 0.03892574  6 n4 n8 3 4
+cat unif_0.00001_CONS tr_116 1.0 67   5 n3 n8 5 
+cat unif_0.00001_CONS tr_116 1.0 100 0.00033946  4 n5 n8 7 8
+cat unif_0.00001_CONS tr_116 1.0 100 0.00103756  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_116 1.0 100 0.00146404  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_117 1.0 100 0.00025886  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_117 1.0 100 0.00025433  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_117 1.0 99 0.00029471  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_117 1.0 83 0.00070971  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_117 1.0 73 0.00003643  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_118 1.0 100 0.00015503  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_118 1.0 100 0.05889863  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_118 1.0 100 0.00193350  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_118 1.0 75 0.00014572  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_118 1.0 100 0.00142179  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_119 1.0 95   6 n7 n1 3 
+cat unif_0.00001_CONS tr_119 1.0 100 0.04722623  5 n5 n1 5 10
+cat unif_0.00001_CONS tr_119 1.0 100 0.02158397  4 n4 n1 7 8
+cat unif_0.00001_CONS tr_119 1.0 100 0.04124028  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_119 1.0 100 0.00455928  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_12 1.0 100 0.00063146  6 n3 n8 3 4
+cat unif_0.00001_CONS tr_12 1.0 100 0.00962999  5 n4 n8 5 6
+cat unif_0.00001_CONS tr_12 1.0 100 0.03828978  4 n5 n8 7 8
+cat unif_0.00001_CONS tr_12 1.0 100 0.00249296  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_12 1.0 100 0.00994578  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_120 1.0 100 0.00063660  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_120 1.0 100 0.04445076  3 n2 n1 4 6
+cat unif_0.00001_CONS tr_120 1.0 70   2 n3 n1 6 
+cat unif_0.00001_CONS tr_120 1.0 99 0.00017757  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_120 1.0 100 0.00230782  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_13 1.0 100 0.00019389  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_13 1.0 100 0.00032621  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_13 1.0 100 0.00097334  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_13 1.0 100 0.00811661  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_13 1.0 100 0.00046030  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_14 1.0 100 0.08085557  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_14 1.0 100 0.02762580  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_14 1.0 58 0.00001733  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_14 1.0 100 0.00284734  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_14 1.0 100 0.01103067  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_15 1.0 100 0.00319112  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_15 1.0 100 0.00960197  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_15 1.0 76   2 n4 n3 5 
+cat unif_0.00001_CONS tr_15 1.0 100 0.06953410  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_15 1.0 100 0.00018550  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_16 1.0 52 0.00002977  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_16 1.0 100 0.00126237  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_16 1.0 100 0.00229784  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_16 1.0 100 0.00187754  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_16 1.0 100 0.00852768  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_17 1.0 90 0.00011096  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_17 1.0 97 0.00024876  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_17 1.0 100 0.00040307  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_17 1.0 100 0.00002783  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_17 1.0 71 0.00009769  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_18 1.0 100 0.00018738  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_18 1.0 100 0.00175968  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_18 1.0 100 0.00527614  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_18 1.0 100 0.00671842  3 n1 n2 9 6
+cat unif_0.00001_CONS tr_18 1.0 53   2 n3 n2 11 
+cat unif_0.00001_CONS tr_19 1.0 100 0.00132508  6 n3 n8 3 4
+cat unif_0.00001_CONS tr_19 1.0 100 0.00586365  5 n4 n8 5 6
+cat unif_0.00001_CONS tr_19 1.0 100 0.06820983  4 n5 n8 7 8
+cat unif_0.00001_CONS tr_19 1.0 94 0.00338341  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_19 1.0 100 0.08883909  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_2 1.0 47 0.00004014  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_2 1.0 96 0.00011700  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_2 1.0 100 0.00239224  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_2 1.0 99 0.00012856  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_2 1.0 100 0.00055504  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_20 1.0 51 0.00002374  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_20 1.0 100 0.00609664  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_20 1.0 100 0.01513531  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_20 1.0 100 0.00525071  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_20 1.0 74 0.00004058  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_21 1.0 100 0.00141606  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_21 1.0 100 0.01985869  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_21 1.0 100 0.07186343  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_21 1.0 100 0.01800468  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_21 1.0 100 0.05189214  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_22 1.0 46 0.00001265  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_22 1.0 46 0.00001494  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_22 1.0 99 0.00017233  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_22 1.0 100 0.00040136  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_22 1.0 100 0.00062508  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_23 1.0 100 0.00038013  6 n3 n8 3 4
+cat unif_0.00001_CONS tr_23 1.0 100 0.00178937  5 n4 n8 5 6
+cat unif_0.00001_CONS tr_23 1.0 100 0.02551459  4 n6 n8 7 8
+cat unif_0.00001_CONS tr_23 1.0 92   2 n6 n5 8 
+cat unif_0.00001_CONS tr_23 1.0 100 0.00285076  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_24 1.0 100 0.00248974  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_24 1.0 83 0.00006119  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_24 1.0 64 0.00006461  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_24 1.0 100 0.01355578  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_24 1.0 100 0.00266821  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_25 1.0 100 0.00388286  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_25 1.0 100 0.05624046  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_25 1.0 100 0.00029913  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_25 1.0 100 0.00047354  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_25 1.0 65 0.00001075  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_26 1.0 100   4 n5 n1 2 
+cat unif_0.00001_CONS tr_26 1.0 100 0.09203163  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_26 1.0 100 0.00513858  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_26 1.0 100   3 n4 n8 9 
+cat unif_0.00001_CONS tr_26 1.0 99 0.00002922  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_27 1.0 100 0.00011867  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_27 1.0 92 0.00034258  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_27 1.0 100 0.09696867  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_27 1.0 100 0.00423430  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_27 1.0 100 0.00012157  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_28 1.0 60 0.00001861  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_28 1.0 100 0.00104641  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_28 1.0 100 0.00507014  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_28 1.0 100 0.00687847  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_28 1.0 100 0.00067521  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_29 1.0 100 0.00356662  6 n5 n3 3 4
+cat unif_0.00001_CONS tr_29 1.0 100 0.00023375  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_29 1.0 100 0.00086964  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_29 1.0 100 0.00126252  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_29 1.0 45   2 n4 n3 11 
+cat unif_0.00001_CONS tr_3 1.0 61   6 n2 n4 3 
+cat unif_0.00001_CONS tr_3 1.0 45   5 n6 n4 5 
+cat unif_0.00001_CONS tr_3 1.0 92 0.00032373  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_3 1.0 100 0.01151458  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_3 1.0 53   2 n1 n4 11 
+cat unif_0.00001_CONS tr_30 1.0 100 0.02831902  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_30 1.0 100 0.01367418  3 n2 n1 4 6
+cat unif_0.00001_CONS tr_30 1.0 100   2 n3 n1 6 
+cat unif_0.00001_CONS tr_30 1.0 90 0.00005499  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_30 1.0 100 0.00013466  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_31 1.0 95   4 n5 n1 2 
+cat unif_0.00001_CONS tr_31 1.0 100 0.01255926  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_31 1.0 100 0.00206813  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_31 1.0 100 0.10028853  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_31 1.0 100 0.06461126  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_32 1.0 52 0.00001402  6 n3 n8 3 4
+cat unif_0.00001_CONS tr_32 1.0 100 0.00075278  5 n4 n8 5 6
+cat unif_0.00001_CONS tr_32 1.0 100 0.00178144  4 n5 n8 7 8
+cat unif_0.00001_CONS tr_32 1.0 94 0.00003154  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_32 1.0 100 0.01075476  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_33 1.0 100 0.00010898  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_33 1.0 100 0.00024167  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_33 1.0 100 0.00030379  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_33 1.0 100 0.00034611  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_33 1.0 60 0.00004826  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_34 1.0 91   5 n6 n1 2 
+cat unif_0.00001_CONS tr_34 1.0 100 0.08962198  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_34 1.0 100 0.00150304  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_34 1.0 100 0.02736522  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_34 1.0 100 0.00069020  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_35 1.0 100 0.00128935  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_35 1.0 100 0.00209604  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_35 1.0 100 0.00159581  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_35 1.0 100 0.00134330  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_35 1.0 100 0.00558689  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_36 1.0 100 0.00656794  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_36 1.0 100 0.00109515  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_36 1.0 100 0.00405855  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_36 1.0 100 0.00026508  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_36 1.0 100 0.00567094  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_37 1.0 100 0.00080604  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_37 1.0 100 0.00008994  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_37 1.0 100 0.01772966  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_37 1.0 100 0.00403454  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_37 1.0 100 0.00016842  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_38 1.0 82 0.00221008  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_38 1.0 100 0.10264962  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_38 1.0 100 0.02907022  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_38 1.0 79 0.00020819  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_38 1.0 100 0.07121405  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_39 1.0 100 0.00335930  5 n4 n2 2 10
+cat unif_0.00001_CONS tr_39 1.0 98   4 n5 n2 4 
+cat unif_0.00001_CONS tr_39 1.0 100 0.05318592  3 n1 n2 6 6
+cat unif_0.00001_CONS tr_39 1.0 100   2 n3 n2 8 
+cat unif_0.00001_CONS tr_39 1.0 100 0.00010966  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_4 1.0 100 0.00217768  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_4 1.0 100 0.00358729  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_4 1.0 100 0.00417816  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_4 1.0 71 0.00007939  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_4 1.0 100 0.00021905  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_40 1.0 100 0.00019306  6 n3 n8 3 4
+cat unif_0.00001_CONS tr_40 1.0 100 0.00200235  5 n4 n8 5 6
+cat unif_0.00001_CONS tr_40 1.0 100 0.01965401  4 n5 n8 7 8
+cat unif_0.00001_CONS tr_40 1.0 100 0.00016027  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_40 1.0 100 0.00434772  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_41 1.0 100 0.00270787  4 n3 n1 2 8
+cat unif_0.00001_CONS tr_41 1.0 65   3 n4 n1 4 
+cat unif_0.00001_CONS tr_41 1.0 100 0.00059579  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_41 1.0 99 0.00003208  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_41 1.0 99 0.00013156  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_42 1.0 66   6 n5 n1 3 
+cat unif_0.00001_CONS tr_42 1.0 82 0.00044121  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_42 1.0 70 0.00001291  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_42 1.0 100 0.00024940  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_42 1.0 100 0.06131997  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_43 1.0 100 0.00723393  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_43 1.0 100 0.00743413  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_43 1.0 99 0.00021588  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_43 1.0 100 0.00477436  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_43 1.0 88 0.00005526  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_44 1.0 100 0.00333551  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_44 1.0 100 0.00308213  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_44 1.0 100 0.00118274  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_44 1.0 100 0.00063786  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_44 1.0 100 0.00069045  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_45 1.0 39 0.00001506  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_45 1.0 100 0.00335039  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_45 1.0 73 0.00001072  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_45 1.0 100 0.00139039  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_45 1.0 100 0.00068724  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_46 1.0 100 0.00207083  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_46 1.0 100 0.02487301  4 n3 n1 4 8
+cat unif_0.00001_CONS tr_46 1.0 100   3 n4 n1 6 
+cat unif_0.00001_CONS tr_46 1.0 100 0.00395999  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_46 1.0 100 0.00166655  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_47 1.0 46 0.00003165  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_47 1.0 100 0.02314796  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_47 1.0 100 0.00123698  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_47 1.0 100 0.00034059  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_47 1.0 29 0.00001741  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_48 1.0 53 0.00001175  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_48 1.0 100 0.00016047  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_48 1.0 97 0.00007501  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_48 1.0 100 0.00054797  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_48 1.0 100 0.00615943  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_49 1.0 100 0.01446886  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_49 1.0 100 0.09532608  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_49 1.0 100 0.00323907  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_49 1.0 100 0.06685168  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_49 1.0 86 0.00038026  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_5 1.0 95 0.00079648  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_5 1.0 64 0.00008481  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_5 1.0 100 0.00252791  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_5 1.0 100 0.02600159  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_5 1.0 100 0.03517618  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_50 1.0 96   5 n4 n2 2 
+cat unif_0.00001_CONS tr_50 1.0 100   4 n6 n2 4 
+cat unif_0.00001_CONS tr_50 1.0 100 0.07643600  3 n1 n2 6 6
+cat unif_0.00001_CONS tr_50 1.0 91   2 n3 n2 8 
+cat unif_0.00001_CONS tr_50 1.0 100 0.00015431  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_51 1.0 100 0.00202879  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_51 1.0 100 0.06177693  4 n6 n8 4 8
+cat unif_0.00001_CONS tr_51 1.0 99   2 n6 n5 5 
+cat unif_0.00001_CONS tr_51 1.0 100 0.00753591  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_51 1.0 98   2 n3 n2 11 
+cat unif_0.00001_CONS tr_52 1.0 100 0.00016126  6 n3 n5 3 4
+cat unif_0.00001_CONS tr_52 1.0 100 0.00741251  5 n4 n5 5 6
+cat unif_0.00001_CONS tr_52 1.0 100 0.05039697  4 n7 n5 7 8
+cat unif_0.00001_CONS tr_52 1.0 100 0.01635391  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_52 1.0 100   2 n6 n5 11 
+cat unif_0.00001_CONS tr_53 1.0 99   5 n6 n1 2 
+cat unif_0.00001_CONS tr_53 1.0 100 0.05000307  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_53 1.0 100 0.04554455  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_53 1.0 100 0.00126696  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_53 1.0 100 0.00797097  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_54 1.0 100 0.00718074  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_54 1.0 100 0.05193415  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_54 1.0 100 0.03903855  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_54 1.0 91   3 n5 n8 9 
+cat unif_0.00001_CONS tr_54 1.0 44 0.00001069  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_55 1.0 100 0.00012605  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_55 1.0 100 0.00067805  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_55 1.0 100 0.03344252  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_55 1.0 100 0.05988400  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_55 1.0 100 0.00080045  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_56 1.0 96 0.00071620  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_56 1.0 96 0.00035129  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_56 1.0 100 0.00777114  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_56 1.0 100 0.09740235  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_56 1.0 74 0.00008012  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_57 1.0 37 0.00001721  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_57 1.0 97 0.00010625  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_57 1.0 100 0.00043016  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_57 1.0 100 0.00049434  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_57 1.0 100 0.00074639  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_58 1.0 41 0.00001003  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_58 1.0 100 0.00055533  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_58 1.0 100 0.03217603  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_58 1.0 100 0.00044465  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_58 1.0 99 0.00007620  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_59 1.0 100 0.00837061  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_59 1.0 100 0.00085499  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_59 1.0 100 0.02021001  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_59 1.0 82 0.00010612  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_59 1.0 100 0.01973687  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_6 1.0 35   6 n4 n8 3 
+cat unif_0.00001_CONS tr_6 1.0 64   3 n4 n1 4 
+cat unif_0.00001_CONS tr_6 1.0 100 0.11154151  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_6 1.0 100 0.00277354  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_6 1.0 99 0.00027825  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_60 1.0 46   6 n6 n2 3 
+cat unif_0.00001_CONS tr_60 1.0 100 0.00509754  4 n6 n8 4 8
+cat unif_0.00001_CONS tr_60 1.0 41   2 n6 n5 5 
+cat unif_0.00001_CONS tr_60 1.0 73 0.00002876  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_60 1.0 53   2 n3 n2 11 
+cat unif_0.00001_CONS tr_61 1.0 79 0.00017492  6 n3 n8 3 4
+cat unif_0.00001_CONS tr_61 1.0 47 0.00003588  5 n4 n8 5 6
+cat unif_0.00001_CONS tr_61 1.0 91 0.00189171  4 n5 n8 7 8
+cat unif_0.00001_CONS tr_61 1.0 100 0.00003509  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_61 1.0 100 0.00525470  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_62 1.0 59   4 n5 n1 2 
+cat unif_0.00001_CONS tr_62 1.0 100 0.02729677  3 n2 n1 4 6
+cat unif_0.00001_CONS tr_62 1.0 86   2 n3 n1 6 
+cat unif_0.00001_CONS tr_62 1.0 37 0.00003176  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_62 1.0 57 0.00002330  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_63 1.0 52 0.00001039  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_63 1.0 31 0.00001085  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_63 1.0 99 0.00026235  3 n7 n8 6 10
+cat unif_0.00001_CONS tr_63 1.0 53   2 n6 n8 8 
+cat unif_0.00001_CONS tr_63 1.0 100 0.00106935  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_64 1.0 51   6 n1 n8 3 
+cat unif_0.00001_CONS tr_64 1.0 100 0.00460685  5 n5 n8 5 6
+cat unif_0.00001_CONS tr_64 1.0 100   4 n4 n8 7 
+cat unif_0.00001_CONS tr_64 1.0 100 0.06214093  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_64 1.0 100 0.04226261  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_65 1.0 100 0.01647086  5 n5 n2 2 10
+cat unif_0.00001_CONS tr_65 1.0 100 0.08074127  4 n4 n2 4 8
+cat unif_0.00001_CONS tr_65 1.0 100 0.10477587  3 n1 n2 6 6
+cat unif_0.00001_CONS tr_65 1.0 93   2 n3 n2 8 
+cat unif_0.00001_CONS tr_65 1.0 100 0.00063485  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_66 1.0 88   5 n1 n8 2 
+cat unif_0.00001_CONS tr_66 1.0 100 0.08777645  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_66 1.0 100 0.00062720  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_66 1.0 100 0.00052396  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_66 1.0 90   2 n4 n3 11 
+cat unif_0.00001_CONS tr_67 1.0 100 0.00705884  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_67 1.0 100 0.11269116  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_67 1.0 100 0.01264007  3 n2 n1 6 6
+cat unif_0.00001_CONS tr_67 1.0 100   2 n3 n1 8 
+cat unif_0.00001_CONS tr_67 1.0 100 0.00259092  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_68 1.0 100 0.02491771  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_68 1.0 100 0.00544719  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_68 1.0 100 0.01843234  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_68 1.0 100 0.00564794  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_68 1.0 50 0.00026969  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_69 1.0 100   4 n5 n2 2 
+cat unif_0.00001_CONS tr_69 1.0 100 0.00139929  3 n1 n2 4 6
+cat unif_0.00001_CONS tr_69 1.0 60   2 n3 n2 6 
+cat unif_0.00001_CONS tr_69 1.0 100 0.00160838  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_69 1.0 100 0.00011915  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_7 1.0 99 0.00002615  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_7 1.0 100 0.01185679  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_7 1.0 100 0.02562884  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_7 1.0 97 0.00006714  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_7 1.0 100 0.00010909  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_70 1.0 98   5 n2 n8 2 
+cat unif_0.00001_CONS tr_70 1.0 100 0.01282031  3 n2 n1 3 6
+cat unif_0.00001_CONS tr_70 1.0 100   2 n3 n1 5 
+cat unif_0.00001_CONS tr_70 1.0 100 0.11340801  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_70 1.0 61   2 n6 n5 11 
+cat unif_0.00001_CONS tr_71 1.0 57   6 n5 n1 3 
+cat unif_0.00001_CONS tr_71 1.0 100 0.00170586  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_71 1.0 100 0.00070102  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_71 1.0 100 0.00961693  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_71 1.0 100 0.01417810  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_72 1.0 82 0.00001330  6 n3 n8 3 4
+cat unif_0.00001_CONS tr_72 1.0 100 0.01207511  5 n4 n8 5 6
+cat unif_0.00001_CONS tr_72 1.0 100 0.00662086  4 n5 n8 7 8
+cat unif_0.00001_CONS tr_72 1.0 100 0.00643176  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_72 1.0 100 0.05146256  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_73 1.0 100 0.00090602  5 n5 n8 2 6
+cat unif_0.00001_CONS tr_73 1.0 49   3 n5 n4 3 
+cat unif_0.00001_CONS tr_73 1.0 50   2 n6 n4 5 
+cat unif_0.00001_CONS tr_73 1.0 100 0.00593112  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_73 1.0 100 0.00018814  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_74 1.0 100 0.00121608  4 n5 n6 2 8
+cat unif_0.00001_CONS tr_74 1.0 100 0.01247960  3 n8 n6 4 10
+cat unif_0.00001_CONS tr_74 1.0 100   2 n7 n6 6 
+cat unif_0.00001_CONS tr_74 1.0 99   3 n2 n1 9 
+cat unif_0.00001_CONS tr_74 1.0 99   2 n4 n1 11 
+cat unif_0.00001_CONS tr_75 1.0 100 0.00107872  4 n4 n2 2 8
+cat unif_0.00001_CONS tr_75 1.0 100 0.00333412  3 n1 n2 4 6
+cat unif_0.00001_CONS tr_75 1.0 100   2 n3 n2 6 
+cat unif_0.00001_CONS tr_75 1.0 100 0.00200761  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_75 1.0 78 0.00003186  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_76 1.0 86 0.00004496  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_76 1.0 100 0.00024235  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_76 1.0 69 0.00001987  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_76 1.0 100 0.00185631  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_76 1.0 85 0.00002685  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_77 1.0 66 0.00005364  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_77 1.0 100 0.00052717  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_77 1.0 100 0.01896095  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_77 1.0 100 0.00132523  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_77 1.0 59 0.00004338  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_78 1.0 100 0.00057753  6 n4 n8 3 4
+cat unif_0.00001_CONS tr_78 1.0 42   5 n3 n8 5 
+cat unif_0.00001_CONS tr_78 1.0 100 0.02770704  4 n6 n8 7 8
+cat unif_0.00001_CONS tr_78 1.0 51   3 n5 n8 9 
+cat unif_0.00001_CONS tr_78 1.0 100 0.02421977  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_79 1.0 100 0.03158813  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_79 1.0 100 0.02674265  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_79 1.0 100 0.00332045  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_79 1.0 49 0.00009445  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_79 1.0 100 0.00300463  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_8 1.0 95 0.00007684  6 n3 n5 3 4
+cat unif_0.00001_CONS tr_8 1.0 100 0.00152964  5 n4 n5 5 6
+cat unif_0.00001_CONS tr_8 1.0 100 0.00128447  4 n7 n5 7 8
+cat unif_0.00001_CONS tr_8 1.0 100 0.00058237  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_8 1.0 100   2 n6 n5 11 
+cat unif_0.00001_CONS tr_80 1.0 37 0.00003495  4 n6 n8 2 8
+cat unif_0.00001_CONS tr_80 1.0 27   3 n5 n8 4 
+cat unif_0.00001_CONS tr_80 1.0 35 0.00001104  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_80 1.0 100 0.01163993  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_80 1.0 100 0.01630944  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_81 1.0 72   5 n3 n8 2 
+cat unif_0.00001_CONS tr_81 1.0 95 0.00012151  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_81 1.0 100 0.00528231  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_81 1.0 95 0.00009942  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_81 1.0 100 0.08149238  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_82 1.0 100 0.04941153  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_82 1.0 100 0.00367514  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_82 1.0 100 0.11405018  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_82 1.0 100 0.00506724  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_82 1.0 100 0.01417286  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_83 1.0 100 0.00009373  6 n3 n8 3 4
+cat unif_0.00001_CONS tr_83 1.0 79 0.00044094  5 n4 n8 5 6
+cat unif_0.00001_CONS tr_83 1.0 100 0.00789072  4 n5 n8 7 8
+cat unif_0.00001_CONS tr_83 1.0 100 0.01132725  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_83 1.0 100 0.00016593  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_84 1.0 100 0.00020219  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_84 1.0 100 0.00121043  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_84 1.0 100 0.01564594  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_84 1.0 100 0.00594420  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_84 1.0 90 0.00006027  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_85 1.0 88 0.00007519  6 n3 n8 3 4
+cat unif_0.00001_CONS tr_85 1.0 63 0.00003622  5 n4 n8 5 6
+cat unif_0.00001_CONS tr_85 1.0 100 0.01282846  4 n5 n8 7 8
+cat unif_0.00001_CONS tr_85 1.0 100 0.02093295  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_85 1.0 100 0.00029626  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_86 1.0 100 0.10262349  4 n4 n2 2 8
+cat unif_0.00001_CONS tr_86 1.0 100 0.07100731  3 n1 n2 4 6
+cat unif_0.00001_CONS tr_86 1.0 100   2 n3 n2 6 
+cat unif_0.00001_CONS tr_86 1.0 84 0.00007093  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_86 1.0 100 0.00090594  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_87 1.0 40 0.00001571  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_87 1.0 100 0.00124822  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_87 1.0 100 0.00308039  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_87 1.0 100 0.02941503  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_87 1.0 51 0.00002463  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_88 1.0 100 0.00263498  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_88 1.0 100 0.00083479  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_88 1.0 100 0.00358199  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_88 1.0 67 0.00018938  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_88 1.0 100 0.05763662  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_89 1.0 75   4 n6 n1 2 
+cat unif_0.00001_CONS tr_89 1.0 100 0.01508529  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_89 1.0 100 0.04390568  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_89 1.0 62   3 n4 n8 9 
+cat unif_0.00001_CONS tr_89 1.0 100 0.05521528  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_9 1.0 85 0.00006954  5 n4 n8 2 6
+cat unif_0.00001_CONS tr_9 1.0 100 0.00282467  4 n5 n8 4 8
+cat unif_0.00001_CONS tr_9 1.0 100 0.04070799  3 n6 n8 6 10
+cat unif_0.00001_CONS tr_9 1.0 100 0.00571319  2 n7 n8 8 12
+cat unif_0.00001_CONS tr_9 1.0 100 0.02021100  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_90 1.0 100 0.00026651  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_90 1.0 54 0.00003905  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_90 1.0 100 0.00081675  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_90 1.0 99 0.00011751  3 n2 n1 9 6
+cat unif_0.00001_CONS tr_90 1.0 96   2 n3 n1 11 
+cat unif_0.00001_CONS tr_91 1.0 89 0.00011062  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_91 1.0 56 0.00003369  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_91 1.0 100 0.00069525  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_91 1.0 93 0.00014583  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_91 1.0 100 0.00709051  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_92 1.0 87 0.00030895  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_92 1.0 100 0.00274211  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_92 1.0 100 0.00898477  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_92 1.0 100 0.06762884  3 n2 n1 9 6
+cat unif_0.00001_CONS tr_92 1.0 88   2 n3 n1 11 
+cat unif_0.00001_CONS tr_93 1.0 47   6 n1 n8 3 
+cat unif_0.00001_CONS tr_93 1.0 100 0.01141736  5 n4 n8 5 6
+cat unif_0.00001_CONS tr_93 1.0 100 0.04483865  4 n5 n8 7 8
+cat unif_0.00001_CONS tr_93 1.0 100 0.03203742  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_93 1.0 100 0.02897783  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_94 1.0 98 0.00007881  4 n5 n8 2 8
+cat unif_0.00001_CONS tr_94 1.0 100 0.00008465  3 n6 n8 4 10
+cat unif_0.00001_CONS tr_94 1.0 100 0.00467254  2 n7 n8 6 12
+cat unif_0.00001_CONS tr_94 1.0 100 0.00252233  3 n3 n1 9 6
+cat unif_0.00001_CONS tr_94 1.0 100 0.00067752  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_95 1.0 100 0.01258585  5 n6 n4 2 6
+cat unif_0.00001_CONS tr_95 1.0 100 0.00139373  3 n6 n8 3 10
+cat unif_0.00001_CONS tr_95 1.0 100 0.00373705  2 n7 n8 5 12
+cat unif_0.00001_CONS tr_95 1.0 51   2 n5 n4 8 
+cat unif_0.00001_CONS tr_95 1.0 100 0.00459092  2 n2 n1 11 4
+cat unif_0.00001_CONS tr_96 1.0 100 0.00158982  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_96 1.0 100 0.02891223  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_96 1.0 88   2 n4 n3 5 
+cat unif_0.00001_CONS tr_96 1.0 100 0.01108673  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_96 1.0 85 0.00007165  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_97 1.0 100 0.07206292  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_97 1.0 100 0.01323237  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_97 1.0 100 0.08093125  3 n3 n1 6 6
+cat unif_0.00001_CONS tr_97 1.0 85 0.00021673  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_97 1.0 99 0.00037121  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_98 1.0 100 0.00044149  5 n5 n1 2 10
+cat unif_0.00001_CONS tr_98 1.0 100 0.00399758  4 n4 n1 4 8
+cat unif_0.00001_CONS tr_98 1.0 60   2 n4 n3 5 
+cat unif_0.00001_CONS tr_98 1.0 100 0.00127230  2 n2 n1 8 4
+cat unif_0.00001_CONS tr_98 1.0 86 0.00004773  2 n7 n8 11 12
+cat unif_0.00001_CONS tr_99 1.0 100 0.00221343  4 n4 n1 2 8
+cat unif_0.00001_CONS tr_99 1.0 100 0.00269996  3 n3 n1 4 6
+cat unif_0.00001_CONS tr_99 1.0 100 0.02638888  2 n2 n1 6 4
+cat unif_0.00001_CONS tr_99 1.0 100 0.00026423  3 n6 n8 9 10
+cat unif_0.00001_CONS tr_99 1.0 100 0.00322983  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_1 1.0 81 0.00016292  6 n5 n3 3 4
+cat unif_0.0001_CONS tr_1 1.0 100 0.00020782  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_1 1.0 100 0.00092224  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_1 1.0 100 0.08285059  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_1 1.0 79   2 n4 n3 11 
+cat unif_0.0001_CONS tr_10 1.0 99 0.00010609  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_10 1.0 100 0.01779813  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_10 1.0 100 0.00469488  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_10 1.0 100 0.06151080  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_10 1.0 100 0.01852750  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_100 1.0 100 0.00882467  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_100 1.0 100 0.00493702  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_100 1.0 100 0.01042020  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_100 1.0 100 0.00153901  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_100 1.0 62 0.00017438  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_101 1.0 98   6 n6 n1 3 
+cat unif_0.0001_CONS tr_101 1.0 96 0.00015825  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_101 1.0 100 0.00270526  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_101 1.0 100 0.00307517  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_101 1.0 100 0.00499035  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_102 1.0 100 0.06448295  5 n3 n4 2 10
+cat unif_0.0001_CONS tr_102 1.0 100 0.08164383  3 n3 n1 3 6
+cat unif_0.0001_CONS tr_102 1.0 100 0.00249486  2 n2 n1 5 4
+cat unif_0.0001_CONS tr_102 1.0 100   2 n5 n4 8 
+cat unif_0.0001_CONS tr_102 1.0 100 0.00053148  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_103 1.0 100 0.03249054  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_103 1.0 100 0.06841371  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_103 1.0 100 0.01678109  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_103 1.0 100 0.02215808  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_103 1.0 100 0.08365177  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_104 1.0 100   4 n5 n1 2 
+cat unif_0.0001_CONS tr_104 1.0 100 0.00755610  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_104 1.0 100 0.08653328  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_104 1.0 100 0.00206655  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_104 1.0 63 0.00015612  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_105 1.0 77 0.00059020  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_105 1.0 100 0.00451958  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_105 1.0 100 0.07918232  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_105 1.0 100 0.07768667  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_105 1.0 100 0.01459765  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_106 1.0 100 0.00266427  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_106 1.0 100 0.01051141  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_106 1.0 100 0.06331441  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_106 1.0 100 0.09588110  3 n1 n2 9 6
+cat unif_0.0001_CONS tr_106 1.0 98   2 n3 n2 11 
+cat unif_0.0001_CONS tr_107 1.0 99 0.00017102  6 n3 n6 3 4
+cat unif_0.0001_CONS tr_107 1.0 98 0.00018950  5 n4 n6 5 6
+cat unif_0.0001_CONS tr_107 1.0 100 0.08026107  4 n8 n6 7 8
+cat unif_0.0001_CONS tr_107 1.0 85   3 n5 n6 9 
+cat unif_0.0001_CONS tr_107 1.0 100   2 n7 n6 11 
+cat unif_0.0001_CONS tr_108 1.0 86 0.00018650  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_108 1.0 100 0.02665406  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_108 1.0 100 0.00999499  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_108 1.0 100 0.01852847  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_108 1.0 100 0.00400295  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_109 1.0 100 0.00043503  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_109 1.0 100 0.00014695  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_109 1.0 100 0.00123061  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_109 1.0 100 0.00021422  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_109 1.0 100 0.00059604  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_11 1.0 100 0.00333840  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_11 1.0 100 0.00695170  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_11 1.0 100 0.02127728  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_11 1.0 100 0.00573687  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_11 1.0 100 0.01648560  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_110 1.0 98 0.00013873  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_110 1.0 100 0.03183921  4 n6 n8 4 8
+cat unif_0.0001_CONS tr_110 1.0 82   2 n6 n5 5 
+cat unif_0.0001_CONS tr_110 1.0 100 0.04468870  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_110 1.0 100 0.00354822  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_111 1.0 71 0.00106358  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_111 1.0 100 0.00498725  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_111 1.0 100 0.07508253  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_111 1.0 100 0.04675917  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_111 1.0 100 0.00054476  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_112 1.0 100 0.00415884  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_112 1.0 100 0.03081073  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_112 1.0 100 0.00895247  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_112 1.0 100 0.07786584  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_112 1.0 100 0.00186981  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_113 1.0 100 0.00016748  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_113 1.0 100 0.00030181  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_113 1.0 100 0.00183423  4 n6 n8 7 8
+cat unif_0.0001_CONS tr_113 1.0 98   2 n6 n5 8 
+cat unif_0.0001_CONS tr_113 1.0 100 0.00206645  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_114 1.0 100 0.00227661  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_114 1.0 51 0.00015564  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_114 1.0 100 0.11299815  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_114 1.0 100 0.02390517  3 n1 n2 9 6
+cat unif_0.0001_CONS tr_114 1.0 94   2 n3 n2 11 
+cat unif_0.0001_CONS tr_115 1.0 93 0.00089929  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_115 1.0 100 0.06362652  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_115 1.0 100 0.00150252  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_115 1.0 100 0.09311391  3 n1 n2 9 6
+cat unif_0.0001_CONS tr_115 1.0 100   2 n3 n2 11 
+cat unif_0.0001_CONS tr_116 1.0 100 0.01562206  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_116 1.0 96 0.00139693  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_116 1.0 100 0.01271095  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_116 1.0 100 0.06708070  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_116 1.0 100 0.00016549  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_117 1.0 100 0.00876639  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_117 1.0 100 0.01997671  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_117 1.0 100 0.03501398  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_117 1.0 100 0.00024589  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_117 1.0 100 0.00304110  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_118 1.0 100 0.00362537  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_118 1.0 100 0.01886895  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_118 1.0 100 0.00440815  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_118 1.0 100 0.08572750  3 n1 n2 9 6
+cat unif_0.0001_CONS tr_118 1.0 98   2 n3 n2 11 
+cat unif_0.0001_CONS tr_119 1.0 100 0.01424564  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_119 1.0 100 0.00446735  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_119 1.0 100 0.02752925  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_119 1.0 87 0.00011554  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_119 1.0 100 0.00015222  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_12 1.0 87 0.00012750  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_12 1.0 84 0.00047257  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_12 1.0 100 0.01265351  4 n6 n8 7 8
+cat unif_0.0001_CONS tr_12 1.0 90   2 n6 n5 8 
+cat unif_0.0001_CONS tr_12 1.0 100 0.00142736  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_120 1.0 100 0.01550572  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_120 1.0 100 0.00254970  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_120 1.0 100 0.03933465  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_120 1.0 100 0.01478854  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_120 1.0 62 0.00040448  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_13 1.0 100 0.00699048  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_13 1.0 57 0.00027385  5 n5 n8 5 6
+cat unif_0.0001_CONS tr_13 1.0 55   4 n4 n8 7 
+cat unif_0.0001_CONS tr_13 1.0 100 0.03222517  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_13 1.0 100 0.00012705  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_14 1.0 100 0.00056389  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_14 1.0 100 0.00122058  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_14 1.0 100 0.00017392  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_14 1.0 99 0.00014060  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_14 1.0 100 0.04708709  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_15 1.0 91   4 n5 n1 2 
+cat unif_0.0001_CONS tr_15 1.0 100 0.00109019  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_15 1.0 100 0.00037429  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_15 1.0 100 0.03552282  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_15 1.0 100 0.01005368  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_16 1.0 100 0.00259492  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_16 1.0 100 0.00096950  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_16 1.0 100 0.05449134  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_16 1.0 100 0.07135873  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_16 1.0 100 0.00091315  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_17 1.0 100 0.00474480  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_17 1.0 100 0.00125837  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_17 1.0 100 0.00085580  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_17 1.0 100 0.00038086  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_17 1.0 100 0.00045170  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_18 1.0 100 0.00105613  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_18 1.0 100 0.03096479  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_18 1.0 100 0.00233404  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_18 1.0 100 0.00066069  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_18 1.0 100 0.04792005  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_19 1.0 72 0.00020111  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_19 1.0 86 0.00082064  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_19 1.0 100 0.04694967  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_19 1.0 98 0.00192864  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_19 1.0 100 0.09808610  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_2 1.0 100 0.01376002  6 n5 n3 3 4
+cat unif_0.0001_CONS tr_2 1.0 100 0.01430458  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_2 1.0 100 0.00068693  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_2 1.0 100 0.07504565  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_2 1.0 86   2 n4 n3 11 
+cat unif_0.0001_CONS tr_20 1.0 100 0.00129108  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_20 1.0 100 0.00349769  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_20 1.0 100 0.00136504  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_20 1.0 100 0.07025027  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_20 1.0 100 0.03337894  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_21 1.0 99 0.00030317  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_21 1.0 99 0.00024100  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_21 1.0 100 0.01033871  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_21 1.0 100 0.00206538  3 n7 n8 9 10
+cat unif_0.0001_CONS tr_21 1.0 100   2 n6 n8 11 
+cat unif_0.0001_CONS tr_22 1.0 100 0.00484644  5 n4 n6 2 6
+cat unif_0.0001_CONS tr_22 1.0 100 0.01519422  4 n5 n6 4 8
+cat unif_0.0001_CONS tr_22 1.0 100 0.09128871  3 n8 n6 6 10
+cat unif_0.0001_CONS tr_22 1.0 100   2 n7 n6 8 
+cat unif_0.0001_CONS tr_22 1.0 100 0.01188455  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_23 1.0 98 0.00037694  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_23 1.0 100 0.00742961  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_23 1.0 100 0.00911279  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_23 1.0 100 0.00038464  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_23 1.0 100 0.00853451  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_24 1.0 100 0.00215015  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_24 1.0 100 0.00644479  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_24 1.0 100 0.01465758  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_24 1.0 100 0.10746287  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_24 1.0 100 0.01902622  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_25 1.0 100 0.00120738  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_25 1.0 100 0.06156232  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_25 1.0 100 0.00396857  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_25 1.0 100 0.00507849  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_25 1.0 99 0.00010651  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_26 1.0 100 0.07531225  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_26 1.0 100 0.07655296  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_26 1.0 100   2 n4 n3 5 
+cat unif_0.0001_CONS tr_26 1.0 100 0.04479162  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_26 1.0 97 0.00044277  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_27 1.0 100 0.00601738  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_27 1.0 100 0.05748573  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_27 1.0 100 0.09037430  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_27 1.0 100 0.11742217  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_27 1.0 100 0.00184049  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_28 1.0 100 0.00244656  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_28 1.0 100 0.00110662  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_28 1.0 100 0.00065107  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_28 1.0 100 0.00013049  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_28 1.0 100 0.00310077  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_29 1.0 100 0.00063195  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_29 1.0 100 0.02711525  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_29 1.0 100 0.09520851  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_29 1.0 100 0.00080806  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_29 1.0 100 0.02214445  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_3 1.0 99 0.00013547  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_3 1.0 100 0.00215868  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_3 1.0 100 0.07380054  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_3 1.0 100 0.03669866  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_3 1.0 100 0.00377828  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_30 1.0 100 0.00160599  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_30 1.0 100 0.02307372  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_30 1.0 100 0.02732618  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_30 1.0 100 0.00366916  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_30 1.0 100 0.00297517  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_31 1.0 53 0.00026849  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_31 1.0 100 0.00233399  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_31 1.0 100 0.03361672  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_31 1.0 99 0.00180259  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_31 1.0 100 0.05744304  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_32 1.0 100 0.00020244  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_32 1.0 100 0.00173159  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_32 1.0 100 0.00705344  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_32 1.0 100 0.00375685  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_32 1.0 100 0.01248910  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_33 1.0 100 0.00115721  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_33 1.0 100 0.00160146  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_33 1.0 100 0.05908988  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_33 1.0 100 0.00791958  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_33 1.0 100 0.07651028  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_34 1.0 100 0.03488278  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_34 1.0 100 0.00315697  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_34 1.0 100 0.04510449  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_34 1.0 100 0.00029705  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_34 1.0 100 0.00038507  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_35 1.0 100 0.00069456  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_35 1.0 100 0.00640087  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_35 1.0 100 0.00063994  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_35 1.0 100 0.01570729  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_35 1.0 100 0.00042051  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_36 1.0 100 0.00043154  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_36 1.0 100 0.00045308  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_36 1.0 100 0.00442724  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_36 1.0 100 0.01565923  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_36 1.0 100 0.04012649  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_37 1.0 100 0.00013750  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_37 1.0 100 0.00367811  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_37 1.0 100 0.00060017  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_37 1.0 100 0.00725724  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_37 1.0 100 0.00605585  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_38 1.0 100 0.00014094  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_38 1.0 100 0.00031766  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_38 1.0 100 0.00028289  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_38 1.0 100 0.00080475  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_38 1.0 100 0.00673991  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_39 1.0 100 0.00034433  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_39 1.0 100 0.00027549  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_39 1.0 100 0.01211978  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_39 1.0 100 0.00010646  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_39 1.0 100 0.03711040  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_4 1.0 70   4 n6 n8 2 
+cat unif_0.0001_CONS tr_4 1.0 74   3 n7 n8 4 
+cat unif_0.0001_CONS tr_4 1.0 77   2 n4 n8 6 
+cat unif_0.0001_CONS tr_4 1.0 100 0.00074378  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_4 1.0 100 0.00339525  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_40 1.0 99 0.00077692  5 n4 n6 2 6
+cat unif_0.0001_CONS tr_40 1.0 99 0.00132371  4 n5 n6 4 8
+cat unif_0.0001_CONS tr_40 1.0 100 0.10777370  3 n8 n6 6 10
+cat unif_0.0001_CONS tr_40 1.0 100   2 n7 n6 8 
+cat unif_0.0001_CONS tr_40 1.0 100 0.05005212  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_41 1.0 100 0.00117335  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_41 1.0 100 0.04460264  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_41 1.0 100   2 n4 n3 5 
+cat unif_0.0001_CONS tr_41 1.0 100 0.07716324  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_41 1.0 100 0.00028957  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_42 1.0 100 0.00269897  4 n5 n6 2 8
+cat unif_0.0001_CONS tr_42 1.0 100 0.07109278  3 n8 n6 4 10
+cat unif_0.0001_CONS tr_42 1.0 100   2 n7 n6 6 
+cat unif_0.0001_CONS tr_42 1.0 100 0.00577309  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_42 1.0 100 0.05124182  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_43 1.0 100 0.00094623  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_43 1.0 100 0.00156944  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_43 1.0 100 0.01473646  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_43 1.0 100 0.04718380  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_43 1.0 100 0.02575577  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_44 1.0 100 0.00602008  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_44 1.0 100 0.03819742  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_44 1.0 100 0.07922946  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_44 1.0 100 0.00125133  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_44 1.0 100 0.06729525  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_45 1.0 100 0.00120939  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_45 1.0 100 0.00262360  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_45 1.0 100 0.07777350  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_45 1.0 100 0.01962621  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_45 1.0 100 0.00055823  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_46 1.0 100 0.00087660  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_46 1.0 100 0.00127632  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_46 1.0 100 0.06364285  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_46 1.0 100 0.00352243  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_46 1.0 100 0.00958149  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_47 1.0 100 0.01083867  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_47 1.0 100 0.02331894  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_47 1.0 100 0.03737621  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_47 1.0 100 0.03435253  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_47 1.0 100 0.09914077  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_48 1.0 100 0.00033594  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_48 1.0 100 0.00364383  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_48 1.0 100 0.02977254  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_48 1.0 100 0.00332419  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_48 1.0 100 0.02285817  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_49 1.0 100 0.00048671  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_49 1.0 100 0.02024654  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_49 1.0 100 0.03527091  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_49 1.0 100 0.03578261  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_49 1.0 100 0.01181468  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_5 1.0 100 0.00645139  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_5 1.0 100 0.10028941  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_5 1.0 100 0.01381058  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_5 1.0 100 0.09272456  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_5 1.0 100 0.03722075  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_50 1.0 100 0.01003929  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_50 1.0 100 0.10554986  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_50 1.0 75 0.00151963  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_50 1.0 100 0.05946818  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_50 1.0 100 0.00331658  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_51 1.0 100 0.00090346  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_51 1.0 100 0.02136835  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_51 1.0 100 0.00139095  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_51 1.0 100 0.00212154  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_51 1.0 100 0.00999323  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_52 1.0 100 0.00082086  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_52 1.0 100 0.00516151  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_52 1.0 100 0.07740879  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_52 1.0 100 0.07743449  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_52 1.0 84 0.00022720  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_53 1.0 100 0.00676470  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_53 1.0 100 0.01989793  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_53 1.0 100 0.00061160  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_53 1.0 100 0.00624376  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_53 1.0 99   2 n3 n2 11 
+cat unif_0.0001_CONS tr_54 1.0 94 0.00019172  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_54 1.0 100 0.00235954  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_54 1.0 100 0.00037384  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_54 1.0 100 0.01487967  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_54 1.0 100 0.02079610  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_55 1.0 67   5 n6 n1 2 
+cat unif_0.0001_CONS tr_55 1.0 100 0.00056587  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_55 1.0 100 0.00121459  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_55 1.0 100 0.03873078  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_55 1.0 100 0.10465529  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_56 1.0 100 0.00047579  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_56 1.0 100 0.02029430  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_56 1.0 100 0.04797753  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_56 1.0 77 0.00024649  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_56 1.0 100 0.01580495  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_57 1.0 100 0.03665417  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_57 1.0 100 0.07186739  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_57 1.0 100 0.00221353  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_57 1.0 100 0.00070591  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_57 1.0 100 0.00787789  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_58 1.0 100 0.00030740  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_58 1.0 100 0.00389482  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_58 1.0 100 0.00108917  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_58 1.0 100 0.03730460  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_58 1.0 100 0.00103829  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_59 1.0 86 0.00030070  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_59 1.0 96 0.00048778  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_59 1.0 100 0.02354993  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_59 1.0 100 0.01280212  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_59 1.0 100 0.00718827  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_6 1.0 100 0.00156287  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_6 1.0 100 0.00807478  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_6 1.0 100 0.00154460  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_6 1.0 100 0.00407185  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_6 1.0 100 0.00050121  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_60 1.0 100 0.00020845  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_60 1.0 100 0.00082892  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_60 1.0 100 0.04141100  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_60 1.0 100 0.00010418  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_60 1.0 100 0.03659297  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_61 1.0 100 0.00139180  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_61 1.0 100 0.00752552  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_61 1.0 100 0.00221933  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_61 1.0 100 0.01976682  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_61 1.0 100 0.00184701  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_62 1.0 100 0.01098095  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_62 1.0 100 0.06323082  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_62 1.0 100 0.06775178  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_62 1.0 93   3 n4 n1 9 
+cat unif_0.0001_CONS tr_62 1.0 100 0.00094653  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_63 1.0 100 0.00165004  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_63 1.0 100 0.00258427  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_63 1.0 100 0.00895949  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_63 1.0 100 0.02505901  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_63 1.0 100 0.00133982  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_64 1.0 97 0.00010175  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_64 1.0 100 0.00466757  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_64 1.0 52 0.00039472  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_64 1.0 100 0.00165965  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_64 1.0 100 0.00023041  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_65 1.0 100 0.00085835  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_65 1.0 100 0.01143839  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_65 1.0 100 0.01397789  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_65 1.0 100 0.01838016  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_65 1.0 100 0.00336576  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_66 1.0 100 0.02841663  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_66 1.0 100 0.04243162  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_66 1.0 100 0.03218504  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_66 1.0 100 0.00058721  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_66 1.0 100 0.00389406  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_67 1.0 100 0.02230171  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_67 1.0 100 0.01768674  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_67 1.0 93 0.00013181  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_67 1.0 72 0.00021887  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_67 1.0 100 0.00261280  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_68 1.0 100 0.00783305  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_68 1.0 100 0.00513584  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_68 1.0 100 0.08783765  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_68 1.0 100 0.00216565  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_68 1.0 89   2 n3 n1 11 
+cat unif_0.0001_CONS tr_69 1.0 100 0.00061861  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_69 1.0 100 0.00645643  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_69 1.0 100 0.01853668  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_69 1.0 89 0.00029074  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_69 1.0 100 0.00087622  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_7 1.0 100 0.04764166  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_7 1.0 100 0.03716083  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_7 1.0 100 0.00493694  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_7 1.0 90 0.00012146  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_7 1.0 100 0.00021949  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_70 1.0 100 0.00036083  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_70 1.0 100 0.01293942  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_70 1.0 100 0.00724530  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_70 1.0 100 0.00593620  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_70 1.0 100 0.01442809  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_71 1.0 100 0.00101977  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_71 1.0 100 0.00177755  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_71 1.0 100 0.00013761  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_71 1.0 100 0.00020383  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_71 1.0 100 0.00061952  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_72 1.0 100 0.00020804  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_72 1.0 100 0.00552915  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_72 1.0 100 0.00102701  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_72 1.0 100 0.03279729  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_72 1.0 100 0.00518848  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_73 1.0 100 0.00821653  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_73 1.0 100 0.01988513  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_73 1.0 100 0.01933014  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_73 1.0 100 0.01285872  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_73 1.0 100 0.04147823  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_74 1.0 100 0.00046457  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_74 1.0 100 0.00088574  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_74 1.0 100 0.00418023  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_74 1.0 100 0.00238295  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_74 1.0 100 0.10454687  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_75 1.0 100 0.00172446  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_75 1.0 100 0.00147424  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_75 1.0 100 0.00083348  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_75 1.0 100 0.00013671  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_75 1.0 100 0.00014162  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_76 1.0 100 0.05296002  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_76 1.0 100 0.03855193  3 n7 n8 4 10
+cat unif_0.0001_CONS tr_76 1.0 100   2 n6 n8 6 
+cat unif_0.0001_CONS tr_76 1.0 63   3 n4 n1 9 
+cat unif_0.0001_CONS tr_76 1.0 100 0.01200495  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_77 1.0 100   4 n5 n1 2 
+cat unif_0.0001_CONS tr_77 1.0 100 0.09136625  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_77 1.0 100 0.00907238  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_77 1.0 100 0.00278114  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_77 1.0 100 0.00169529  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_78 1.0 100 0.00140507  5 n5 n1 2 10
+cat unif_0.0001_CONS tr_78 1.0 100 0.00948937  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_78 1.0 100 0.00052896  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_78 1.0 100 0.02912528  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_78 1.0 100 0.00041236  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_79 1.0 100 0.00077865  5 n5 n2 2 10
+cat unif_0.0001_CONS tr_79 1.0 100 0.00636631  4 n4 n2 4 8
+cat unif_0.0001_CONS tr_79 1.0 100 0.02896592  3 n1 n2 6 6
+cat unif_0.0001_CONS tr_79 1.0 100   2 n3 n2 8 
+cat unif_0.0001_CONS tr_79 1.0 100 0.00017582  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_8 1.0 100 0.00146656  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_8 1.0 100 0.10124077  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_8 1.0 92 0.00119643  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_8 1.0 100 0.07620658  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_8 1.0 100 0.02348267  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_80 1.0 100 0.00316370  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_80 1.0 100 0.04689629  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_80 1.0 100 0.00049826  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_80 1.0 100 0.02095081  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_80 1.0 100 0.00334353  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_81 1.0 100 0.00478968  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_81 1.0 100 0.00794884  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_81 1.0 100 0.00171056  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_81 1.0 58 0.00069095  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_81 1.0 100 0.07507856  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_82 1.0 98 0.00100693  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_82 1.0 100 0.10174491  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_82 1.0 100 0.00662604  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_82 1.0 100 0.02652756  3 n1 n2 9 6
+cat unif_0.0001_CONS tr_82 1.0 98   2 n3 n2 11 
+cat unif_0.0001_CONS tr_83 1.0 100 0.00097592  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_83 1.0 100 0.00386707  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_83 1.0 100 0.08465099  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_83 1.0 100 0.00084315  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_83 1.0 100 0.08019172  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_84 1.0 100 0.00462519  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_84 1.0 100 0.03123716  3 n7 n8 4 10
+cat unif_0.0001_CONS tr_84 1.0 100   2 n6 n8 6 
+cat unif_0.0001_CONS tr_84 1.0 100 0.00871452  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_84 1.0 100 0.06517774  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_85 1.0 100 0.00664563  5 n5 n2 2 10
+cat unif_0.0001_CONS tr_85 1.0 100 0.07527856  4 n4 n2 4 8
+cat unif_0.0001_CONS tr_85 1.0 100 0.09082131  3 n1 n2 6 6
+cat unif_0.0001_CONS tr_85 1.0 59   2 n3 n2 8 
+cat unif_0.0001_CONS tr_85 1.0 100 0.00052001  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_86 1.0 100 0.00401207  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_86 1.0 100 0.01861240  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_86 1.0 100 0.02860162  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_86 1.0 100 0.00743118  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_86 1.0 100 0.00493865  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_87 1.0 100 0.00196122  4 n6 n8 2 8
+cat unif_0.0001_CONS tr_87 1.0 84   2 n6 n5 3 
+cat unif_0.0001_CONS tr_87 1.0 100 0.00573061  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_87 1.0 100 0.00333852  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_87 1.0 100 0.01020465  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_88 1.0 100 0.00185028  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_88 1.0 100 0.02273879  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_88 1.0 100 0.06692480  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_88 1.0 96 0.00018398  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_88 1.0 100 0.01294495  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_89 1.0 98 0.00030573  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_89 1.0 100 0.00663229  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_89 1.0 100 0.02998516  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_89 1.0 100 0.00557774  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_89 1.0 100 0.09421059  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_9 1.0 85   5 n6 n1 2 
+cat unif_0.0001_CONS tr_9 1.0 100 0.01290805  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_9 1.0 100 0.01153922  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_9 1.0 100 0.00752692  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_9 1.0 100 0.06139646  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_90 1.0 100 0.04582839  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_90 1.0 100 0.07549344  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_90 1.0 100 0.07319571  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_90 1.0 100 0.00014584  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_90 1.0 54 0.00024001  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_91 1.0 100 0.00640103  5 n4 n8 2 6
+cat unif_0.0001_CONS tr_91 1.0 100 0.00132136  4 n5 n8 4 8
+cat unif_0.0001_CONS tr_91 1.0 100 0.08605464  3 n6 n8 6 10
+cat unif_0.0001_CONS tr_91 1.0 100 0.00124576  2 n7 n8 8 12
+cat unif_0.0001_CONS tr_91 1.0 90   2 n3 n1 11 
+cat unif_0.0001_CONS tr_92 1.0 100 0.00426236  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_92 1.0 100 0.00023526  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_92 1.0 100 0.00266657  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_92 1.0 100 0.00017499  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_92 1.0 100 0.00186867  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_93 1.0 51   6 n4 n8 3 
+cat unif_0.0001_CONS tr_93 1.0 100 0.03605228  4 n4 n1 4 8
+cat unif_0.0001_CONS tr_93 1.0 100 0.00179204  3 n3 n1 6 6
+cat unif_0.0001_CONS tr_93 1.0 100 0.10369875  2 n2 n1 8 4
+cat unif_0.0001_CONS tr_93 1.0 100 0.03914559  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_94 1.0 100 0.00020497  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_94 1.0 100 0.01916090  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_94 1.0 100 0.03368224  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_94 1.0 100 0.00560098  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_94 1.0 100 0.00197573  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_95 1.0 100 0.00061695  4 n5 n6 2 8
+cat unif_0.0001_CONS tr_95 1.0 100 0.10304555  3 n8 n6 4 10
+cat unif_0.0001_CONS tr_95 1.0 91   2 n7 n6 6 
+cat unif_0.0001_CONS tr_95 1.0 100 0.00175182  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_95 1.0 100 0.00082233  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_96 1.0 100 0.00130044  4 n4 n1 2 8
+cat unif_0.0001_CONS tr_96 1.0 100 0.01746810  3 n3 n1 4 6
+cat unif_0.0001_CONS tr_96 1.0 100 0.00095989  2 n2 n1 6 4
+cat unif_0.0001_CONS tr_96 1.0 100 0.00092250  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_96 1.0 100 0.03090358  2 n7 n8 11 12
+cat unif_0.0001_CONS tr_97 1.0 100 0.00373392  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_97 1.0 100 0.03561763  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_97 1.0 100 0.03615345  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_97 1.0 100 0.07267124  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_97 1.0 100 0.01433053  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_98 1.0 100 0.00042580  4 n5 n8 2 8
+cat unif_0.0001_CONS tr_98 1.0 100 0.00098102  3 n6 n8 4 10
+cat unif_0.0001_CONS tr_98 1.0 90 0.00039342  2 n7 n8 6 12
+cat unif_0.0001_CONS tr_98 1.0 100 0.00171094  3 n3 n1 9 6
+cat unif_0.0001_CONS tr_98 1.0 100 0.00509686  2 n2 n1 11 4
+cat unif_0.0001_CONS tr_99 1.0 100 0.00099356  6 n3 n8 3 4
+cat unif_0.0001_CONS tr_99 1.0 100 0.00475685  5 n4 n8 5 6
+cat unif_0.0001_CONS tr_99 1.0 100 0.05103359  4 n5 n8 7 8
+cat unif_0.0001_CONS tr_99 1.0 100 0.00670400  3 n6 n8 9 10
+cat unif_0.0001_CONS tr_99 1.0 92 0.00025883  2 n7 n8 11 12
