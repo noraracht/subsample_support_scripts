@@ -120,7 +120,7 @@ bp<-ggplot(aes(x=as.factor(true_dist), y=Variance, color=condition, group = cond
   ggsave("cherry_var.pdf", width=4,height = 3.5, bp)
 
 bp
-
+dp
 
 p1 <- ggarrange(dp, bp, labels = c("A", "B"), widths=c(0.5, 0.5), ncol = 2, nrow = 1)
 
