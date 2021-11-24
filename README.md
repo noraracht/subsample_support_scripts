@@ -51,7 +51,7 @@ This repository contains raw data and output reports we used for the study.
 
 
 * Cherry trees simulations
-  - [Tol_all_kmers_bin_comp_lsh_kraken_clark_clarkS_0914_customTax.xlsx](https://github.com/noraracht/lsh_scripts/blob/main/Tol_all_kmers_bin_comp_lsh_kraken_clark_clarkS_0914_customTax.xlsx) contains recall and false positive information computed per bin for all CONSULT, Kraken-II, CLARK, CLARK-S and Bowtie. It is an input for [Tol_allkmers_bin_cmp_030821.R script](https://github.com/noraracht/lsh_scripts/blob/main/Tol_allkmers_bin_cmp_030721.R) to generate curves depicted in Fig. 2a. 
+  - [combined_all_dist_removed_outliers_threeD.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_all_dist_removed_outliers_threeD.csv) and  [combined_all_dist_removed_outliers_threeD_16x.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_all_dist_removed_outliers_threeD_16x.csv) contains distance estimates for variable subsample coverage when original sample is either at 1x or 16x correspondingly. It is an input for [cherry_var_subsample_sz.R](https://github.com/noraracht/subsample_support_scripts/blob/main/cherry_var_subsample_sz.R) to generate plots depicted in Fig. 3c and S3. 
   
    - [tools_runtime_1030_in_paper.xlsx](https://github.com/noraracht/lsh_scripts/blob/main/tools_runtime_1030_in_paper.xlsx) includes running time and memory data for CONSULT, Kraken-II, CLARK, CLARK-S and Bowtie used for performance comparison of the tools. The table serves as an input into [tools_runtime_1014.R](https://github.com/noraracht/lsh_scripts/blob/main/tools_runtime_1014.R) to generate bar plots shown in Fig. 2b. 
     
