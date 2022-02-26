@@ -4,11 +4,11 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 getwd()
 
 #d = read.csv('total_var.csv')
-d = read.csv('assembly_gbsummary_bee.csv')
+d = read.csv('dros_masking_summary.csv')
 
 require(Hmisc)
 
-latex(format(read.csv('assembly_gbsummary_bee.csv')),file="t4.tex",rowname=NULL)
+latex(format(read.csv('dros_masking_summary.csv')),file="dros_sum.tex",rowname=NULL)
 
 ###################
 ld = d[,c(3,8:11,2,17)]
