@@ -81,7 +81,7 @@ This repository contains raw data and output reports we used for the study.
 
 * Variable number of replicates
    <!--- Scirpt to generate theoretical model in Fig. 1b. and Fig. S1.-->
-    - [bee_support_vs_reps.R](https://github.com/noraracht/subsample_support_scripts/blob/main/bee_support_vs_reps.R) combines data from [combined_resample_all_dist.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_resample_all_dist.csv) that includes distance estimates for resampled Drosophila samples and [combined_subsample_all_dist.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/combined_subsample_all_dist.csv) containing distances for subsampled Drosophila samples. The script generates violin plot on Fig. 1b.
+    - [bee_support_vs_reps.R](https://github.com/noraracht/subsample_support_scripts/blob/main/bee_support_vs_reps.R) combines data from [summary_main.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/summary_main.csv) and [summary_cons.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/summary_cons.csv) containing support values with respect to different number of replicates. The script generates plot on Fig. S10.
    
 
 * Workflow diagrams
