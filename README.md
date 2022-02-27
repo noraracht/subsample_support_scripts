@@ -12,6 +12,9 @@ This repository contains raw data and output reports we used for the study.
     - [d=0.15](https://tera-trees.com/data/consult/v1.0.0/d0.15_100sims.tar.gz)
     - [d=0.25](https://tera-trees.com/data/consult/v1.0.0/d0.25_100sims.tar.gz)
     
+* Cherry tree contol files:
+    - [d=0.25](https://tera-trees.com/data/consult/v1.0.0/d0.25_100sims.tar.gz)
+    
 * Felsenstein-zone quartet trees simulations:
     - [1-500 replicates](https://tera-trees.com/data/consult/v1.0.0/variable_a_b.tar.gz)
     - [501-1000 replicates](https://tera-trees.com/data/consult/v1.0.0/variable_a_b_2.tar.gz)
