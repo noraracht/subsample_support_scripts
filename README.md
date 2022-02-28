@@ -4,8 +4,8 @@ This repository contains raw data and output reports we used for the study.
 
 ## Raw data
 * Cherry tree simulations:
-    - [d=0.01](https://tera-trees.com/data/consult/v1.0.0/d0.01_100sims.tar.gz)
     <!--- - [d=0.01](https://drive.google.com/file/d/1LlZXDjqWcwoqcYxaa_Ywf8eNJzL9XQH0/view?usp=sharing)--->
+    - [d=0.01](https://tera-trees.com/data/consult/v1.0.0/d0.01_100sims.tar.gz)
     - [d=0.02](https://tera-trees.com/data/consult/v1.0.0/d0.02_100sims.tar.gz)
     - [d=0.05](https://tera-trees.com/data/consult/v1.0.0/d0.05_100sims.tar.gz)
     - [d=0.10](https://tera-trees.com/data/consult/v1.0.0/d0.10_100sims.tar.gz)
