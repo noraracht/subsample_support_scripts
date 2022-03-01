@@ -31,14 +31,14 @@
   [deleterate]   0.00                            //  deletion rate = 0.12 relative to substitution rate of 1
   
 [TREE] treename                                            //  User trees are defined here
-  (n1:0.125,n2:0.125);   //  d0.25
+  (n1:0.01,n2:0.01);   //  d0.02
 
 
 [PARTITIONS] partitionname             //  [PARTITIONS] blocks say which models go with
   [treename modelname 100000000]       //  which trees and define the length of the
                                        //  sequence generated at the root (1000 here).
 
-[EVOLVE] partitionname 100 fel_tr      //  This will generate 100 replicate datasets,
+[EVOLVE] partitionname 100 fel_tr      //  This will generate 100 replicate datasets 
                                        //  from the [PARTITIONS] block named above. Prefix should be cherry
 
 // The true alignment will be output in a file named outputname_TRUE.phy
