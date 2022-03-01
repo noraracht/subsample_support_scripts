@@ -87,7 +87,7 @@ This repository contains raw data and output reports we used for the study.
     - [bee_support_vs_reps.R](https://github.com/noraracht/subsample_support_scripts/blob/main/bee_support_vs_reps.R) combines data from [summary_main.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/summary_main.csv) and [summary_cons.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/summary_cons.csv) containing support values with respect to different number of replicates. The script generates plot on Fig. S10.
 
 
-* Effect of the proportion of invariable sites 
+* Proportion of invariable sites 
    - [8leaves.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves.txt), [8leaves_CONS.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves_CONS.txt), [alpha_balanced_unif_0.00001_form.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/alpha_balanced_unif_0.00001_form.txt) and [alpha_caterpillar_unif_0.00001_form.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/alpha_caterpillar_unif_0.00001_form.txt) contain support, tree correctness and alpha data for 8 taxa tree simulations. These files serves as an input into [fel_trees_summary_v2_8taxa_alpha.R](https://github.com/noraracht/subsample_support_scripts/blob/main/fel_trees_summary_v2_8taxa_alpha.R) to generate curves demonstrated in Fig. S12.
 
 
