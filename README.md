@@ -92,6 +92,10 @@ This repository contains raw data and output reports we used for the study.
    - [8leaves.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves.txt), [8leaves_CONS.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves_CONS.txt), [alpha_balanced_unif_0.00001_form.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/alpha_balanced_unif_0.00001_form.txt) and [alpha_caterpillar_unif_0.00001_form.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/alpha_caterpillar_unif_0.00001_form.txt) contain support, tree correctness and alpha data for 8 taxa tree simulations. These files serves as an input into [fel_trees_summary_v2_8taxa_alpha.R](https://github.com/noraracht/subsample_support_scripts/blob/main/fel_trees_summary_v2_8taxa_alpha.R) to generate Fig. S12.
 
 
+* Variable models of evolution
+   - [8leaves.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves.txt), [8leaves_CONS.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves_CONS.txt), [8leaves_FN81.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves_FN81.txt) and [8leaves_CONS_FN81.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves_CONS_FN81.txt) contain support and branch length data for 8 taxa tree simulations. These files serves as an input into [fel_trees_summary_v2_8taxa_FN81.R](https://github.com/noraracht/subsample_support_scripts/blob/main/fel_trees_summary_v2_8taxa_FN81.R) to generate curves demonstrated in Fig. S13.
+
+
 * Workflow diagrams
    <!--- Scirpt to generate theoretical model in Fig. 1b. and Fig. S1.-->
    - [workflow_v1.pptx](https://github.com/noraracht/subsample_support_scripts/blob/main/workflow_v1.pptx) is the sketch of the general subsample workflow displayed on Fig. 2a.
