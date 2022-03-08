@@ -114,7 +114,7 @@ a1 <-ggplot(data = r,aes(x = cut(V13,c(min(V13)-0.001,quantile(V13,probs=(1:10)/
   #                alpha = 0.6)+
   theme_classic()+
   facet_wrap(~correction, labeller=hospital_labeller)+
-  scale_x_discrete(name="Alpha")+
+  scale_x_discrete(name="Heterogeneity rate")+
   theme(axis.text.x = element_text(angle = 35, vjust = 1, hjust=1))+
   scale_y_continuous(name="Support", label=percent)
 
@@ -191,7 +191,7 @@ a2 <-ggplot(data = new_r,aes(x = cut(V13,c(min(V13)-0.001,quantile(V13,probs=(1:
   #                alpha = 0.6)+
   theme_classic()+
   facet_wrap(~correction_sort, labeller=hospital_labeller)+
-  scale_x_discrete(name="Alpha")+
+  scale_x_discrete(name="Heterogeneity rate")+
   theme(axis.text.x = element_text(angle = 35, vjust = 1, hjust=1))+
   scale_y_continuous(name="Correct branches")
   #scale_color_manual(name="", values = c(my_colors[2], my_colors [1] ), 
