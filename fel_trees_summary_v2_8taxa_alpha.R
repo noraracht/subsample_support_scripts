@@ -104,7 +104,8 @@ ggplot(r, aes(x = bins, y = V5, color=correction)) +
 
 r
 
-a1 <-ggplot(data = r,aes(x = cut(V13,c(min(V13)-0.001,quantile(V13,probs=(1:10)/10))), 
+a1 <-ggplot(data = r,aes( color = correct,
+  x = cut(V13,c(min(V13)-0.001,quantile(V13,probs=(1:10)/10))), 
                              y = V5/100)) +
   geom_violin(draw_quantiles = c(1/4,1/2,3/4))+
   #geom_pointrange(stat = "summary",
@@ -113,10 +114,14 @@ a1 <-ggplot(data = r,aes(x = cut(V13,c(min(V13)-0.001,quantile(V13,probs=(1:10)/
   #                fun.y = "median",
   #                alpha = 0.6)+
   theme_classic()+
-  facet_wrap(~correction, labeller=hospital_labeller)+
+  facet_wrap(~correction, labeller=hospital_labeller,ncol=2)+
   scale_x_discrete(name="Heterogeneity rate")+
   theme(axis.text.x = element_text(angle = 35, vjust = 1, hjust=1))+
-  scale_y_continuous(name="Support", label=percent)
+  scale_y_continuous(name="Support", label=percent)+
+  stat_summary(position = position_dodge(width = 0.8))+
+  scale_color_brewer(palette = "Dark2",labels=c("Incorrect","Correct"),name="")+
+  theme(legend.position = c(.18,.14), 
+        legend.margin=margin(t = 0.0, unit='cm') )+
 
 a1
 
