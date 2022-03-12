@@ -52,7 +52,7 @@ This repository contains raw data and output reports we used for the study.
     - [Original full ASTRAL phylogeny](https://github.com/noraracht/subsample_support_scripts/blob/main/astral.tre)
     
     
-* F81 model:
+* F81 model (upload in progress):
     - [Eight taxa balanced]
     - [Eight taxa unbalanced (caterpillar)]
     
