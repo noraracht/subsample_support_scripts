@@ -258,13 +258,13 @@ dp<-ggplot(aes(x=reorder(sub("Drosophila ","D. ",sample),-est_true),y=est_true, 
   theme(axis.text.x = element_text(angle = 25, vjust = 1.0, hjust=1.0, face='italic'), 
         axis.title.x=element_blank(),)+
   scale_color_manual(name="", values = c(my_colors[4], my_colors[3]), 
-                     labels = c("Resampling (bootstrap)", "Subsampling"))+
+                     labels = c("Resampling (bootstrapping)", "Subsampling"))+
   #theme(axis.text.x = element_text(angle = 45))+
   #scale_color_manual(name="", values = c("#ca0020", "#0571b0"), )+
   #theme(legend.text=element_text(size=10), legend.title=element_text(size=10))+
   #theme(legend.position = c(0.5, -0.1), legend.direction="horizontal")+
   #theme(legend.position = 'bottom', legend.direction="horizontal")+
-  theme(legend.position = c(.84,.92),
+  theme(legend.position = c(.82,.92),
         legend.margin=margin(t = 0.0, unit='cm'), legend.direction="vertical" )+
   theme(plot.margin=unit(c(5.5,5.5,5.5,20.0),"pt"))
 #scale_y_continuous(limits = c(0.965, NA))+
