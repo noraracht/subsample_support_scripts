@@ -52,9 +52,9 @@ This repository contains raw data and output reports we used for the study.
     - [Original full ASTRAL phylogeny](https://github.com/noraracht/subsample_support_scripts/blob/main/astral.tre)
     
     
-* F81 model (upload in progress):
-    - [Eight taxa balanced]
-    - [Eight taxa unbalanced (caterpillar)]
+* F81 model:
+    - [Eight taxa balanced](https://drive.google.com/file/d/1Ez21XcHC3fkJx_arTK1vmIx2aJIOg_pw/view?usp=sharing)
+    - [Eight taxa unbalanced (caterpillar)](https://drive.google.com/file/d/1FlTmdhoJ69fKrpRq3tIENx1EXtB8FMZb/view?usp=sharing)
     - [Bee assemblies](https://drive.google.com/file/d/1OVOjGK5kZUOLc2Gk_SsWL5vS5pwB5FaT/view?usp=sharing)
     - [Bee 1x sequencing data](https://drive.google.com/file/d/12yEK1xlkb_SpIxkx_CBPVlwInKiteoRb/view?usp=sharing)
     - [Drosophila assemblies](https://drive.google.com/file/d/1_ObieGmRsHlEKT9AFES6rNrb9ifIsW3i/view?usp=sharing)
