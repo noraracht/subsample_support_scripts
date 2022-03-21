@@ -55,10 +55,10 @@ This repository contains raw data and output reports we used for the study.
 * F81 model (upload in progress):
     - [Eight taxa balanced]
     - [Eight taxa unbalanced (caterpillar)]
-    - [Bee assemblies]
-    - [Bee 1x sequencing data]
-    - [Drosophila assemblies]
-    - [Drosophila sequencing data]
+    - [Bee assemblies](https://drive.google.com/file/d/1OVOjGK5kZUOLc2Gk_SsWL5vS5pwB5FaT/view?usp=sharing)
+    - [Bee 1x sequencing data](https://drive.google.com/file/d/12yEK1xlkb_SpIxkx_CBPVlwInKiteoRb/view?usp=sharing)
+    - [Drosophila assemblies](https://drive.google.com/file/d/1_ObieGmRsHlEKT9AFES6rNrb9ifIsW3i/view?usp=sharing)
+    - [Drosophila sequencing data](https://drive.google.com/file/d/12WKBwaubM2wNTjXdswTA5CUcNcjkgjIU/view?usp=sharing)
 
 
 * Repeat masking:
