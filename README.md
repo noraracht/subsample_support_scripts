@@ -63,7 +63,7 @@ This repository contains raw data and output reports we used for the study.
 
 * Repeat masking (upload in progress):
     - [Bee assemblies]
-    - [Drosophila assemblies]
+    - [Drosophila assemblies](https://drive.google.com/file/d/1HTtHbtv5ZuHZbLfurtXi77CToPxT_8n2/view?usp=sharing)
 
 
 * Variable number of subsample replicates (upload in progress):
