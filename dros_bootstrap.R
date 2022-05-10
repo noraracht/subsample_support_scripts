@@ -274,6 +274,54 @@ dp
 ggsave("resample_corrected_uncorrected.pdf", width=6.0,height = 3.5, dp)
 
 
+
+#my_colors <- RColorBrewer::brewer.pal(8, "Dark2")
+
+dp<-ggplot(aes(x=reorder(sub("Drosophila ","D. ",sample),-est_true),y=est_true, color=test), data=d_all[d_all$test !='subsample', ])+
+  #geom_point(alpha=0.5)+
+  #stat_summary(fun.data = "mean_sdl", fun.args = list(mult = 1), geom="pointrange", alpha=0.5)+
+  #stat_summary(aes(group=test),fun = mean, fun.min = min, fun.max = max, geom="pointrange", alpha=0.5)+
+  #stat_summary(fun = mean, fun.min = min, fun.max = max, colour = test, size = 2) +
+  #stat_summary(geom="pointrange", aes(group=condition), position=position_dodge(.9),
+  #             fun.data = mean_sdl, colour='black', fun.args = list(mult = 1))+
+  
+  geom_violin(draw_quantiles = c(1/4,1/2,3/4), key_glyph = draw_key_path)+
+  #theme_bw()+
+  theme_classic()+
+  geom_hline(yintercept=1.0, linetype="dashed", 
+             color = "grey", size=0.4)+
+  
+  #facet_wrap(facets = vars(true_dist), ncol = 5)+
+  #geom_hline(yintercept=1.0, color='grey', linetype="dashed", size = 0.4)+
+  labs(y= "Estimated/expected distance", x = NA, size = 10)+
+  theme(axis.text.x = element_text(angle = 25, vjust = 1.0, hjust=1.0, face='italic'), 
+        axis.title.x=element_blank(),)+
+  scale_color_manual(name="", values = c(my_colors[4], my_colors[1]), 
+                     labels = c("Resampling reads with replacement (bootstrapping)", "Subsampling reads without replacement"))+
+  #theme(axis.text.x = element_text(angle = 45))+
+  #scale_color_manual(name="", values = c("#ca0020", "#0571b0"), )+
+  #theme(legend.text=element_text(size=10), legend.title=element_text(size=10))+
+  #theme(legend.position = c(0.5, -0.1), legend.direction="horizontal")+
+  #theme(legend.position = 'bottom', legend.direction="horizontal")+
+  theme(legend.position = c(.66,.92),
+        legend.margin=margin(t = 0.0, unit='cm'), legend.direction="vertical" )+
+  theme(plot.margin=unit(c(5.5,5.5,5.5,20.0),"pt"))+
+  theme(legend.text=element_text(size=10))
+#scale_y_continuous(limits = c(0.965, NA))+
+#theme(legend.position = "none")
+#geom_boxplot(aes(y=sqrt(prct_reads)*(dist-mean)+me),color="red")
+dp
+ggsave("resample_corrected_uncorrected_v2.pdf", width=6.0,height = 3.5, dp)
+
+# Show only colorblind-friendly brewer palettes
+display.brewer.all(colorblindFriendly = TRUE)
+# View a single RColorBrewer palette by specifying its name
+display.brewer.pal(n = 8, name = 'Dark2')
+# Hexadecimal color specification 
+brewer.pal(n = 8, name = "Dark2")
+
+d_all
+
 ##############################################################################
 ##############################################################################
 
