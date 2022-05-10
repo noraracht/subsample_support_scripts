@@ -208,6 +208,69 @@ ggsave("fel_2taxa_three_plots.pdf", width=5.0, height = 12.0, fleft)
 
 
 
+############################################################################
+# Plots in ppt
+
+f1 <-ggplot(aes(x=bootstrap,y=ratio/100, color = correction, group=correction, linetype = correction ), 
+            data=d)+
+  #geom_line(linetype = "dashed", color = "black", data=d[d$correction %in% c("Median")])+
+  geom_point(
+    aes(size=(`FALSE`+`TRUE`)),data=d[d$correction!="median",],alpha=0.5
+  )+
+  geom_line(show.legend = F)+
+  theme_classic()+
+  scale_y_continuous(labels=percent)+
+  #scale_x_discrete(breaks = levels(d$bootstrap),
+  #                 limits = c(levels(d$bootstrap)[1], "skip", "skip","skip", levels(d$bootstrap)[2],"skip", levels(d$bootstrap)[3], "skip",levels(d$bootstrap)[4], "skip",levels(d$bootstrap)[5],"skip", levels(d$bootstrap)[6:7]))+
+  scale_linetype_manual(values=c(1,1,3)) +
+  #scale_linetype_manual(values=c("dashed","dotted","dashed"))+
+  #scale_color_brewer(palette = "Dark2", name="",labels=c("Mean_main","Consensus", "Bin median"))+
+  scale_color_manual(name="Method", values = c(my_colors[1], my_colors [2] , my_colors[8] ), 
+                     labels=c("Main", "Consensus", "Ideal support"))+
+  theme(legend.position = c(.72,.25),
+        legend.box = "horizontal",
+        legend.margin=margin(t = 0.0, unit='cm'))+
+  scale_size_binned_area(name="# trees",max_size = 4)+
+  labs(y= "Correct / (Correct+Incorrect)", x = "Support bin")+
+  theme(axis.text = element_text(size = 12))+
+  theme(axis.title = element_text(size = 12))+
+  theme(legend.text=element_text(size=12))+
+  theme(legend.title=element_text(size=12))
+  #theme(axis.text.x = element_text(angle = 25, vjust = 1.0, hjust=1))
+
+#geom_line(aes(y=(`TRUE`+`FALSE`)/nrow(d)),color="red")
+#geom_line(aes(y=(`FALSE`)/nrow(d)),color="blue")
+f1
+#ggsave("correct_mean_mean.pdf")
+ggsave("correct_v2_inppt.pdf",width=5,height = 4)
+
+
+
+
+f3 <-ggplot(aes(x=FP/(FP+TN),y=TP/(TP+FN),color=correction),data=cm)+
+  #geom_point()+
+  geom_path()+
+  theme_classic()+
+  labs(y= "Recall", x = "FPR")+
+  #geom_text(aes(label=ths),data=cm[cm$ths %% 10==0,], nudge_x = -0.015,nudge_y = 0.01, show.legend = F )+
+  geom_point(data=cm[cm$ths %% 10==0,], )+
+  geom_text_repel(aes(label=ths),data=cm[cm$ths %% 10==0,], nudge_x = -0.015,nudge_y = 0.01, show.legend = F )+
+  scale_color_manual(name="", values = c(my_colors[2], my_colors [1], my_colors[8] ), 
+                     labels=c("Consensus", "Main","Bin median"))+
+  theme(legend.position = c(.86,.10), 
+        legend.margin=margin(t = 0.0, unit='cm') )+
+  guides(colour = guide_legend(title = NULL, order = 1, reverse=TRUE, ))+
+  theme(axis.text = element_text(size = 12))+
+  theme(axis.title = element_text(size = 12))+
+  theme(legend.text=element_text(size=12))+
+  theme(legend.title=element_text(size=12))
+f3
+ggsave("correct_v3fixed_inppt.pdf",width=5,height = 4)
+
+
+
+############################################################################
+
 
 #reload data 
 # d2=read.csv('constensus6all.txt',sep="\t",h=F)
