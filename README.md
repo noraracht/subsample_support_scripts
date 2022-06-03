@@ -94,7 +94,7 @@ This repository contains raw data and output reports we used for the study.
 
 
 * Eight taxa simulations
-   - [8leaves.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves.txt), [8leaves_CONS.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves_CONS.txt), [original_branch_length_bal.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/original_branch_length_bal.csv) and [original_branch_length_cat.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/original_branch_length_cat.csv) contain support and branch length data for 8 taxa tree simulations. These files serves as an input into [fel_trees_summary_v2_8taxa.R](https://github.com/noraracht/subsample_support_scripts/blob/main/fel_trees_summary_v2_8taxa.R) to generate curves demonstrated in Fig. 5, S2d, s2c and S6c.
+   - [8leaves.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves.txt), [8leaves_CONS.txt](https://github.com/noraracht/subsample_support_scripts/blob/main/8leaves_CONS.txt), [original_branch_length_bal.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/original_branch_length_bal.csv) and [original_branch_length_cat.csv](https://github.com/noraracht/subsample_support_scripts/blob/main/original_branch_length_cat.csv) contain support and branch length data for 8 taxa tree simulations. These files serves as an input into [fel_trees_summary_v2_8taxa.R](https://github.com/noraracht/subsample_support_scripts/blob/main/fel_trees_summary_v2_8taxa.R) to generate curves demonstrated in Fig. 5, S2d, S2c and S6c.
      
 
 * Phylogenetic inference on real data
